@@ -7,6 +7,6 @@ date: 2015-11-01
 2nd post [short draft; more to come]:
 
 ***
-<bPeter Doherty</b> - _The Knowledge Wars_
+<b>Peter Doherty</b> - _The Knowledge Wars_
 
 A handbook for evidence-based reasoning.
