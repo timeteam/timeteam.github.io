@@ -4,7 +4,7 @@ title: "David Deutsch - The Beginning of Infinity"
 date: 2015-11-01
 ---
 
-First post:
+First post [short draft; more to come]:
 *David Deutsch* - _The Beginning of Infinity_
 
 ***
