@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kazuo Ishiguro - The Remains of the Day"
-date: 2015-06-13
+date: 2015-11-11
 ---
 
 [short draft; more to come]:
