@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Stephen Pinker - The Better Angels of our Nature"
 date: 2015-09-01
