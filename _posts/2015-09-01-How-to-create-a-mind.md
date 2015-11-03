@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Ray Kurzweil - How to create a mind"
 date: 2015-09-01
