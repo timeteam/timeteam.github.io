@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charles Pellegrino - Ghosts of Vesuvius"
-date: 2007-05-01
+date: 2009-07-01
 ---
 
 [short draft; more to come]:
