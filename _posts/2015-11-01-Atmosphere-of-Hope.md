@@ -4,7 +4,7 @@ title: "Tim Flannery - Atmosphere of Hope"
 date: 2015-11-01
 ---
 
-3rd post [short draft; more to come]:
+
 
 ***
 
