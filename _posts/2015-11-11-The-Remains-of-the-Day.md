@@ -4,7 +4,7 @@ title: "Kazuo Ishiguro - The Remains of the Day"
 date: 2015-11-11
 ---
 
-[short draft; more to come]:
+
 
 ***
 <b>Kazuo Ishiguro</b> 2005. _The Remains of the Day_. London: Faber and Faber. 
