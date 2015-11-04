@@ -4,7 +4,6 @@ title: "Kazuo Ishiguro - The Buried Giant"
 date: 2015-06-13
 ---
 
-[short draft; more to come]:
 
 ***
 <b>Kazuo Ishiguro</b> - _The Buried Giant_
