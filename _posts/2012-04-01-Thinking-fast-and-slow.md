@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daniel Kahneman - Thinking, fast and slow"
-date: 2015-09-01
+date: 2012-04-01
 ---
 
 
