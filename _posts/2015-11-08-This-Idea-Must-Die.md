@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "John Brockman - This Idea Must Die"
-date: 2015-09-30
+date: 2015-11-08
 ---
 
 ***
