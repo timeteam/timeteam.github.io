@@ -13,6 +13,4 @@ No fewer that 175 chapters by an eclectic variety of scientists and other academ
 
 For the cosmologically-inclined, physicists such as Lee Smolin, Max Tegmark and David Deutsch are included, but so are Alan Alda and Ian McEwan along with a host unknown to me.  There are economists, biologists, psychologists, and some who are hard to categorise.  It would be surprising if any single reader knew all the contributors, which gets the volume a big tick.
 
-Chapters are typically 2-3 pages and very conducive to bed-time reading. 
-
-More to come...
+Chapters are typically 2-3 pages and very conducive to bed-time reading. However, the acute brevity of each chapter is also a weakness.  There are only two and a bit pages of supporting references and most chapter authors have provided none at all and the reader who wants supporting information (or alternative views) will need to do their own searching.  Many chapters have the flavour of being controversial for the sake of it.  A bit more depth (and some further reading suggestions) would alleviate this.  For example <b>Max Tegmark</b> devotes his chapter to the thought that infinity is no longer a useful concept. Given that so much recent writing on advances in cosmology and the search for a "theory of everything" seems to depend heavily on arguments  
