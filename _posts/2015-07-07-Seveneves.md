@@ -5,7 +5,7 @@ date: 2015-07-07
 ---
 
 ***
-<b>Neal Stephenson</b> - _Seveneves_
+<b>Neal Stephenson</b> - _Seveneves_  London: Harper Collins.  880 pp.
 
 ***
 
@@ -22,3 +22,5 @@ So the novel could be read as an fugue on the past history of humanity, where bo
 Ultimately the separate lineages in Neal Stephenson's novel come together again, but not peacefully and in barely controlled tolerance.  Read any current news bulletin and it is hard to escape the thought that Stephenson's novel is an analogy of the invention and perseverance, but also the violent racial history that modern humanity confronts itself with.
 
 For all it's faults, or perhaps because of them, I often find myself thinking back on different themes.  A very good read.
+
+It is worth mentioning that [Neal Stephenson's own spin on his novel](http://www.nealstephenson.com/seveneves.html) is rather different.  He would know.   
