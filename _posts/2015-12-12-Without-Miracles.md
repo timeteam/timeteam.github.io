@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gary Cziko - Without Miracles"
-date: 2015-12-12
+date: 2015-11-18
 published: false
 ---
 
@@ -12,4 +12,4 @@ published: false
 
 ***
 
-xxx
+A bit too "opinionated-philosophy from a quick skim .  Low priority to read.
