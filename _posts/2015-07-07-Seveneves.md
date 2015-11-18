@@ -17,7 +17,7 @@ The intrusion of a power-hungry self-interested politician (a female US Presiden
 
 After the catastrophe eliminates life on Earth, and subsequent violent personal upheavals among the survivors, finally a tiny surviving population of humanity prevails, survives.  These lineages each head off in evolutionarily distinct directions in scenarios that explore some of the enduring themes in evolutionary biology.  Most (the "Seven Eves") are driven by the founder effect  - the engineered genetic differences of the founding mothers of each race.  But two more lineages survive, each of which also diverges, but those differences are driven by natural selection operating on characteristics adaptive to the extreme environments where they are confined. 
 
-So the novel could be read as an fugue on the past history of humanity, where bottlenecks, a hypothesised "African Eve", adaptation to extreme environments, and genetic drift have all happend to our ancestral populations.  
+So the novel could be read as an fugue on the past history of humanity, where bottlenecks, a hypothesised "African Eve", adaptation to extreme environments, and genetic drift have all happend to our own ancestral populations.  
 
 Ultimately the separate lineages in Neal Stephenson's novel come together again, but not peacefully and in barely controlled tolerance.  Read any current news bulletin and it is hard to escape the thought that Stephenson's novel is an analogy of the invention and perseverance, but also the violent racial history that modern humanity confronts itself with.
 
