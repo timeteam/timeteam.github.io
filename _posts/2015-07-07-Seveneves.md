@@ -9,7 +9,7 @@ date: 2015-07-07
 
 ***
 
-Epic science fiction story as humanity passes through an evolutionary bottleneck.  Like most Stephenson books, too long as he can't resist demonstrating how thoroughly well-informed he has made himself in the physics and engineering principles that much of the action revolves around.  The ideas are good though, and the stories and personal tragedies and triumphs of the main characters carry the yarn through some unconvincing scenarios.  Such as the (largely) orderley response of most nations and most of the population after the realisation that 99% of humanity is doomed.  Hopefully we never do the experiment, but I reckon a _Lord of the Flies_ type of scenario on a global scale would be more likely.
+Epic science fiction yarn as humanity passes through an evolutionary bottleneck.  Like most Stephenson books, too long as he can't resist demonstrating how thoroughly well-informed he has made himself in the physics and engineering principles that much of the action revolves around.  The ideas are good though, and the stories and personal tragedies and triumphs of the main characters carry the narrative through some unconvincing scenarios.  Such as the (largely) orderley response of most nations and most of the population after the realisation that 99% of humanity is doomed.  Hopefully we never do the experiment, but I reckon a _Lord of the Flies_ type of scenario on a global scale would be more likely.
 
 (The nature of the catastrophe that causes the Moon to fragment and thus destory Earth is never explained.  Knowing the _Cryptonomicon_ series of novels, I'm wondering if Stephenson has left that thread hanging for future development.)
 
