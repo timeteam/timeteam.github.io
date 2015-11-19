@@ -12,7 +12,11 @@ published: true
 ***
 
 
-Not as interesting as I initially hoped, but very interesting in parts.  A popular account of Bayesian reasoning (if that is not an oxymoron).  One of the telling conclusions was that people’s surveyed predictions about sharemarket outlook and economic confidence generally are highly inaccurate.  You are much better off doing the reverse of what “market confidence” would suggest.  [A Nature article on the same theme](http://www.nature.com/srep/2013/130425/srep01684/full/srep01684.html)  is of similar interest.
+Not compelling throughout, but very interesting in parts.  This is a popular account of reasoning (prediction) based on Bayesian statistics.  The first few chapters explore subjects where most of us have great difficulty extracting useful predictions (signal) from the vast amounts of data available (noise).  Such subjects include sports statistics (baseball), weather and climate, and earthquake prediction.
+
+The second half of the book explains and applies Bayes' Theorem to these problems.   I think it was only by reading _The Signal and the Noise_ that I came to understand Bayesian reasoning and it's wide applications.  It is still salutory that such a simple idea (modifying a prior probability based on better information as it comes to hand) works as well as it does.  Even if the prior probability is a poorly-informed guess. 
+
+One of the telling conclusions was that people’s surveyed predictions about sharemarket outlook and economic confidence generally are highly inaccurate.  You are much better off doing the reverse of what “market confidence” would suggest.  [A Nature article on a related  theme](http://www.nature.com/srep/2013/130425/srep01684/full/srep01684.html)  is also of interest.
  
 [incomplete, more to come]
  
