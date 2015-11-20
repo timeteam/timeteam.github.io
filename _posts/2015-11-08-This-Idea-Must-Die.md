@@ -11,7 +11,7 @@ date: 2015-11-08
 
 No fewer that 175 chapters by an eclectic variety of scientists and other academics, novelists and publishers. Each was asked to write on a scientific theory that is blocking progress.  These chapters were apparently first published at the <a href="http://edge.org/"> Edge Foundation</a> web site where much similar material can be found and from which many dozens of new reading directions will emerge.  As with this book.
 
-For the cosmologically-inclined, physicists such as Lee Smolin, Max Tegmark and David Deutsch are included, but so are Alan Alda and Ian McEwan along with a host unknown to me.  There are economists, biologists, psychologists, and some who are hard to categorise.  It would be surprising if any single reader knew all the contributors, which gets the volume a big tick.
+For the cosmologically-inclined, physicists such as **Lee Smolin**, **Max Tegmark** and **David Deutsch** are included, but so are **Alan Alda** and **Ian McEwan** along with a host unknown to me.  There are economists, biologists, psychologists, and some who are hard to categorise.  It would be surprising if any single reader knew all the contributors, which gets the volume a big tick.
 
 Chapters are typically 2-3 pages and very conducive to bed-time reading. However, the acute brevity of each chapter is also a weakness.  There are only two and a bit pages of supporting references for the whole volume and most chapter authors have provided none at all so the reader who wants supporting information (or alternative views) will need to do their own searching.  Many chapters have the flavour of being controversial for the sake of it.  A bit more depth (and some further reading suggestions) would alleviate this.  
 
