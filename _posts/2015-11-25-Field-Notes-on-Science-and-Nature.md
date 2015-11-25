@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael R. Canfield (ed.) - Field Notes on Science and Nature"
+title: "Michael R. Canfield - Field Notes on Science and Nature"
 date: 2015-11-25
 published: true
 ---
