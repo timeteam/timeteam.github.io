@@ -1,1 +1,25 @@
-xxxxxxxxxxxxxxxxxxxx
+---
+layout: default
+title: Robin Wilson's books and reading
+---
+
+	<head>
+		<title>Robin Wilson books and reading notes</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	
+	<h1>{{ page.title }}</h1>
+	
+	<p>The first of these pages were created in November 2015 but post dates are the date I first read the book, not the date the file was posted.  Some dates are speculative (books on the in-tray).  Many are as yet empty, to be gradually filled from emails and other sources. 
+	
+	Site to-do list includes adding: categories or tags for better indexing; search facility.
+	
+	
+	<ul class="posts">
+
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
