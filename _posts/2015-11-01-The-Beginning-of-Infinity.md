@@ -2,15 +2,21 @@
 layout: post
 title: "David Deutsch - The Beginning of Infinity"
 date: 2015-11-01
+published: false
 ---
 
-First post [short draft; more to come]:
+
 
 ***
 
 <b>David Deutsch</b> 2011.  _The Beginning of Infinity. Explanations that Transform the World_. London: Penguin. 487 pp.
 
 ***
+
+
+
+*David Deutsch*'s book is a long essay addressing  chapter by chapter different elements of the historical development of our knowledge and the math
+
 
 Fiercely logical.  I've been chewing away at this since <a href="https://skiptonwoolleyresearch.wordpress.com/"> Skip Woolley</a> gave it to me in December 2014.  Can't be read in a hurry, deserves much thought. Each chapter concludes with a short summary - useful homework for readers, like me, who dip into diversionary science finction along the journey.  A short summary of _The Beginning of Infinity_ might be: 
 
