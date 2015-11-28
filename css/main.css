@@ -41,11 +41,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-ul.topics { 
+ul.topic { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul.topics li {
+ul.topic li {
     list-style: none;
 }
