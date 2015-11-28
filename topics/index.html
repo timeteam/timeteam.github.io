@@ -16,14 +16,16 @@ title: Topics
   {% for topic in site.topics limit:3 %}
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   <p>	
+  <ul class="posts">
     <li>
       <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
-      <li><span><a href="{{ topic.url }}">{{ **topic.title** }}</a></span> » 
-            <dd>{{ topic.short-description }}</dd>
+      
+      <span><a href="{{ topic.url }}">{{ **topic.title** }}</a></span> » 
+            {{ topic.short-description }}
           </li>
           </p>
   {% endfor %}
-
+  </ul>
 <!-- the following from index.html in posts
 	<head>
 		<title>Robin Wilson books and reading notes</title>
