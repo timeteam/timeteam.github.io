@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "David Deutsch - The Beginning of Infinity. Explanations that transform our World."
+title: "David Deutsch - The Beginning of Infinity."
 date: 2014-12-12
 published: true
 ---
 
 
+
+***
+<b>David Deutsch</b>  2011. _The Beginning of Infinity. Explanations that transform the World_  London: Allen Lane.  485 pp.
+
+***
 
 
 _The Beginning of Infinity_ is a long essay setting out our pursuit of good explanations through an exposition of the growth of our knowledge, and the mathematical and physical conditions of our universe. A short summary of might be: Are the limits of our understanding infinite?  If so, literally anything is not just possible, but inevitable.
