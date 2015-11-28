@@ -8,7 +8,7 @@ published: true
 
 
 ***
-<b>David Deutsch</b>  2011. _The Beginning of Infinity. Explanations that transform the World_  London: Allen Lane.  485 pp.
+<b>David Deutsch</b>  2011. _The Beginning of Infinity. Explanations that transform the World_.  London: Allen Lane.  485 pp.
 
 ***
 
