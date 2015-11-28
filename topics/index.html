@@ -3,21 +3,14 @@ layout: default
 title: Robin Wilson's topics
 ---
 
-	<head>
-		<title>Robin Wilson topics</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	
-	<h1>{{ page.title }}</h1>
-	
-	<p>Topics empty. So far.
-	
-	
-	<ul class="posts">
+<div class="home">
 
+  <h1>Topics</h1>
 
-	  {% for topics in site.topics %}
-	    <li><span>{{ topics.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ topics.title }}">{{ topics.title }}</a></li>
-	  {% endfor %}
-	</ul>
+  {% for topic in site.topics limit:3 %}
+    <li>
+      <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/>
+      <a href="{{ topic.url }}">{{ topic.title }}</a>
+      <p>{{ topic.short-description }}</p>
+    </li>
+  {% endfor %}
