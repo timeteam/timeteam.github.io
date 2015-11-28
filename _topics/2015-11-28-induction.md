@@ -1,6 +1,6 @@
 ---
 layout: default
-<!--- layout: topic --->
+layout: topic 
 title: "Induction"
 date: 2015-11-26
 published: true
