@@ -14,6 +14,7 @@ title: Topics
 	<p>Testing jekylls "collections" feature.  format fine tuning needed...
 
   {% for topic in site.topics limit:3 %}
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
     <li>
       <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
       <a href="{{ topic.url }}">{{ **topic.title** }}</a>
