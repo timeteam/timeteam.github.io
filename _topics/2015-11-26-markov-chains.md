@@ -1,5 +1,4 @@
 ---
-layout: topic
 title: "Markov chains"
 date: 2015-11-26
 published: true
