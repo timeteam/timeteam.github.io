@@ -21,6 +21,7 @@ title: Topics
       <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
       {% for topic in site.topics  %}
       <a href="{{ topic.url }}">{{ **topic.title** }}</a> » {{ topic.short-description }}
+           {% endfor %}
           </li><br>
-      {% endfor %}
+ 
   </ul>
