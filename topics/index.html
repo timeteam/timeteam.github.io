@@ -15,11 +15,13 @@ title: Topics
 
   {% for topic in site.topics limit:3 %}
   <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <p>	
     <li>
       <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
       <a href="{{ topic.url }}">{{ **topic.title** }}</a>
             <dd>{{ topic.short-description }}</dd>
           </li>
+          </p>
   {% endfor %}
 
 
