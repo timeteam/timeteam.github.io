@@ -11,7 +11,7 @@ title: Topics
 	
 	<h1>{{ page.title }}</h1>
 	
-	<p>Testing jekylls "collections" feature.  More format fine tuning needed...
+	<p>Making use of jekyll collections ...
 
   
   <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -20,8 +20,7 @@ title: Topics
     <li>
       <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
       {% for topic in site.topics  %}
-      <a href="{{ topic.url }}">{{ **topic.title** }}</a> » 
-            <dd>{{ topic.short-description }}</dd>
+      <a href="{{ topic.url }}">{{ **topic.title** }}</a> » {{ topic.short-description }}
           </li>
           </p>
   {% endfor %}
