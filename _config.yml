@@ -1,3 +1,5 @@
 name: "Robin Wilson"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+collections:
+  - topics
