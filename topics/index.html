@@ -13,14 +13,14 @@ title: Topics
 	
 	<p>Testing jekylls "collections" feature.  More format fine tuning needed...
 
-  {% for topic in site.topics limit:3 %}
+  {% for topic in site.topics limit:2 %}
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   <p>	
   <ul class="posts">
     <li>
       <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
       
-      <span><a href="{{ topic.url }}">{{ **topic.title** }}</a></span> » 
+      <a href="{{ topic.url }}">{{ **topic.title** }}</a> » 
             {{ topic.short-description }}
           </li>
           </p>
