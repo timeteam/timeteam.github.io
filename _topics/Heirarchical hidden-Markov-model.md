@@ -1,9 +1,4 @@
 ---
-thumbnail-path: "http://www.placehold.it/100x100"
-title: 
-
-
----
 layout: default
 title: "Heirarchical hidden Markov model"
 date: 2015-11-26
