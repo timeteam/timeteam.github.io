@@ -3,3 +3,6 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 collections:
   - topics
+collections:
+  topics:
+    output: true
