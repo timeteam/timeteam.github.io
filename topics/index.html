@@ -5,20 +5,20 @@ title: Topics
 
 	<head>
 		<title>Topics</title>
-		<!-- link to main stylesheet -->
+
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	
 	<h1>{{ page.title }}</h1>
 	
-	<!--- Making use of jekyll collections ... --->
+
 
   
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   
   <ul class="posts">
     <li>
-      <!--- <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/> --->
+
       {% for topic in site.topics  %}
       <a href="{{ topic.url }}">{{ **topic.title** }}</a> » {{ topic.short-description }}
            {% endfor %}
