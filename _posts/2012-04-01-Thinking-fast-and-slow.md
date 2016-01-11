@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Non-fiction
 title: "Daniel Kahneman - Thinking, fast and slow"
 date: 2012-04-01
 ---
