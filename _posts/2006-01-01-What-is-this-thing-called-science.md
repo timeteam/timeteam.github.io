@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Non-fiction
 title: "A.F. Chalmers - What is this thing called Science?"
 date: 2006-01-01
 published: false
