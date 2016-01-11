@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peter Doherty - The Knowledge Wars"
-date: 2015-11-01
+date: 2015-12-28
 ---
 
 
