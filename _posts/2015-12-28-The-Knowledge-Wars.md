@@ -16,6 +16,6 @@ There are other shorter chapters including one on citizen science (which seems a
 
 The index is so poor that it is very difficult to find part-remembered passages. 
 
-Scientists who read this book will know of many  better examples from their own disciplines that make the same points and will probably wish for a a broader treatment.  However scientists are not the target audience for this book, and a non-scientist reader who absorbs the main messages will surely be well-placed to interpret science as it is presented in the press.  This is **Doherty**'s main aim.  
+Scientists who read this book will know of many  better examples from their own disciplines that make the same points and will probably wish for a broader treatment.  However scientists are not the target audience for this book, and a non-scientist reader who absorbs the main messages will surely be much better placed to interpret science as it is presented in the press.  This is **Doherty**'s main aim.  
 
 Curious non-scientists will also find the Appendices useful: _Checking out a scientist_, _Reading the science literature_, _Open access and the economics of publishing_ and _Peer review_.
