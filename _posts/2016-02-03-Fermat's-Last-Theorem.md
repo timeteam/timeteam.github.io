@@ -14,14 +14,8 @@ Not just a popular account of the efforts of multiple mathematicians to solve *P
 
 Fermat's Last Theorem was more properly a conjecture, since from the time *Fermat* stated it in 1637 as a marginal annotation in an older text, and for the next 358 years, it remained unproven.  The Theorem states:
 
->there are no whole number solutions for the equation 
-
-\( x^2 + y^2 = r^2 \)
+>there are no whole number solutions for the equation x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>
 
 >where n is any number greater than 2
 
-(If n=2 then the Theorem is Pythagoras' Theorem : 
-
-$ x^2 + Y^2 = z^2 $ 
-
-)
+(If n=2 then the Theorem is Pythagoras' Theorem: x<sup>2</sup> + Y<sup>2</sup> = z<sup>2</sup>.)
