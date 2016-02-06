@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gary Cziko - Without Miracles"
+title: "Gary Cziko - Without Miracles*"
 date: 2015-11-18
 published: false
 ---
@@ -12,4 +12,4 @@ published: false
 
 ***
 
-A bit too "opinionated-philosophy from a quick skim .  Low priority to read.
+A bit too "opinionated-philosophy" from a quick skim .  Low priority to read.
