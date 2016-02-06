@@ -16,7 +16,7 @@ Fermat's Last Theorem was more properly a conjecture, since from the time *Ferma
 
 >there are no whole number solutions for the equation 
 
-$$x^{n} + Y^n^ = z^n$$
+$$x^{n} + Y^{n} = z^{n}$$
 
 >where n is any number greater than 2
 
