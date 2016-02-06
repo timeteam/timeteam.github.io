@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prue Shaw - Reading Dante"
+title: "Prue Shaw - Reading Dante*"
 date: 2015-11-01
 ---
 
