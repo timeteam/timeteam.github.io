@@ -20,4 +20,8 @@ Fermat's Last Theorem was more properly a conjecture, since from the time *Ferma
 
 >where n is any number greater than 2
 
-(If n=2 then the Theorem is Pythagoras' Theorem : $ x^2 + Y^2 = z^2 $ )
+(If n=2 then the Theorem is Pythagoras' Theorem : 
+
+$ x^2 + Y^2 = z^2 $ 
+
+)
