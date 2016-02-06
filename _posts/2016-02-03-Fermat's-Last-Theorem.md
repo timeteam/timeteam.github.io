@@ -3,7 +3,7 @@ layout: post
 title: "Simon Singh - Fermat's Last Theorem"
 date: 2016-02-03
 ---
-
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ***
 <b>Simon Singh</b> 2005. _Fermat's Last Theorem_ London: Harper Collins. 340 pp.
