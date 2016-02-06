@@ -9,7 +9,7 @@ date: 2016-02-03
 
 ***
 
-Not just a popular account of the efforts of multiple mathematicians to solve **Pierre de Fermat**'s Last Theorem, but, and for me primarily, a splendid introduction to the rarified atmosphere of mathematicians working on number theory. markup
+Not just a popular account of the efforts of multiple mathematicians to solve **Pierre de Fermat**'s Last Theorem, but, and for me primarily, a splendid introduction to the rarified atmosphere of mathematicians working on number theory.
 
 **Fermat**'s Last Theorem was more properly a conjecture, since from the time **Fermat** stated it in 1637 as a marginal annotation in an older text, and for the next 358 years, it remained unproven.  The Theorem states:
 
