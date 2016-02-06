@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tim Flannery - Atmosphere of Hope"
+title: "Tim Flannery - Atmosphere of Hope*"
 date: 2015-11-01
 ---
 
