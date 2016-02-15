@@ -12,6 +12,6 @@ The human cortex and human consciousness is a pattern matching device that can b
 
 More to come...
 
-Recently acquired in the same theme but not yet read:
+Recently acquired in the same theme but not yet read, this book by another researcher in the same group:
 
-**Roberto Pieraccini** 2012.  _The Voice in the Machine_  Cambridge, Massachusetts: MIT Press Books.
+**Roberto Pieraccini** 2012.  _The Voice in the Machine_.  Cambridge, Massachusetts: MIT Press Books. 325 pp.
