@@ -3,7 +3,7 @@ layout: post
 title: "Kazuo Ishiguro - The Remains of the Day"
 date: 2016-02-12
 ---
-
+  
 ***
 <b>Kazuo Ishiguro</b> 2005. _The Remains of the Day_. London: Faber and Faber. 258 pp.
 
