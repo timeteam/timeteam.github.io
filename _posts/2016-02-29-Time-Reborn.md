@@ -11,7 +11,7 @@ published: TRUE
 
 ***
 
-In this book **Lee Smolin** makes the case that, contrary to the views of **Einstein** and **Leibniz** (and most modern cosmologists), time is _not_ a relative quantity in a universe where both space and time are distorted by gravity.  Instead, **Smolin** claims that time is the only fundamental property of the universe and that everything else (space, gravity, and the forces described by **Newton** **Einstein** and quantum mechanics) are emergent properties of an as-yet undiscovered universal physical law.   He claims that apart from time, everything else that surrounds us, and that we think we are familiar with, is in some way illusory.   The flow of moments that make up our perception of time, in contrast, is fundamental  to understanding reality.
+In this book **Lee Smolin** makes the case that, contrary to the views of **Einstein** and **Leibniz** (and most modern cosmologists), time is _not_ a relative quantity in a universe where both space and time are distorted by gravity.  Instead, **Smolin** claims that time is the only fundamental property of the universe and that everything else (space, gravity, and the forces described by **Newton**, **Einstein** and quantum mechanics) are emergent properties of an as-yet undiscovered universal physical law.   He claims that apart from time, everything else that surrounds us, and that we think we are familiar with, is in some way illusory.   The flow of moments that make up our perception of time, in contrast, is fundamental  to understanding reality.
 
 In the Preface, **Smolin** puts forward the following hypotheses that are developed from his asserstion that time is the only fundamental property of reality:
 
