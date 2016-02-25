@@ -24,4 +24,4 @@ In the Preface, **Smolin** puts forward the following hypotheses that are develo
 These hypotheses are to be revisited during the course of the book ...
 
 
-xxx
+[incomplete]
