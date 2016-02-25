@@ -13,15 +13,13 @@ published: true
 
 In this book **Lee Smolin** makes the case that, contrary to the views of **Einstein** and **Leibniz** (and most modern cosmologists), time is _not_ a relative quantity in a universe where both space and time are distorted by gravity.  Instead, **Smolin** claims that time is the only fundamental property of the universe and that everything else (space, gravity, and the forces described by **Newton**, **Einstein** and quantum mechanics) are emergent properties of an as-yet undiscovered universal physical law.   He claims that apart from time, everything else that surrounds us, and that we think we are familiar with, is in some way illusory.   The flow of moments that make up our perception of time, in contrast, is fundamental  to understanding reality.
 
-In the Preface, **Smolin** puts forward the following hypotheses that are developed from his asserstion that time is the only fundamental property of reality:
+In the Preface, **Smolin** puts forward the following hypotheses that are developed from his assertion that time is the only fundamental property of reality:
 
   - Whatever is real in our universe is real in a moment of time, which is one of a succession of moments.
   - The past was real but is no longer real.  We can, however, interpret and analyse the past, because we find evidence of past processes in the present.
-  - The future does not yet exist and is therefore open.  We dcfan reasonably infer some predictions, but we cannot predict the future completely.  Indeed, the future can produce phenomena that are genuinely novel, in the sense that no knowledge of the past could have anticipated them.
+  - The future does not yet exist and is therefore open.  We can reasonably infer some predictions, but we cannot predict the future completely.  Indeed, the future can produce phenomena that are genuinely novel, in the sense that no knowledge of the past could have anticipated them.
   - Nothing transcends time, not even the laws of nature.  Laws are not timeless.  Like everything else, they are features of the present, and they can evolve over time.
   
-  
 These hypotheses are to be revisited during the course of the book ...
-
 
 [incomplete]
