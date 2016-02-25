@@ -15,8 +15,8 @@ In this book **Lee Smolin** makes the case that, contrary to the views of **Eins
 
 In the Preface, **Smolin** puts forward the following hypotheses that are developed from his asserstion that time is the only fundamental property of reality:
 
-  > Whatever is real in our universe is real in a moment of time, which is one of a succession of moments.
-  > The past was real but is no longer real.  We can, however, interpret and analyse the past, because we find evidence of past processes in the present.
+  > *Whatever is real in our universe is real in a moment of time, which is one of a succession of moments.
+  > *The past was real but is no longer real.  We can, however, interpret and analyse the past, because we find evidence of past processes in the present.
   >
   >
 
