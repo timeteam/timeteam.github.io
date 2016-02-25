@@ -15,10 +15,10 @@ In this book **Lee Smolin** makes the case that, contrary to the views of **Eins
 
 In the Preface, **Smolin** puts forward the following hypotheses that are developed from his asserstion that time is the only fundamental property of reality:
 
-  -Whatever is real in our universe is real in a moment of time, which is one of a succession of moments.
-  -The past was real but is no longer real.  We can, however, interpret and analyse the past, because we find evidence of past processes in the present.
-  -The future does not yet exist and is therefore open.  We dcfan reasonably infer some predictions, but we cannot predict the future completely.  Indeed, the future can produce phenomena that are genuinely novel, in the sense that no knowledge of the past could have anticipated them.
-  -Nothing transcends time, not even the laws of nature.  Laws are not timeless.  Like everything else, they are features of the present, and they can evolve over time.
+  - Whatever is real in our universe is real in a moment of time, which is one of a succession of moments.
+  - The past was real but is no longer real.  We can, however, interpret and analyse the past, because we find evidence of past processes in the present.
+  - The future does not yet exist and is therefore open.  We dcfan reasonably infer some predictions, but we cannot predict the future completely.  Indeed, the future can produce phenomena that are genuinely novel, in the sense that no knowledge of the past could have anticipated them.
+  - Nothing transcends time, not even the laws of nature.  Laws are not timeless.  Like everything else, they are features of the present, and they can evolve over time.
   
   
 These hypotheses are to be revisited during the course of the book ...
