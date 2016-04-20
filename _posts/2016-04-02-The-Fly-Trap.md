@@ -23,7 +23,8 @@ Then, when I was almost ready for a second time to abandon the book, yet again a
   >"Wegener's theory was humbug.  The earth's  crust, he insisted, was far too thick.  No force on earth could be strong enough to propel such a sideways migration.  Never.  He found particularly ridiculous the piece of the theory that said the Indian subcontinent had come whizzing along from the south with such force that the collision with the rest of Asia had pushed up the Himalayas and the Tibetan plateau.  Not a chance."
 
  **Malaise** in his own words (p. 213):  
- "Scientists of to-day, be it geologists, geophysicists, or oceanographers, are so overspecialized that they master only a limited sector of their own branch.  Outside this sector they hardly dare to express an opinion.  The fundamental theories on which, for instance, geology is based have mostly been in use for generations and have in their mind ceased to be theories and have attained almost the standing of axioms."
+
+> "Scientists of to-day, be it geologists, geophysicists, or oceanographers, are so overspecialized that they master only a limited sector of their own branch.  Outside this sector they hardly dare to express an opinion.  The fundamental theories on which, for instance, geology is based have mostly been in use for generations and have in their mind ceased to be theories and have attained almost the standing of axioms."
 
 **Sjöberg** again (p. 216): 
 "When everything is said and done, the days of really revolutionary breakthroughs are perhaps not over.  Maybe, sooner or later, someone will sweep Wegener right out of the door."
