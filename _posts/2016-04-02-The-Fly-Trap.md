@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Fredrik_Sjöberg - The Fly Trap"
+title: "Fredrik Sjöberg - The Fly Trap"
 date: 2016-04-02
 ---
 
 
 ***
-<b>Fredrik_Sjöberg</b> 2006. _The Fly Trap_. [Translated from the Swedish by Thomas Teal] New York: Pantheon Books. 278 pp.
+<b>Fredrik Sjöberg</b> 2006. _The Fly Trap_.  New York: Pantheon Books. 278 pp. Translated from the Swedish by Thomas Teal.
 
 ***
 
