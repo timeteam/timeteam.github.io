@@ -18,7 +18,8 @@ On another level, the author gradually leads the reader to believe that this is 
 
 Then, when I was almost ready for a second time to abandon the book, yet again an unexpected reward for persistence:  in Chapter 14 it is revealed that **René Malaise** rejected the theory of plate tectonics, which was only recently becoming widely accepted.  Although he also held some loopy ideas about Atlantis and other things, **Malaise** wasn't totally wrong about everything (who is?).  Some quotes:  
 
- **Malaise** in **Sjöberg**'s words (p. 205):  
+ **Malaise** in **Sjöberg**'s words (p. 205):
+ 
  >Wegener's theory was humbug.  The earth's  crust, he insisted, was far too thick.  No force on earth could be strong >enough to propel such a sideways migration.  Never.  He found particularly ridiculous the piece of the theory that said >the Indian subcontinent had come whizzing along from the south with such force that the collision with the rest of Asia >had pushed up the Himalayas and the Tibetan plateau.  Not a chance.
 
  **Malaise** in his own words (p. 213):  
