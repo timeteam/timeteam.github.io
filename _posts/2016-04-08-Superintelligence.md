@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nick Bostrom - Superintelligence"
-date: 2016-05-08
+date: 2016-04-08
 published: true
 ---
 
