@@ -2,11 +2,12 @@
 layout: post
 title: "Nick Bostrom - Superintelligence"
 date: 2016-05-08
+published: true
 ---
 
 
 ***
-<b>Nick Bostrom</b> 2014. _Superintelligence. Paths, Dangers, Strategies._   Oxford: Oxford University Press. 328 pp.
+<b>Nick Bostrom</b> 2014. _Superintelligence. Paths, Dangers, Strategies_.  Oxford: Oxford University Press. 328 pp.
 
 ***
 
