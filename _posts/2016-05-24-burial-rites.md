@@ -18,7 +18,7 @@ Although based on actual historical events and people, this is still very much a
 
 >The events related in this book take place soon after the eruption of the volcano Laki in 1783, which resulted in the death of 80% of livestock and starvation of 25% of the human population.
 
->It would be interesting to seek out discussions of if and if so, how the harsh Icelandic environment might have promoted progressive social attitudes sooner than most of the rest of the world.  Another time... 
+>It would be interesting to seek out discussions of if and if so how the harsh Icelandic environment might have promoted progressive social attitudes sooner than most of the rest of the world.  Another time... 
 
 
 
