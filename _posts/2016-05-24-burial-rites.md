@@ -12,7 +12,7 @@ date: 2016-05-24
 
 Although based on actual historical events and people, this is still very much a novel.  On the face of it, **Agnes Magnúsdóttir**, co-accused of murder of two men, is the principal character whose story is slowly revealed.  However in my mind the harsh Iceland of the 1800s and Icelanders themselves overwhelmingly leave the most lasting impression.   In that spirit, a few notable observations on Iceland and Icelanders of the era are appropriate:
 
->Nearly all Icelanders have been literate since about 1800 (as <b>Hannah Kent</b> tells us in closing). By comparison, in Great Britain at about the same time 53% of the population were literate <A href="https://ourworldindata.org/literacy/">according to Max Roser</A>. (I haven't found historical statistics for Australia).
+>Nearly all Icelanders have been literate since about 1800 (as <b>Hannah Kent</b> tells us in closing). By comparison, in Great Britain at about the same time 53% of the population were literate <A href="https://ourworldindata.org/literacy/">according to Max Roser</A>. (I haven't found historical statistics for Australia.)
 
 >The final execution in Iceland was in 1830, the execution that is the subject of this novel. Capital punishment was abolished for most offences in Iceland in 1869 and abolished completely in 1928.  In Australia the final execution took place in 1967 (accompanied by wide levels of public outrage that ensured final repeal). Infamously, parts of the USA still think it is a good idea.
 
