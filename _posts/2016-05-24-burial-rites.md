@@ -22,7 +22,7 @@ Although based on actual historical events and people, this is still very much a
 
 
 
-Back to the novel. **Hannah Kent**'s sympathetic portrayal of **Agnes Magnúsdóttir** as a victim of injustice is not universally shared so the historical evidence must be lacking (evidently modern Icelanders still relate to the events of the novel, which have been the subject of film and of other books).  I think I would warm to the novel more if the portrayal of **Agnes** was more ambiguous and befitting of the evidence.  But then it isn't my novel. 
+Back to the novel. **Hannah Kent**'s sympathetic portrayal of **Agnes Magnúsdóttir** as a victim of injustice is not universally shared so the historical evidence must be lacking (evidently modern Icelanders still relate to the events of the novel, which have been the subject of film and of other books).  I think I would warm to the novel more if the portrayal of **Agnes** was more ambiguous and befitting of the evidence.  But then it is a novel. 
 
 
 
