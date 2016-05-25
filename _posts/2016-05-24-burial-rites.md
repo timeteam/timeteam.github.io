@@ -24,7 +24,7 @@ Back to the novel. **Hannah Kent**'s sympathetic portrayal of **Agnes Magnúsdó
 
 _Burial Rites_ could be interpreted as a celebration of relationships and how they build even (especially?) in the most adverse circumstances.  As, for example, between Agnes and the rural family who house her between her conviction and execution.  And as between Agnes and **Natan Ketilsson**, her lover and alleged murder victim.  But the depiction of life in 1800s Iceland is vivid, detailed and convincing (and evidently based on much historical research by the author), so much so that Iceland itself emerges strongly as a character in the novel.  And to me, the dominant one.  I read _Burial Rites_ as a celebration of how humans have not only survived in the most adverse environments and circumstances, but, in many parts of the world, managed to also build increasingly progressive societies with many morally sound characteristics.  Despite regular backwards steps, the overall trend so far seems clear (see **Steven Pinker** _The Better Angels of our Nature_; link to come). 
 
->Kate, whose copy of _Burial Rites_ I read, pointed me towards these splendid complementary recordings of the _Sagas_ by **Richard Fidler** **Kari Gislason** on <A href="http://www.abc.net.au/radionational/programs/earshot/features/saga-land/">ABC Radio National</A>.
+>Kate, whose copy of _Burial Rites_ I read, also pointed me towards these splendid complementary recordings of the _Sagas_ by **Richard Fidler** **Kari Gislason** on <A href="http://www.abc.net.au/radionational/programs/earshot/features/saga-land/">ABC Radio National</A>.
 
 
 
