@@ -10,7 +10,7 @@ date: 2014-03-23
 
 ***
 
-In 1872 an Assistant at the British Museum, **George Smith**, discovered the story of the Flood, more or less as described in the Book of Genesis, inscribed in cuneiform on a clay table found in Nineveh*.  The story of the Flood was known to the Assyrians and Babylonians more than a thousand years before the Bible.  The Old Testament scooped by an even older clay testament.  However, many questions remained unanswered, including how and when the story of the Flood was first told.  **Alan Finkel** fills some of these gaps with discovery and decoding of a new  cuneiform tablet brought to him at the British Museum.  _The Ark Before Noah_ tells the story.
+In 1872 an Assistant at the British Museum, **George Smith**, discovered the story of the Flood, more or less as described in the Book of Genesis, inscribed in cuneiform on a clay table found in Nineveh*.  The story of the Flood was known to the Assyrians and Babylonians more than a thousand years before the Bible.  The Old Testament scooped by an even older clay testament.  However, many questions remained unanswered, including how and when the story of the Flood was first told.  **Irving Finkel** fills some of these gaps with discovery and decoding of a new  cuneiform tablet brought to him at the British Museum.  _The Ark Before Noah_ tells the story.
 
 
 
