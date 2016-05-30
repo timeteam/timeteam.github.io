@@ -4,7 +4,6 @@ title: "Irving Finkel - The Ark Before Noah"
 date: 2014-03-23
 ---
 
-
 ***
 <b>Irving Finkel</b> 2014. _The Ark Before Noah. Decoding the story of the Flood_.  London: Hodder & Stoughton. 421 pp.
 
@@ -20,13 +19,15 @@ Another snippet. Cuneiform cannot be written with the left hand (which would era
 
 After all that (and much more), the story revealed by the Ark tablet is almost a postscript ...
 
-**Irving Finkel** has the splendid job descripton of curator of cuneiform at the British Museum.  Even more enviably, he also works on the history of board games.  His book is a delight and by turn humerous and sympathetic to his long gone subjects.  His is a very Zen attitude to cuneiform that is impossible not to warm to; in some sense he sees cuneiform as not really there at all, just a gap left in the clay by an ancient author, meaning derived not from the mark itself, but the shadow it casts.  And he injects just enough of himself to personalise and quicken the book, yet never taking centre stage away from the ancient Babylonians themselves.  And I cannot but relish a book that has not only appendices and endnotes, but endnotes _to_ the appendices. 
+**Irving Finkel** has the splendid job descripton of curator of cuneiform at the British Museum.  Even more enviably, he also works on the history of board games.  Among other achievemnts this "hobby" project led him to decode the rules for the _Royal Game of Ur_, where he no doubt would have been very much at home (despite the lack of opportunities to wear corduroy).  **Irving Finkel**'s book is a delight and by turn humorous and sympathetic to his long gone subjects.  His is a very Zen attitude to cuneiform that is impossible not to warm to; in some sense he sees cuneiform as not really there at all, just a gap left in the clay by an ancient author, meaning derived not from the mark itself, but the shadow it casts.  And he injects just enough of himself to personalise and quicken the book, yet never taking centre stage away from the ancient Babylonians themselves.  And I cannot but relish a book that has not only appendices and endnotes, but endnotes _to_ the appendices. 
 
 Relevant links:
 
 > <A href="http://www.britishmuseum.org/about_us/departments/staff/middle_east/irving_finkel.aspx">Irving Finkel's page at the British Museum</A>.
 
 ><A href="https://en.wikipedia.org/wiki/Nineveh">Nineveh</A>, in Mesopotamia, was one of the great cities of antiquity, and has an archaeological history dating from at least 3000 BC.  After 637 AD it was replaced by Mosul, which is on the opposite bank of the Tigris River, in modern day Iraq.  Numerous sackings and wars over many centuries left Nineveh in ruins, the modern battle by rival Islamic groups for Mosul is only the latest.).
+
+><A href="https://en.wikipedia.org/wiki/Royal_Game_of_Ur">The Royal Game of Ur</A>. 
 
 
 
