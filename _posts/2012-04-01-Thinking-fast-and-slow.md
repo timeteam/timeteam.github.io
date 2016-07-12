@@ -15,3 +15,9 @@ date: 2012-04-01
 One of those very rare cases where the description "compulsory reading" is deserved. Especially for those who labour under the misapprehension that humans are rational creatures.  Even (especially?) among those who might be thought to know better - scientists, judges - we are easily misled and only hear and see what we want.  Once we form an opinion, we treat further evidence as a menu, selecting only those items that confirm our expectations and ignoring the rest.
 
 (incomplete)...
+
+---
+date: 2016-07-12
+---
+
+Also see <a href="https://jasoncollins.org/2016/06/29/re-reading-kahnemans-thinking-fast-and-slow/">this second reading and review</a>.
