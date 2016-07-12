@@ -9,4 +9,4 @@ date: 2016-06-28
 
 ***
 
-Another somehwat plausible near-future disaster scenario.  This time China making war on - not a nearby soft target - but the US. Pearl Harbour again, if you please.      
+Another somehwat plausible near-future disaster scenario.  This time China making war on &emdash not a nearby soft target - but the US. Pearl Harbour again, if you please.      
