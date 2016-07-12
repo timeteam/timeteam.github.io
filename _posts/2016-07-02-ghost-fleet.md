@@ -9,4 +9,8 @@ date: 2016-06-28
 
 ***
 
-Another somehwat plausible near-future disaster scenario.  This time China making war on &mdash not a nearby soft target - but the US. Pearl Harbour again, if you please.      
+Another somehwat plausible near-future disaster scenario.  A bit of a page-turner, albeit highly predictable.  
+
+This time China making war on &mdash; not a nearby soft target &mdash; but the US. Pearl Harbour revisited, if you please.   Easy to tell this is written by a couple of Washington defense analysts.  Other ingredients include Chinese takeover of the digital environment thanks to hacked Chinese microchips now almost ubiquitous in the latest US military hardware; revival of analalogue military hardware (the "Ghost Fleet") and some retired personnel; a Hawaiian "mujahadeen"; Russia a largely passive ally of China; US-sponsored privateer retaking the space station.  The rest of the NATO world barely exists, beyond passing mention of the UK and Australia. 
+
+Likely to be taken up by Hollywood with Clint Eastwoon and Tommy Lee Jones trotted out again.
