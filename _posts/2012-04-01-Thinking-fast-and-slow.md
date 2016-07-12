@@ -18,6 +18,7 @@ One of those very rare cases where the description "compulsory reading" is deser
 
 ---
 date: 2016-07-12
+
 ---
 
 Also see <a href="https://jasoncollins.org/2016/06/29/re-reading-kahnemans-thinking-fast-and-slow/">this second reading and review</a>.
