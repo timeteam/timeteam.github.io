@@ -17,7 +17,7 @@ One of those very rare cases where the description "compulsory reading" is deser
 (incomplete)...
 
 ---
-date: 2016-07-12
+2016-07-12
 
 ---
 
