@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thomas Gold - Taking the Back off the Watch"
-date: 2016-08-01
+date: 2016-08-22
 ---
 
 ***
