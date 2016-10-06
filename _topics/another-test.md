@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Another test"
-date: 2015-11-29
+<!--  date: 2015-11-29 -->
 published: false
 short-description: "Another test"
 ---
