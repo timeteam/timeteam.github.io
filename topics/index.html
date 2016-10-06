@@ -22,9 +22,14 @@ title: Topics
   <ul class="posts">
     <li>
 
+	  {% for topic in site.topics %}
+	    <li><span>{{ topic.date | date_to_string }}</span> » <a href="{{ topic.url }}" title="{{ topic.title }}">{{ topic.title }}</a></li>
+	  {% endfor %}
+<!--
       {% for topic in site.topics  %}
       <a href="{{ topic.url }}">{{ **topic.title** }}</a> » {{ topic.short-description }} <br>
            {% endfor %}
+-->
           </li>
- 
+
   </ul>
