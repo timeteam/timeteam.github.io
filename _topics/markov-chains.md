@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markov chains"
-date: 2015-11-26
+<!--  date: 2015-11-29 -->
 published: false
 short-description: "Markov chains xxx"
 ---
