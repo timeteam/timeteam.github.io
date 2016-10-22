@@ -5,15 +5,21 @@ date:   2016-10-18
 category: 'jekyll and other software notes'
 ---
 
-The following sources were used to build this site:
+**The following sources were used to build this site**
 
 The <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a>
+
+<a href="http://jmcglone.com/guides/github-pages/">Jonathon McGlone's very clear explanation of jekyll and github pages</A>
 
 The main jekyll sources of course:
 [Jekyll docs][jekyll] 
 [Jekyll’s dedicated Help repository][jekyll-help].
 
-Assigning posts to multiple categories was easy but only when I realised that in "jekyll categories" != "category".  Thus this is legal 
+**Assigning posts to multiple categories** was easy but only when I realised that 
+
+"jekyll categories" != "category".  
+
+Thus this is legal 
 categories: ['The is a category', 'This is another category'] 
 
 and so is
@@ -22,8 +28,7 @@ category: ['A single category']
 but this is not:
 category:  ['The is a category', 'This is another category'] 
 
-
-but also these are useful:
+Also useful:
 
 <a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a></br>
 
