@@ -2,7 +2,7 @@
 layout: post
 title:  "Building this site"
 date:   2016-10-18
-category: 'software notes - jekyll, git, markdown etc'
+category: 'software for websites'
 ---
 
 ---
