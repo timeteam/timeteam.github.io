@@ -24,11 +24,12 @@ category:  ['The is a category', 'This is another category']
 
 
 but also these are useful:
-Documentation on <a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a>
 
-Documentation on <a href="https://amakelov.github.io/2015/11/24/multiple-categories-for-jekyll-posts.html">another solution</a>
+<a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a></br>
 
-Documentation on <a href="http://jekyllrb.com/docs/frontmatter/#predefined-global-variables">jekyll variables</a>
+<a href="https://amakelov.github.io/2015/11/24/multiple-categories-for-jekyll-posts.html">another solution</a>
+
+<a href="http://jekyllrb.com/docs/frontmatter/#predefined-global-variables">jekyll variables</a>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
