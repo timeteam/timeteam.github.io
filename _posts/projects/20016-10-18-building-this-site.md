@@ -31,7 +31,7 @@ and so does:
 category: ['A single category']
 {% endhighlight %}
 
-**but this does not**:is
+**but this does not**:
 
 {% highlight ruby %}
 category:  ['The is a category', 'This is another category'] 
