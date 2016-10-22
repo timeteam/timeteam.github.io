@@ -2,10 +2,12 @@
 layout: post
 title:  "Building this site"
 date:   2016-10-18
-category: 'jekyll and other software notes'
+category: 'software notes - jekyll, git, markdown etc'
 ---
 
+---
 **The following sources were used to build this site**
+---
 
 The <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a>
 
