@@ -10,6 +10,7 @@ category: fiction
 
 ***
 
+
 More cracking good science fiction.  Hard science fiction.
 
 Main premise:  It is a hard universe out there and alien contact is (of course) not going to be the starry-eyed utopian adventure portrayed by **Carl Sagan**, **Steven Spielberg**'s _ET_ and the like.  If there is other life, some of it will be far superior technologically and won't be wanting more upstart civilisations developing the same capabilities.  So don't go waving a torch around in the darkness ...
