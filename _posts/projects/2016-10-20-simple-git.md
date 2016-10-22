@@ -2,12 +2,14 @@
 layout: post
 title:  "git resources"
 date:   2016-10-20
-category: 'jekyll and other software notes'
+category: 'software notes - jekyll, git, markdown etc'
 ---
 
 
-
+---
 **Git and github resources**
+---
+
 
 Starting with the simplest:
 
