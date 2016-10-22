@@ -12,14 +12,14 @@ The <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a>
 <a href="http://jmcglone.com/guides/github-pages/">Jonathon McGlone's very clear explanation of jekyll and github pages</A>
 
 The main jekyll sources of course:
-[Jekyll docs][jekyll] 
+[Jekyll docs][jekyll] and 
 [Jekyll’s dedicated Help repository][jekyll-help].
 
-**Assigning posts to multiple categories** was easy but only when I realised that 
+**Assigning posts to multiple categories** was easy but only when I realised that in jekyll
 
-"jekyll categories" != "category".  
+"categories" != "category".  
 
-Thus, this is works as expected: 
+Thus, this works as expected: 
 
 {% highlight ruby %}
 categories: ['The is a category', 'This is another category'] 
@@ -39,7 +39,7 @@ category:  ['The is a category', 'This is another category']
 
 **Also useful on categories**:
 
-<a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a></br>
+<a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a>
 
 <a href="https://amakelov.github.io/2015/11/24/multiple-categories-for-jekyll-posts.html">another solution</a>
 
