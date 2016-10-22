@@ -6,8 +6,11 @@ category: 'software for websites'
 ---
 
 ---
+
 **Welcome to Jekyll**
+
 ---
+
 
 [From the creator of the <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a> ]
 
