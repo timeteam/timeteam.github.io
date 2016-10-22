@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll"
 date:   2015-04-09 11:23:32
-category: 'software notes - jekyll, git, markdown etc'
+category: 'software for websites'
 ---
 
 ---
