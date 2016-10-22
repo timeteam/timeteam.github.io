@@ -19,22 +19,33 @@ The main jekyll sources of course:
 
 "jekyll categories" != "category".  
 
-Thus this is legal 
+Thus, this is works as expected: 
+
+{% highlight ruby %}
 categories: ['The is a category', 'This is another category'] 
+{% endhighlight %}
 
-and so is
+and so does:
+
+{% highlight ruby %}
 category: ['A single category']
+{% endhighlight %}
 
-but this is not:
+**but this does not**:is
+
+{% highlight ruby %}
 category:  ['The is a category', 'This is another category'] 
+{% endhighlight %}
 
-Also useful:
+**Also useful on categories**:
 
 <a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a></br>
 
 <a href="https://amakelov.github.io/2015/11/24/multiple-categories-for-jekyll-posts.html">another solution</a>
 
 <a href="http://jekyllrb.com/docs/frontmatter/#predefined-global-variables">jekyll variables</a>
+
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
