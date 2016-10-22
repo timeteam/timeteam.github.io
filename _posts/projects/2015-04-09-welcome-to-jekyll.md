@@ -2,9 +2,12 @@
 layout: post
 title:  "Welcome to Jekyll"
 date:   2015-04-09 11:23:32
-category: 'jekyll and other software notes'
+category: 'software notes - jekyll, git, markdown etc'
 ---
 
+---
+**Welcome to Jekyll**
+---
 
 [From the creator of the <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a> ]
 
