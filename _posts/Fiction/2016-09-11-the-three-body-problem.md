@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cixin Liu - The Three-Body Problem"
-date: 2016-06-28
+date: 2016-09-11
 category: fiction
 ---
 
