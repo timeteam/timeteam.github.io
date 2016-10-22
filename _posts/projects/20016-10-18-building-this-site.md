@@ -6,8 +6,11 @@ category: 'software for websites'
 ---
 
 ---
+
 **The following sources were used to build this site**
+
 ---
+
 
 The <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a>
 
