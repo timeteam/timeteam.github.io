@@ -9,28 +9,28 @@ The following sources were used to build this site:
 
 The <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a>
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+The main jekyll sources of course:
+[Jekyll docs][jekyll] 
+[Jekyll’s dedicated Help repository][jekyll-help].
+
+Assigning posts to multiple categories was easy but only when I realised that in "jekyll categories" != "category".  Thus this is legal 
+categories: ['The is a category', 'This is another category'] 
+
+and so is
+category: ['A single category']
+
+but this is not:
+category:  ['The is a category', 'This is another category'] 
+
+
+but also these are useful:
+Documentation on <a href="https://github.com/jekyll/jekyll-help/issues/129">One multiple categories solution</a>
+
+Documentation on <a href="https://amakelov.github.io/2015/11/24/multiple-categories-for-jekyll-posts.html">another solution</a>
+
+Documentation on <a href="http://jekyllrb.com/docs/frontmatter/#predefined-global-variables">jekyll variables</a>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
-post with multiple categories solution? 
-(from https://github.com/jekyll/jekyll-help/issues/129 )
-
-And or:
-
-categories: ['The is a category', 'This is another category']
-
-Documentation: http://jekyllrb.com/docs/frontmatter/#predefined-global-variables
-
-see Category/Categories
-Documentation for YAML lists: http://en.wikipedia.org/wiki/YAML#Lists
-
-************************
-
-for another solution see
-https://amakelov.github.io/2015/11/24/multiple-categories-for-jekyll-posts.html
-
-
- 
