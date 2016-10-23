@@ -13,7 +13,7 @@ category: fiction
 
 More hard science fiction by the author of the _Three-Body Problem_.  Cracking good.
 
-Main premise:  It is a dangerous universe out there and alien contact is (of course) not going to be the starry-eyed utopian adventure portrayed by **Carl Sagan**, **Steven Spielberg**'s _ET_ and the like.  If there is other life, some of it will be far superior technologically and won't be wanting more upstart civilisations developing the same capabilities.  So don't go waving a torch around ...
+Main premise:  It is a dangerous universe out there and alien contact is (of course) not going to be the starry-eyed utopian adventure portrayed by some (**Steven Spielberg**'s _ET_, for example).  If there is other life, some of it will be far superior technologically and won't be wanting more upstart civilisations developing the same capabilities.  So don't go waving a torch around ...
 
 Of course there is a story too, and although there is plenty of predictability in the plot there are still enough surprises and thought experiments based on a very well-informed vision of current physics to be a highly entertaining read.  Like a lot of hard science fiction, this is a bit naïve in style and the characters are a bit thinly-drawn.  But translating material like this from Chinese can't have been easy.  Nevertheless, the ideas shine through. (Although it would be been sensational to have this material in the hands of a writer like **Iain M. Banks**.) 
 
