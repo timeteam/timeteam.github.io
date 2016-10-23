@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- home class is nicer, replaced this throughout <div class="well"> --->
+<!-- home class is nicer, replaced well class throughout <div class="well"> --->
 <div class="home">
 {% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign category = categories | split:',' | sort %}
