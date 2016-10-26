@@ -14,7 +14,7 @@ category: 'software for websites'
 
 The <a href="https://github.com/smallmuou/Jekyll-Pithy">Pithy Theme</a>
 
-<a href="http://jmcglone.com/guides/github-pages/">Jonathon McGlone's very clear explanation of jekyll and github pages</A>
+<a href="http://jmcglone.com/guides/github-pages/">Jonathon McGlone's</A> very clear explanation of jekyll and github pages
 
 The main jekyll sources of course:
 [Jekyll docs][jekyll] and 
