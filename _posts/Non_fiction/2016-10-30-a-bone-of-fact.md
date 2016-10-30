@@ -3,7 +3,7 @@ layout: post
 title: "David Walsh - A Bone of Fact"
 date: 2016-10-30
 published: true
-category: ['physics and mathematics']
+categories: ['physics and mathematics','art']
 ---
 
 
