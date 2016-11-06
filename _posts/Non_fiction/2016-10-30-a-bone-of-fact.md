@@ -26,7 +26,9 @@ But by about one-third of the way into reading this, I had stronger hands and ha
   * A similar lack of trust in anything anything unsupported by evidence and a disdain for others who willfully promulgate opinions that are contrary to the observed evidence.
   * A very clear understanding of sampling bias and the many contexts in which people are misled. ... eg ...
   * Lots of thoughtful asides about an eclectic range of authors, film-makers, xxx including **Dostoyevsky**, **Nabokov**, **Krzysztof Kieślowski**, **Phillip K. Dick**, **Harlan Ellison** ...
-  
+
+### Quotes
+  * People overestimate the influence fortune, both good and bad, have on their lives.
 
 The short chapters and staccato writing style mean that it is a bit of a battle to extract an underlying theme or message.  But I think it would have to be the philosophy that by understanding the gaps in evidence and knowledge, and acting on what that realisation implies, one can go far.  For example one could emerge from an unremarkable upbringing and become a successful millionaire gambler and build an art museum.  Then one could write a book that concealed rather than revealed the intervening steps.  
   
