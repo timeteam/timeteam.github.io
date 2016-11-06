@@ -31,4 +31,9 @@ But by about one-third of the way into reading this, I had stronger hands and ha
 The short chapters and staccato writing style mean that it is a bit of a battle to extract an underlying theme or message.  But I think it would have to be the philosophy that by understanding the gaps in evidence and knowledge, and acting on what that realisation implies, one can go far.  For example one could emerge from an unremarkable upbringing and become a successful millionaire gambler and build an art museum.  Then one could write a book that concealed rather than revealed the intervening steps.  
   
   
+***
+**Addendum**
 
+***
+
+_The Age_, 5 November 2016 carried a review by **John Bailey** of a new exhibition at MONA _On the Origin of Art_ wherein various scientists  (and other ~ists) curate sections, apparently with the collective message that the origins of art are biological and evolutionary.  The extreme viewpoint being that of evolutionary psychologist **Geoffrey Miller** arguing that art is about attracting a mate.  This tells us more about **Miller** than it does about early artists.  Nearly all the prehistoric art seems to have nothing to do with sex and it is hard to imagine prehistoric male humans going to such abstract lengths to attract a mate.  Much better to offer potential mate a safe place to sleep and some food, which would surely be uppermost in the priorities of prehistoric females.  Other contributors might have more to say, **Stephen Pinker** for example.  
