@@ -15,11 +15,11 @@ categories: ['physics and mathematics','art']
 
 The glitzy binding and short chapters give the initial impression that this is an arty sort of memoir that is light on content (ideas, information, originality).  Persisting, I quickly realised that initial impressions were wrong, as is nearly always the case.  (Which is why they are initial, or one could say prior, as in prior = before gaining information.)  Such Basyesian thinking comes naturally to **Walsh**, although it never gets labelled as such by him.  The major force against persistence is physical discomfort: the very tight binding makes it especially difficult to hold the pages open long enough to read them.  
 
-But by about one-third of the way into reading this, I had stronger hands and had started accumulating a list of pros and cons, with the cons limited in number and mostly trivial.  It is a very worthwhile read.
+But by about one-third of the way into reading this, I had stronger hands and had started accumulating a list of pros and cons, with the cons limited in number and mostly trivial.  A worthy read.
 
 ### Cons
   * The tight binding.  Would be much better to read as an ebook and just put the printed copy on the shelf to look at.
-  * There is often a leap from one idea to another seemingly unrelated thought, or an early event to a much later action or interest, with the reader left to guess at the missing steps in between.  So real connections or causes are sometimes unclear.  This is probably intentional, eithery stylistic or perhaps designed to conceal.   
+  * There is often a leap from one idea to another seemingly unrelated thought, or an early event to a much later action or interest, with the reader left to guess at the missing steps in between.  So causes are sometimes unclear.  This is probably intentional, either stylistic or perhaps designed to conceal.   
 
 ### Pros
   * A lack of trust in his memory, and a willingness to trot out evidence that his lack of trust is well-founded.  But he presses on with the memoir anyway.
