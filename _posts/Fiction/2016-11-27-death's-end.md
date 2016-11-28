@@ -13,7 +13,7 @@ category: fiction
 
 A worthy conclusion to the _Three-Body Problem_ books and ideas.
 
-**Cixin Liu** is not short of ambition.  The scope confronted in this book are likely to leave the reader, for a while, uninterested in little issues like food and personal safety.  The here and now made humdrum.  As might be expected by a novel which ends at the end of the universe, and scouts out so many original ideas along the journey.  
+**Cixin Liu** is not short of ambition.  The scope of this book is likely to leave the reader, for a while, uninterested in little issues like obtaining food and maintaining personal safety.  The here and now made humdrum.  As might be expected by a novel which ends at the end of the universe, and scouts out so many original ideas along the journey.  
 
 The first parts of this novel feel like a realisation of game theory with scenarios played out between the civilisations of Earth and Trisolaris, and also between factions of humans.  The strategies employed by various players while their powers grow and diminish evoke the Prisoner's Dilemma and other thought experiments in philosophy and mathematics.  For example, given that in a vast universe there are bound to be vastly technically superior races who would exterminate potential future rivals (us) at the drop of a hat, is there a way to stay safe and avoid extermination?    
 
