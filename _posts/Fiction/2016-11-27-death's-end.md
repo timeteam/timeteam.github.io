@@ -23,7 +23,7 @@ It says something about this book that contemporary theories in physics and cosm
 
 **Cixin Liu** paints human societies and their technologies in several future times.  I was interested in his choices of what technologies would mature and become influential.  Thus he has humans (starting in the quite near future) having perfected hibernation technology so that it is routine to go into suspended animation and awake 50 or 200 years in the future.  No doubt this is more of a plot device rather than a bet on plausible future technologies, since it lets **Cixin Liu**'s characters travel through the story and greatly extend their influence on the plot (and on the reader).  But this device never seems entirely believable, probably because solutions to various problematic social implications never become clear. Who keeps the lights on if everyone wants to escape to the future? If diseases are cured or a better quality of life is on offer in the future, who is going to hang around and make those advances in knowledge?  Other developments, such as artificial intelligence, barely seem to influence these futures.  They are there, but they have trivial roles.  It is as if AI will enable better toasters, but not much more.
 
-Nevertheless, in retrospect the few negatives seem insignificant while the many positives are all-consuming; this and the preceding two books are great SF, very nearly up there with the best.
+Nevertheless, in retrospect the few negatives seem insignificant while the many positives are all-consuming; this and the preceding two books are great SF, up there very close to the best.
 
 
 
