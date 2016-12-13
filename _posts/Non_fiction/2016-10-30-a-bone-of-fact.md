@@ -13,7 +13,7 @@ categories: ['physics and mathematics','art']
 ***
 
 
-The glitzy binding and short chapters give the initial impression that this is an arty sort of memoir that is light on content (ideas, information, originality).  Persisting, I quickly realised that initial impressions were wrong, as is nearly always the case.  (Which is why they are initial, or one could say prior, as in prior = before gaining information.)  Such Basyesian thinking comes naturally to **Walsh**, although it never gets labelled as such by him.  The major force against persistence is physical discomfort: the very tight binding makes it especially difficult to hold the pages open long enough to read them.  
+The glitzy binding and short chapters give the initial impression that this is an arty sort of memoir that is light on content (ideas, information, originality).  Persisting, I quickly realised that initial impressions were wrong, as is nearly always the case.  (Which is why they are initial, or one could say prior, as in prior = before gaining information.)  Such Bayesian thinking comes naturally to **Walsh**, although it never gets labelled as such by him.  The major force against persistence is physical discomfort: the very tight binding makes it especially difficult to hold the pages open long enough to read them.  
 
 But by about one-third of the way into reading this, I had stronger hands and had started accumulating a list of pros and cons, with the cons limited in number and mostly trivial.  A worthy read.
 
