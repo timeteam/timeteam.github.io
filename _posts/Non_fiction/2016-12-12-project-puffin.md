@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stephen W. Kress and Derrick Z. Jackson - Project Puffin"
+title: "Stephen W. Kress & Derrick Z. Jackson - Project Puffin"
 date: 2016-12-12
 published: true
 categories: ['natural history']
@@ -8,7 +8,7 @@ categories: ['natural history']
 
 
 ***
-<b>Stephen W. Kress and Derrick Z. Jackson</b> 2015. _Project Puffin_. New Haven: Yale University Press. 357 pp.
+<b>Stephen W. Kress & Derrick Z. Jackson</b> 2015. _Project Puffin_. New Haven: Yale University Press. 357 pp.
 
 ***
 
