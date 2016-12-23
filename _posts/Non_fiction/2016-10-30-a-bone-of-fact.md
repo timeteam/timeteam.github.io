@@ -13,7 +13,7 @@ categories: ['physics and mathematics','art']
 ***
 
 
-The glitzy binding and short chapters give the initial impression that this is an arty sort of memoir that is light on content (ideas, information, originality).  Persisting, I quickly realised that initial impressions were wrong, as is nearly always the case.  (Which is why they are initial, or one could say prior, as in prior = before gaining information.)  Such Bayesian thinking comes naturally to **Walsh**, although it never gets labelled as such by him.  The major force against persistence is physical discomfort: the very tight binding makes it especially difficult to hold the pages open long enough to read them.  
+The glitzy binding and short chapters give the initial impression that this is an arty sort of memoir that is light on content (ideas, information, originality).  Persisting, I quickly realised that initial impressions were wrong, as is nearly always the case.  Which is why they are initial. Such Bayesian thinking comes naturally to **Walsh**, although I didn't notice it ever being labelled as such by him.  With this book, the major force acting against the reader not the writing, but  physical discomfort: the very tight binding makes it especially difficult to hold the pages open long enough to read them.  
 
 But by about one-third of the way into reading this, I had stronger hands and had started accumulating a list of pros and cons, with the cons limited in number and mostly trivial.  A worthy read.
 
@@ -31,6 +31,8 @@ But by about one-third of the way into reading this, I had stronger hands and ha
   * People overestimate the influence fortune, both good and bad, have on their lives.
 
 The short chapters and staccato writing style mean that it is a bit of a battle to extract an underlying theme or message.  But I think it would have to be the philosophy that by understanding the gaps in evidence and knowledge, and acting on what that realisation implies, one can go far.  For example one could emerge from an unremarkable upbringing and become a successful millionaire gambler and build an art museum.  Then one could write a book that concealed rather than revealed the intervening steps.  
+
+More to be added here when I delve into the final sections...
   
   
 ***
