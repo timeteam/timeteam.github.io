@@ -3,7 +3,7 @@ layout: post
 title: "Richard Fidler - Ghost Empire"
 date: 2017-01-04
 published: true
-categories: ['history']
+categories: ['history and pre-history']
 ---
 
 
