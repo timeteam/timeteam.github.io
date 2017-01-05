@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Richard Fidler"
+title: "Richard Fidler - Ghost Empire"
 date: 2017-01-04
 published: true
 categories: ['history']
@@ -19,6 +19,6 @@ It seems that every one of Constantinople's many Emperors was at least as ruthle
 
 I could have done without the gratuitous father-son journey of discovery (**Richard**'s son joins him on a tour through key sites that is woven through the historical narrative).  Throughout much of the book this affectation is only a bit intrusive, until suddenly the reader is exposed to a detailed account of the birth of his son, an indulgence so glaringly out of place that it is like interrupting a book about the formation of galaxies with a short passage about the culinary properties of custard apples.  **Richard**, what were you thinking?  What was your editor thinking?  Just write a sodding history book next time.
 
-Much more welcome and relevant diversions include "the history of the Romans in five paragraphs" on pp. 21-23 and the brief account of the origins of Islam on pp. 186-190.  Indeed the whole volume is full of stuff that one should have known, but didn't.  And thankfully there is a time-line too, and a map of ancient Constantinople (but none of western Europe).  Harvard University's (Digital Atlas of Roman and Medieval Civilizations)[http://darmc.harvard.edu/maps] is therefore a useful companion.
+Much more welcome and relevant diversions include "the history of the Romans in five paragraphs" on pp. 21-23 and the brief account of the origins of Islam on pp. 186-190.  Indeed the whole volume is full of stuff that one should have known, but didn't.  And thankfully there is a time-line too, and a map of ancient Constantinople (but none of western Europe).  Harvard University's [Digital Atlas of Roman and Medieval Civilizations](http://darmc.harvard.edu/maps) is therefore a useful companion.
 
 _Ghost Empire_ is for the most part a wonderful book, easy to read and enjoy, even by non-obstetricians.  **Fidler** does seem to oversimplify events, but how else to encompass a thousand-year history with tendrils all over Europe and beyond within a single volume?  The preface does warn the reader that some records from antiquity are accepted at face value despite being debated by historians or contradicted by other accounts, however the main sources are covered in endnotes and bibliography and are easily consulted.  **Richard Fidler**'s  voice through this history is an easy one to engage with, and this must be partly due to his deliberate simplification of the narrative and avoiding the exhaustive consideration of alternative views so loved by academics.   And, if my quick perusal of some relevant Wikipedia pages is any indication, there is nothing much here that would be controversial to historians.  And there are enough close parallels with contemporary military disasters and war crimes in the Middle East that any reader will conclude that modern leaders have not learned one thing from history.   Only the weapons have changed.
