@@ -18,7 +18,7 @@ categories: ['physics and mathematics', philosophy]
 
   * I found **Nick Bostrom**'s simulation argument was dismissed way too glibly (p. 92).  
   * I'm keen to read about **Robert Aumann**'s proof as stated on p. 121: "two people, both acting rationally, who start with the same Baysian prior credences for their beliefs, and who have acces to the same information, including knowing what the other knows, cannot disagree about the updated credences for those beliefs".  Sounds intuitive but codifying as a formal mathematical proof is another thing.  A good to read more might be this [interview with **Aumann**](http://www.ma.huji.ac.il/hart/papers/md-publ-aumann.pdf)
-  * I didn't know that the psychedelic effects of LSD and other drugs is not due to raising neural activity levels but, counterintuitively, to suppressing regions of the brain which show incessant neural activity (p. 137).
+  * I didn't know that the psychedelic effects of LSD and other drugs is not because those drugs raise neural activity levels but, counter-intuitively, because they suppress regions of the brain which normally filter from our conciousness incessant neural activity occurring in other regions of the brain (p. 137).
   *  **
 
   
