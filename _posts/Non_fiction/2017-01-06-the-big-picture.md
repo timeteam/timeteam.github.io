@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sean Carroll - The Big Picture"
-date: 2017-01-047
+date: 2017-01-07
 published: true
 categories: ['physics and mathematics', philosophy]
 ---
