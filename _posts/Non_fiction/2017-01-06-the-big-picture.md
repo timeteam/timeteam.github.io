@@ -22,7 +22,7 @@ The penultimate section is titled _Thinking_ and it is about conciousness, artif
 
 In the final section  **Carroll** declares his personal philosophy: how he lives a short, finite life as meaningfully as possible in a universe without God, afterlife and without human-directed purpose.  It reads like a support session for recent converts to empiricism and atheism and I didn't need it nor did I read much of it.
 
-### A quick summary of things that appealed, or disagreed with, or just want to learn more about:
+### A quick summary of things that were interesting, or that I disagreed with, or just want to learn more about:
 
   * I found **Nick Bostrom**'s simulation argument was dismissed way too glibly (p. 92).  
   * I now need to read about **Robert Aumann**'s proof as stated on p. 121: "two people, both acting rationally, who start with the same Bayesian prior credences for their beliefs, and who have access to the same information, including knowing what the other knows, cannot disagree about the updated credences for those beliefs".  Sounds intuitive but codifying as a formal mathematical proof is another thing.  A good to read more on this, perhaps starting with this [interview with **Aumann**](http://www.ma.huji.ac.il/hart/papers/md-publ-aumann.pdf).
