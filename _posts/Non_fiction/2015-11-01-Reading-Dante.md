@@ -2,7 +2,7 @@
 layout: post
 title: "Prue Shaw - Reading Dante*"
 date: 2015-11-01
-category: ['history and pre-history']
+category: ['history and pre-history', writing]
 ---
 
 
