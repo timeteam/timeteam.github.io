@@ -41,8 +41,6 @@ Seemingly **Nick Lane** is aiming as much at a cross-disciplinary academic audie
 
 
 
-  * 
-
 
 
 
