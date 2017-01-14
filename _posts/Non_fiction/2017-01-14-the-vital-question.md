@@ -3,7 +3,7 @@ layout: post
 title: "Nick Lane - The Vital Question"
 date: 2017-01-14
 published: true
-categories: ['biology, ecology and evolution']
+categories: ['biology ecology and evolution']
 ---
 
 
