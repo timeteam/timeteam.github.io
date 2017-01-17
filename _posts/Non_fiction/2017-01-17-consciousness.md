@@ -8,7 +8,7 @@ categories: ['mind and artificial intelligence']
 
 
 ***
-<b>Susan Blackmore</b> 2015. _Conciousness. A very short introduction_ London: Oxford University Press, 146 pp.
+<b>Susan Blackmore</b> 2015. _Conciousness. A very short introduction_. London: Oxford University Press, 146 pp.
 
 ***
 
