@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Susan Blackmore - Conciousness"
+title: "Susan Blackmore - Consciousness"
 date: 2017-01-17
 published: true
 categories: ['mind and artificial intelligence']
