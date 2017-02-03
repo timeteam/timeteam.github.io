@@ -22,7 +22,7 @@ It is only right at the end that **Susan Blakemore** looks to future approaches 
 
 On page 1, **Susan Blakemore** glibly states that we need to "use consciousness to investigate itself, which is a slightly weird idea".  It is much more than that.  Maybe it is at the heart of the problem, a much more fundamental principle and hurdle.
 
-The Further Reading section is way too short for my taste.
+The Further Reading section is way too short for a book like this.
 
 
 
