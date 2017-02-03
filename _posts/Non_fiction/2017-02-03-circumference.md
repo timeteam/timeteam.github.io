@@ -3,7 +3,7 @@ layout: post
 title: "Nicholas Nicastro - Circumference"
 date: 2017-02-03
 published: true
-categories: ['history and prehistory', 'physics and mathematics']
+categories: ['history and pre-history', 'physics and mathematics']
 ---
 
 
