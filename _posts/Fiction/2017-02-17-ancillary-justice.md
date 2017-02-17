@@ -2,7 +2,7 @@
 layout: post
 title: "Ann Leckie - Ancillary Justice"
 date: 2017-02-17
-published: false
+published: true
 category: fiction
 ---
 
