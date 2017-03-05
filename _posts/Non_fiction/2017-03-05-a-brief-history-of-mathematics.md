@@ -19,9 +19,9 @@ _From Greece to Rome_ is probably not the earliest part of the grand human proje
 
 _Ratio and Proportion_: not only that and sequences but also the nugget that **Leonardo Fibonacci**  was the first to use decimal notation in _Liber Abaci_ (1202). 
 
-_The Rise of Algebra_ and _Mechanics and the Calculus_ here are given their historical and mathematical contexts with concise clarity, especially **Gottfried Wilhelm Leibniz** published the fundamental theorem of calculus in 1684) but **Isaac Newton** had known of it for nearly 20 years (as with **Charles Darwin** and **Alfred Russel Wallace** 200 years later on natural selection).  **Leibniz** in his proof was explicit about infinitesimals (and had an eye to fame) while **Newton** was more in the geometry line of argumenation (and didn't care who thought what about him).   
+_The Rise of Algebra_ and _Mechanics and the Calculus_ here are given their historical and mathematical contexts with concise clarity, especially on the two protagonists of calculus, **Gottfried Wilhelm Leibniz** (who published the fundamental theorem of calculus in 1684) and **Isaac Newton** (who had known of it for nearly 20 years but couldn't be bothered telling anyone). (Very much as would happen 200 years later with **Charles Darwin** and **Alfred Russel Wallace** and natural selection.)  **Leibniz** in his proof was explicit about infinitesimals (and had an eye to fame) while **Newton** was more in the geometry line of argumenation (and didn't care who thought what about him).   
 
-_Leonhard Euler and the Bridges of Königsburg_ is a short account of travelling salesman-type NP complete problems as first conceived by **Leonhard Euler**, Euler numbers for geometrical objects and dimensionality.  
+_Leonhard Euler and the Bridges of Königsburg_ is a short account of travelling salesman-type NP complete problems as conceived by **Leonhard Euler**, and about Euler numbers for geometrical objects, and about dimensions.  
 
 _Euclid's Fifth and the Reinvention of Geometry_ almost makes sense of non-Euclidean geometry.
 
