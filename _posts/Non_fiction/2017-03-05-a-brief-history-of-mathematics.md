@@ -39,4 +39,4 @@ In the final chapter _Lived Experience and the Nature of Facts_ I was hoping for
 
 There are some interesting omissions, The **Reverend Bayes** is not mentioned (even though there is a chapter on modelling.  Chaos is mentioned briefly but not **Edward Lorenz** or **Benoît Mandelbrot**.  Presumably **Luke Heaton** classes these as not "mathematics" or not "foundational".  Arabian contributions to understanding of mathematics are mentioned now and then (especially regarding algebra) but seem somehow undersold.
 
-The Further Reading section is short but a high proportion of the titles listed were already, or are now, on my in-tray.  They are thoughtfully arranged under six headings that are conceptual and don't relate to the largely chronological arrangement of the chapters.  
+The _Further Reading_ section is short but a high proportion of the titles listed were already, or are now, on my in-tray.  They are thoughtfully arranged under six headings that are conceptual and don't relate to the largely chronological arrangement of the chapters.  
