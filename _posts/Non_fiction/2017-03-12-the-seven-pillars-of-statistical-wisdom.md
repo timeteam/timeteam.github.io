@@ -29,7 +29,7 @@ _Regression_ has a long explanation about **Francis Galton** and his search for 
 _Design_ is about designing experiments and how to collect observations, a slippery idea that depending on how broadly it is interpreted can be traced at least back to ideas in the Old Testament and written by Arabic scholars.  More interesting is the recognition that randomisation is necessary in making inference.  **Stephen Stigler**  traces this idea to **Charles S. Peirce** in the 1880s.
 
 _Residual_ is traced to **John Hershel** in 1831 in _A preliminary Discourse on teh study of Natural Philosophy_: 
-> " ... when the effects of all known causes are estimated with exactness and subducted, the residual facts are constantly appearing in the form of phenomena altogether new, and leading to the most important conclusions".
+> " ... when the effects of all known causes are estimated with exactness and subducted, the residual facts are constantly appearing in the form of phenomena altogether new, and leading to the most important conclusions"
 
 It is clear from this history that most of these fundamental ideas in statistical analysis were developed in the 1700s and 1800s.  However i was left with the impression that **Stephen Stigler** seems to think that not much of fundamental importance has been developed since the early work of **R.A. Fisher** in the 1920s.  It would be interesting to read **Stigler** address that question explicitly, but he does not do so, at least not in this book.
 
