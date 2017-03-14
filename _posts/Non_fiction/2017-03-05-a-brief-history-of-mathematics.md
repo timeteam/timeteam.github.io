@@ -3,7 +3,7 @@ layout: post
 title: "Luke Heaton - A Brief History of Mathematics"
 date: 2017-03-05
 published: true
-categories: ['physics and mathematics', 'philosophy']
+categories: ['mathematics and physics', 'philosophy']
 ---
 
 ***
