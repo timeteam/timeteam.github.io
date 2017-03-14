@@ -2,7 +2,7 @@
 layout: post
 title: "Thomas Gold - Taking the Back off the Watch"
 date: 2016-08-02
-categories: ['physics and mathematics', 'history and pre-history']
+categories: ['mathematics and physics', 'history and pre-history']
 ---
 
 ***
