@@ -2,7 +2,7 @@
 layout: post
 title: "Lee Smolin - The Trouble with Physics"
 date: 2007-05-01
-category: 'physics and mathematics'
+category: 'mathematics and physics'
 ---
 
 
