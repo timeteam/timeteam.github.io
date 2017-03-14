@@ -2,7 +2,7 @@
 layout: post
 title: "David Deutsch - The Beginning of Infinity"
 date: 2014-12-12
-category: ['physics and mathematics', 'philosophy']
+category: ['mathematics and physics', 'philosophy']
 ---
 
 
