@@ -2,7 +2,7 @@
 layout: post
 title: "Nate Silver - The Signal and the Noise"
 date: 2013-12-06
-category: ['physics and mathematics']
+category: ['mathematics and physics']
 ---
 
 
