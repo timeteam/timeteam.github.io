@@ -3,7 +3,7 @@ layout: post
 title: "Steven M. Stigler - The Seven Pillars of Statistical Wisdom"
 date: 2017-03-12
 published: true
-categories: ['history and pre-history', 'physics and mathematics']
+categories: ['history and pre-history', 'mathematics and physics']
 ---
 
 
