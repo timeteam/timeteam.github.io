@@ -2,7 +2,7 @@
 layout: post
 title: "Margalit Fox - The Riddle of the Labyrinth"
 date: 2015-12-12
-categories: ['history and pre-history', 'physics and mathematics']
+categories: ['history and pre-history', 'mathematics and physics']
 ---
 
 
