@@ -2,7 +2,7 @@
 layout: post
 title: "Lee Smolin - Time Reborn"
 date: 2016-02-25
-category: ['physics and mathematics', 'philosophy']
+category: ['mathematics and physics', 'philosophy']
 ---
 
 
