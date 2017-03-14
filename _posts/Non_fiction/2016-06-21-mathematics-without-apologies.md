@@ -2,7 +2,7 @@
 layout: post
 title: "Michael Harris - Mathematics Without Apologies"
 date: 2016-06-21
-category: ['physics and mathematics']
+category: ['mathematics and physics']
 ---
 
 ***
