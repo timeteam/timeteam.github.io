@@ -2,7 +2,7 @@
 layout: post
 title: "Simon Singh - Fermat's Last Theorem"
 date: 2016-02-03
-category: ['physics and mathematics']
+category: ['mathematics and physics']
 ---
 
 ***
