@@ -21,8 +21,8 @@ Apart from cash flow, it is not clear what aim **Bill Bailey** had in mind with 
 
 I would have enjoyed a section with **Bill Bailey**'s suggested further reading but he has apppended some web site links:
 * [The Royal Society for the Protection of Birds](htp://rspb.org.uk)
-[the British trust for Ornithology](http://bto.org)
-[the wildfowl and Wetland Trust](http://wwt.org.uk)
-[the International Centre for the Birds of Prey](http://icbp.org)
-[the Barn Owl Trust](http://barnowltrust.org.uk)
+* [the British trust for Ornithology](http://bto.org)
+* [the wildfowl and Wetland Trust](http://wwt.org.uk)
+* [the International Centre for the Birds of Prey](http://icbp.org)
+* [the Barn Owl Trust](http://barnowltrust.org.uk)
 
