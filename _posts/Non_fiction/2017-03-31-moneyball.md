@@ -13,7 +13,7 @@ categories: ['mind and artificial intelligence']
 
 ***
 
-Superficially this is a baseball book (with lots of jargon impenetrable to those not thus indoctrinated).  However it is also a narrative about bringing a revolution to a field. In this case the field is baseball, which as **Michael Lewis** tells it, is ruled by unsupported myth-based opinions of a club of old baseballers and the ignorant sycophant journalists who write about them.  In other words, just like cricket, AFL, tennis, and probably Cane Toad racing.
+Superficially this is a baseball book (with lots of jargon impenetrable to those not thus indoctrinated).  However it is also a narrative about bringing a revolution to a field. In this case the field is baseball, which as **Michael Lewis** tells it, is ruled by unsupported myth-based opinions of a club of old players and the poorly-informed sycophant journalists who write about them.  In other words, just like cricket, AFL, tennis, and probably Cane Toad racing.
 
 In this story, the two principal characters are **Billy Beane**,  general manager of the Oakland A's<sup>1</sup> and **Paul DePodesta**, assistant general manager<sup>2</sup>.  **Paul DePodesta** is the manager and creator of the statistical data that enable the revolution in this book. It is amusing that even the new wave of evidence-based baseball rationalists trying to turn the game upside down feel the need to invent a new word&mdash;"sabermetrics"&mdash;for what is just statistics!  Although they are mostly outside the "club" of old baseballers and journalists they appear hell bent on creating their own club!  Petty criticism aside, an interesting read, and a quick one.
 
