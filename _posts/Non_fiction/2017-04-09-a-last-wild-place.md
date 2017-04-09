@@ -13,7 +13,7 @@ categories: ['natural history']
 
 ***
 
-I must have first read this at least 20 years ago, and several times since - for the pleasure of the classic nature writing, based on wild animals and plants closely observed over many decades by **Mike Tomkies**, refugee from Hollywood who spent decades living in wilderness locations and writing about and photographing wildlife, includin8 19 years living in an abandoned croft at Gaskan (he called it 'Wildernesse') on remote Loch Schiel in western Scotland.   Much of  **Mike Tomkies**' efforts and writing in this and other books revolved around studying Golden Eagles nesting on cliffs above his croft. 
+I must have first read this at least 20 years ago, and several times since - for the pleasure of the classic nature writing, based on wild animals and plants closely observed over many decades by **Mike Tomkies**, refugee from Hollywood who spent decades living in wilderness locations and writing about and photographing wildlife, includin8 19 years living in an abandoned croft at Gaskan (he called it 'Wildernesse') on remote Loch Schiel in western Scotland.   Much of  **Mike Tomkies**' efforts and writing in this and other books revolved around studying Golden Eagles nesting on cliffs above his croft. However on re-reading I'm drawn to his short chapter on Black-throated Divers nesting on a nearby island  on the loch.
 
 
 | - | - |
