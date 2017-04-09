@@ -31,6 +31,9 @@ Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mi
 | Red-throated Diver (_Gavia stella_). Photograph: **Ómar Runólfsson** / [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg) / [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) | ![Red-throated Diver image by **Ómar Runólfsson**](https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg) |
 
 
-There are 5 species of divers.  A couple of the others, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data [Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.] had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study [Lindsay, A. R. (2002). Molecular and Vocal Evolution in Loons (Aves: Gaviiformes). Doctoral dissertation, University of Michigan.
+There are three other species of divers, two of which, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data [Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.] had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study [Lindsay, A. R. (2002). Molecular and Vocal Evolution in Loons (Aves: Gaviiformes). Doctoral dissertation, University of Michigan.
 ].  A recent next gen study [Sprengelmeyer (2014)](http://commons.nmu.edu/cgi/viewcontent.cgi?article=1017&context=theses) showed that the morphological study had been correct.  
+
+> Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.] had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study 
+> Lindsay, A. R. (2002). Molecular and Vocal Evolution in Loons (Aves: Gaviiformes). Doctoral dissertation, University of Michigan.
 
