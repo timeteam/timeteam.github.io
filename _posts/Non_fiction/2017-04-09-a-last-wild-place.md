@@ -24,5 +24,5 @@ Divers (= loons in North America) are notable for their exquisite breeding pluma
 
 
 There are 5 species of divers.  A couple of the others, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data [Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.] had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study [Lindsay, A. R. (2002). Molecular and Vocal Evolution in Loons (Aves: Gaviiformes). Doctoral dissertation, University of Michigan.
-].  A recent next gen study [Sprengelmeyer (2014)](file:///home/robin/Downloads/sprengelmeyer_2014_gavia_phylogeny.pdf) showed that the  the morphological study had been correct.  
+].  A recent next gen study [Sprengelmeyer (2014)](http://commons.nmu.edu/cgi/viewcontent.cgi?article=1017&context=theses) showed that the  the morphological study had been correct.  
 
