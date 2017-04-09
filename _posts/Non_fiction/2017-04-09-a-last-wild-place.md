@@ -32,17 +32,16 @@ Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mi
 
 There are three other species of divers, two of which, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data (Boertman, 1990) had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study (Lindsay, 2002). A recent study using next generation sequence data (Sprengelmeyer, 2014) showed that the morphological study had been correct after all.  
 
-<sub><sup>Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.</sup></sub>
 
 ---
 
-> Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.
+- Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.
 
-> Lindsay, A. R. (2002). Molecular and Vocal Evolution in Loons (Aves: Gaviiformes). Doctoral dissertation, University of Michigan.
+- Lindsay, A. R. (2002). Molecular and Vocal Evolution in Loons (Aves: Gaviiformes). Doctoral dissertation, University of Michigan.
 
-> Livezey, B. C., and Zusi, R. L. (2007). Higher-order phylogeny of modern birds (Theropoda, Aves: Neornithes) based on comparative anatomy. II. Analysis and discussion. Zoological Journal of the Linnean Society 149, 1–95.
+- Livezey, B. C., and Zusi, R. L. (2007). Higher-order phylogeny of modern birds (Theropoda, Aves: Neornithes) based on comparative anatomy. II. Analysis and discussion. Zoological Journal of the Linnean Society 149, 1–95.
 
-> Sprengelmeyer, Q. D. (2014). A phylogenetic reecaluation of the genus Gavia (Aves: Gaviiformes) using next-generation sequencing. [Masters dissertation, Northern Michigan University](http://commons.nmu.edu/cgi/viewcontent.cgi?article=1017&context=theses).
+- Sprengelmeyer, Q. D. (2014). A phylogenetic reecaluation of the genus Gavia (Aves: Gaviiformes) using next-generation sequencing. [Masters dissertation, Northern Michigan University](http://commons.nmu.edu/cgi/viewcontent.cgi?article=1017&context=theses).
 
 
 
