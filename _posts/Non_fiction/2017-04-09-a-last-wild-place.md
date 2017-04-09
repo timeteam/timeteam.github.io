@@ -32,6 +32,8 @@ Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mi
 
 There are three other species of divers, two of which, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data (Boertman, 1990) had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study (Lindsay, 2002). A recent study using next generation sequence data (Sprengelmeyer, 2014) showed that the morphological study had been correct after all.  
 
+<sub><sup>Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.</sup></sub>
+
 ---
 
 > Boertman, D. (1990). Phylogeny of the divers, family Gaviidae (Aves). Steenstrupia 16, 21–36.
