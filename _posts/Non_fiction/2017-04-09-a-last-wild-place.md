@@ -22,13 +22,14 @@ Black-throated Divers (_Gavia arctica_) were observed by **Tomkies** nesting on 
 | - | - |
 |---|---|
 |  Black-throated Diver (_Gavia arctica_). Photograph: **Steve Garvie** / [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Black-throated_Diver_(Gavia_arctica)_swimming.jpg) / [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) | ![Black-throated Diver image by **Steve Garvie**](https://upload.wikimedia.org/wikipedia/commons/3/3a/Flickr_-_Rainbirder_-_Black-throated_Diver_%28Gavia_arctica%29_swimming.jpg) |
+|---|---|
 
 Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mike Tomkies** saw Red-throated Divers  visiting Loch Shiel in the 1970s and 1980s and they are still observed there (although small highland lochs are preferred for breeding). The [RSPB map](https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/bird-a-z/r/redthroateddiver/index.aspx) shows the summer range of this species extends further south than does the Black-throated Diver, and includes northern Ireland.  The Red-throated Diver is much more numerous in the United Kingdom with about 1,600 breeding pairs in 2017.
 
 | - | - |
 |---|---|
 | Red-throated Diver (_Gavia stella_). Photograph: **Ómar Runólfsson** / [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg) / [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) | ![Red-throated Diver image by **Ómar Runólfsson**](https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg) |
-
+|---|---|
 
 There are three other species of divers, two of which, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data (Boertman, 1990) had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study (Lindsay, 2002). A recent study using next generation sequence data (Sprengelmeyer, 2014) showed that the morphological study had been correct after all.  
 
