@@ -17,14 +17,14 @@ I must have first read this at least 20 years ago, and several times since - for
 
 Divers (= loons in North America) are notable for their exquisite breeding plumage and because they are an ancient lineage of birds (there is a Cretaceous fossil from Chile).  They are diving birds which hunt  fish (mostly) in clear water by sight and are capable of swimming submerged for at least a minute and (according to **Mike Tomkies**) to nearly 20 m depth.  It would be very nice to see one.
 
-Black-throated Divers (_Gavia arctica_) were observed by **Tomkies** nesting on Loch Shiel in the 1970s and 1980s but, according to ebird sightings, not now.  But they are widely seen in western Scotland and all around the UK as far south as Cornwall.  The [RSPB map](https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/bird-a-z/b/blackthroateddiver/index.aspx) shows Loch Shiel to be close to the southern limit of the summer range of this species.
+Black-throated Divers (_Gavia arctica_) were observed by **Tomkies** nesting on Loch Shiel in the 1970s and 1980s but, according to ebird sightings, not now.  But they are widely seen in western Scotland and all around the UK as far south as Cornwall.  The [RSPB map](https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/bird-a-z/b/blackthroateddiver/index.aspx) shows Loch Shiel to be close to the southern limit of the summer range of this species, which as of 2017 is estimated to number at most 250 breeding pairs.
 
 | - | - |
 |---|---|
 |  Black-throated Diver (_Gavia arctica_). Photograph: **Steve Garvie** / [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Black-throated_Diver_(Gavia_arctica)_swimming.jpg) / [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) | ![Black-throated Diver image by **Steve Garvie**](https://upload.wikimedia.org/wikipedia/commons/3/3a/Flickr_-_Rainbirder_-_Black-throated_Diver_%28Gavia_arctica%29_swimming.jpg) |
 
 
-Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mike Tomkies** saw Red-throated Divers  visiting Loch Shiel in the 1970s and 1980s and they are still observed there (although small highland lochs are preferred for breeding). The [RSPB map](https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/bird-a-z/r/redthroateddiver/index.aspx) shows the summer range of this species extends further south than does the Black-throated Diver, and includes northern Ireland.
+Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mike Tomkies** saw Red-throated Divers  visiting Loch Shiel in the 1970s and 1980s and they are still observed there (although small highland lochs are preferred for breeding). The [RSPB map](https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/bird-a-z/r/redthroateddiver/index.aspx) shows the summer range of this species extends further south than does the Black-throated Diver, and includes northern Ireland.  The Red-throated Diver is much more numerous in the United Kingdom with about 1,600 breeding pairs in 2017.
 
 | - | - |
 |---|---|
