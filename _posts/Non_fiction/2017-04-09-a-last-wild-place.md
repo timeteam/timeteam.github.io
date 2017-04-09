@@ -41,7 +41,7 @@ There are three other species of divers, two of which, the Great Northern Diver 
 
 - Livezey, B. C., and Zusi, R. L. (2007). Higher-order phylogeny of modern birds (Theropoda, Aves: Neornithes) based on comparative anatomy. II. Analysis and discussion. Zoological Journal of the Linnean Society 149, 1–95.
 
-- Sprengelmeyer, Q. D. (2014). A phylogenetic reecaluation of the genus _Gavia_ (Aves: Gaviiformes) using next-generation sequencing. [Masters dissertation, Northern Michigan University](http://commons.nmu.edu/cgi/viewcontent.cgi?article=1017&context=theses).
+- Sprengelmeyer, Q. D. (2014). A phylogenetic reevaluation of the genus _Gavia_ (Aves: Gaviiformes) using next-generation sequencing. [Masters dissertation, Northern Michigan University](http://commons.nmu.edu/cgi/viewcontent.cgi?article=1017&context=theses).
 
 
 
