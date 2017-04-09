@@ -27,7 +27,7 @@ Red-throated Divers (_Gavia stella_) are the most primitive of the divers.  **Mi
 
 | - | - |
 |---|---|
-| Red-throated Diver (_Gavia stella_). Photograph: **Ómar Runólfsson** / [Wikimedia commons]Livezey, B. C., and Zusi, R. L. (2007(https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg) / [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) | ![Red-throated Diver image by **Ómar Runólfsson**](https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg) |
+| Red-throated Diver (_Gavia stella_). Photograph: **Ómar Runólfsson** / [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg) / [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) | ![Red-throated Diver image by **Ómar Runólfsson**](https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg) |
 
 
 There are three other species of divers, two of which, the Great Northern Diver and the Yellow-billed Diver (both larger birds), are also seen in the United Kingdom but are less common.  The first phylogeny of the family, based on morphological data (Boertman, 1990) had _Gavia arctica_ and _Gavia pacifica_ as sister taxa but that was rejected by a mitochondrial DNA study (Lindsay, 2002). A recent study using next generation sequence data (Sprengelmeyer, 2014) showed that the morphological study had been correct after all.  
