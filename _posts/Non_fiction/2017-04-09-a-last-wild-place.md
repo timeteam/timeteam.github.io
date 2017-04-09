@@ -13,7 +13,9 @@ categories: ['natural history']
 
 ***
 
-I must have first read this at least 20 years ago, and several times since - for the pleasure of the classic nature writing, based on wild animals and plants closely observed over many decades by **Mike Tomkies**, refugee from Hollywood who spent decades living in wilderness locations and writing about and photographing wildlife, including 19 years living in an abandoned croft at Gaskan (he called it 'Wildernesse') on remote Loch Schiel in western Scotland.   Much of  **Mike Tomkies**' efforts and writing in this and other books revolved around studying Golden Eagles nesting on cliffs above his croft. However his interests and knowledge were diverse on this re-reading I'm drawn to his short chapter on Black-throated Divers nesting on a nearby island on the loch. Divers (= loons in North America) are notable for their exquisite breeding plumage and because they are an ancient lineage of birds (there is a Cretaceous fossil from Chile).
+I must have first read this at least 20 years ago, and several times since - for the pleasure of the classic nature writing, based on wild animals and plants closely observed over many decades by **Mike Tomkies**, refugee from Hollywood who spent decades living in wilderness locations and writing about and photographing wildlife, including 19 years living in an abandoned croft at Gaskan (he called it 'Wildernesse') on remote Loch Schiel in western Scotland.   Much of  **Mike Tomkies**' efforts and writing in this and other books revolved around studying Golden Eagles nesting on cliffs above his croft. However his interests and knowledge were diverse on this re-reading I'm drawn to his short chapter on Black-throated Divers nesting on a nearby island on the loch. 
+
+Divers (= loons in North America) are notable for their exquisite breeding plumage and because they are an ancient lineage of birds (there is a Cretaceous fossil from Chile).  They are diving birds which hunt  fish (mostly) in clear water by sight and are capable of swimming submerged for at least a minute and (according to **Mike Tomkies**) to nearly 20 m depth.
 
 | - | - |
 |---|---|
