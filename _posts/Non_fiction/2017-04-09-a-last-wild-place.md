@@ -9,7 +9,7 @@ categories: ['natural history']
 
 
 ***
-<b>Mike Tomkies</b> 1984. _A Last Wild Place_. London: Jonathon Cape, 250 pp.
+<b>Mike Tomkies</b> 1984. _A Last Wild Place_. London: Jonathan Cape, 250 pp.
 
 ***
 
