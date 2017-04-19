@@ -14,7 +14,7 @@ categories: ['natural history']
 ***
 
 A natural history of birds.  Has a bit of an old-fashioned feel (despite the recent publication date) but rich in information and in appeal. There are chapters on feeding, breeding, migration and an interesting chapter 'The Mind of Birds', but the most interesting to me were chapters
-on the origin of birds, the complex evolutionary history of feathered  dinosaurs,the 'what is a bird?' question, and the detailed tour of the major groups of birds and their diversity world-wide.  A great overview, very helpful for someone who wants to give global context to their knowledge of a regional fauna.  Also good context for [**Tim Low**'s _Where Song Began_](https://www.timlow.com/books/bird-book) which is coming up in my reading list...
+on the origin of birds, the complex evolutionary history of feathered  dinosaurs and hence the 'what is a bird?' question, and the detailed tour of the major groups of birds and their diversity world-wide.  A great overview, very helpful for someone who wants to give global context to their knowledge of a regional fauna.  Also good context for [**Tim Low**'s _Where Song Began_](https://www.timlow.com/books/bird-book) which is coming up in my reading list...
 
 (There is also a chapter on classifying, in which **Colin Tudge** demonstrates that he doesn't realise the rules of taxonomic nomenclature are not about personal preferences but are about priority, and thus stability.  But I'll get over that.) 
 
