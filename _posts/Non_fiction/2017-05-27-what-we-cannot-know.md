@@ -15,6 +15,8 @@ categories: ['mathematics and physics']
 
 **Marcus du Sautoy** is a mathematician and Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by **Richard Dawkins**.
 
+(https://images-na.ssl-images-amazon.com/images/I/41v3t0t8fPL._SX323_BO1,204,203,200_.jpg)
+
 This book covers much of the same material found in other recent mathematics and physics books that aim to introduce general readers to the Big Questions.  However here the flavour here is interesting, emphasising what is not known (and cannot be known?) rather than what is known.  This material is arranged in 7 sections or "Edges", being Edges in the sense that these are the edges of what can be known in 7 different fields.
 
 Edge 1 is about statistics, Chaos theory and chance events.  
