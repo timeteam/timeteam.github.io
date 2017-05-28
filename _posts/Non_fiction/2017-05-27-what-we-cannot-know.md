@@ -13,18 +13,18 @@ categories: ['mathematics and physics']
 
 ***
 
-**Marcus du Sautoy** is a mathematician and Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by **Richard Dawkins**.  This book covers much of the same material found in other recent mathematics and physics books that aim to introduce general readers to the Big Questions.  However here the flavour here is interesting, emphasising what is not known (and cannot be known?) rather than what is known.  
+**Marcus du Sautoy** is a mathematician and Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by **Richard Dawkins**.  This book covers much of the same material found in other recent mathematics and physics books that aim to introduce general readers to the Big Questions.  However the flavour is interesting, emphasising what is not known (and, according to the author, cannot be known).  Writing about what is known is easier and much more common.  
 
-| This material is arranged in 7 sections or "Edges", being Edges in the sense that these are the edges of what can be known in 7 different fields.  Normally can't be bothered but fore once I couldn't resist inserting an image of the highly appealing cover.  | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41v3t0t8fPL._SX323_BO1,204,203,200_.jpg "cover from Amazon") |
+|                                                                                                                         This material is arranged in 7 sections or "Edges", being Edges in the sense that these are the edges of what can be known in 7 different fields.  Normally I can't be bothered but for once I couldn't resist inserting an image of the highly appealing cover.  | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41v3t0t8fPL._SX323_BO1,204,203,200_.jpg "cover from Amazon") |
 
 
 Edge 1 is about statistics, Chaos theory and chance events.  
 
 Edge 2 is about fundamental particles and whether matter is infiintely divisible.  
 
-Edge 3 is about quantum theory and perhaps what is reality.  Thus **Einstein**
+Edge 3 is about quantum theory, Waves vs particles, Schrodinger and quantum entanglement. And perhaps what is reality.  Thus **Einstein**
 > I don’t demand that theory corresponds to reality ... All I’m concerned with is that the theory should predict the results of measurement  
-Waves vs particles, Schrodinger and quantum entanglement. 
+ 
 
 Edge 4 is about the universe and is it infinite?  And about symmetry.  This was the part of the book that was most compelling: an explanation of how the mathematics of symmetry provided an understanding of how the quantity 'strangeness' and the pairing and classification of fundamental particles.  How  thrilling to discover that mathematics reflects reality at this very small scale. Surely the universe really is fundamentally mathematical (_sensu_ **Max Tegmark**)?
 
