@@ -21,7 +21,7 @@ Edge 1 is about statistics, Chaos theory and chance events.
 
 Edge 2 is about fundamental particles and whether matter is infiintely divisible.  
 
-Edge 3 is about quantum theory and perhaps what is reality.  Thus **Einstein**:
+Edge 3 is about quantum theory and perhaps what is reality.  Thus **Einstein**
 > I don’t demand that theory corresponds to reality ... All I’m concerned with is that the theory should predict the results of measurement  
 
 Edge 4
