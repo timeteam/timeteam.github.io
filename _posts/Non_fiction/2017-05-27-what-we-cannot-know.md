@@ -2,7 +2,7 @@
 layout: post
 title: "Marcus du Sautoy - What We Cannot Know"
 date: 2017-05-27
-published: false
+published: true
 categories: ['mathematics and physics']
 
 ---
