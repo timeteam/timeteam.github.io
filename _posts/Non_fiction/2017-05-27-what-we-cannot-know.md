@@ -12,10 +12,11 @@ categories: ['mathematics and physics']
 <b>Marcus du Sautoy</b> 2015. _What We Cannot Know. Explorations at the edge of knowledge_. London: 4th Estate, ebook.
 
 ***
+**Marcus du Sautoy** is a mathematician and Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by **Richard Dawkins**.  
 
-| **Marcus du Sautoy** is a mathematician and Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by **Richard Dawkins**.  Normally I can't be bothered but for once I couldn't resist inserting an image of the highly appealing cover.  | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41v3t0t8fPL._SX323_BO1,204,203,200_.jpg "cover from Amazon") |
+| Normally I can't be bothered but for once I couldn't resist inserting an image of the highly appealing cover. This book covers much of the same material found in other recent mathematics and physics books that aim to introduce general readers to the Big Questions.  However the flavour is interesting, emphasising what is not known (and, according to the author, cannot be known).   | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41v3t0t8fPL._SX323_BO1,204,203,200_.jpg "cover from Amazon") |
 
-This book covers much of the same material found in other recent mathematics and physics books that aim to introduce general readers to the Big Questions.  However the flavour is interesting, emphasising what is not known (and, according to the author, cannot be known).  Writing about what is known is easier and much more common.  
+Writing about what is known is easier and much more common.  
 This material is arranged in 7 sections or "Edges", being Edges in the sense that these are the edges of what can be known in 7 different fields.  
 
 Edge 1 is about statistics, Chaos theory and chance events.  
