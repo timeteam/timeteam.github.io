@@ -13,7 +13,7 @@ categories: ['mathematics and physics']
 
 ***
 
-*Marcus du Sautoy* is Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by *Richard Dawkins*.
+**Marcus du Sautoy** is Charles Simonyi Professor of the Public Understanding of Science at Oxford, a chair previously held by **Richard Dawkins**.
 
 The bibliography ... 
 
