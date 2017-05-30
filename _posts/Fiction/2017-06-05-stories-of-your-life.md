@@ -7,7 +7,7 @@ category: fiction
 ---
 
 ***
-<b>Ted Chiang</b> 2013. _Stories of Your Life and Others_. Picador ebook. 352 pp.
+<b>Ted Chiang</b> 2015. _Stories of Your Life and Others_. Picador ebook. 352 pp.
 
 ***
 
