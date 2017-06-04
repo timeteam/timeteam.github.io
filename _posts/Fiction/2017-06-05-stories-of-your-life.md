@@ -20,7 +20,7 @@ _Understand_ is a page-turner narrative of a patient with brain damage from a ne
 
 _Division by zero_ invents a mathematician who is discombobulated to discover a truth in the spirit of Kurt Gödel: mathematics contains an inherent contradiction.  But there is an unsatisfactory end (or rather none). More likely I didn't get it.
 
-_Story of your life_ The movie _Arrival_ is both less and more than the story.  More, because the movie has a stronger narrative.  Less, because what seems the central idea of the story, that the alien's language is what awakens an element of timelessness in the conciousness of the linguist, is not a focus of the movie.
+_Story of your life_ The movie _Arrival_ is both less and more than the story.  More, because the movie has a stronger narrative.  Less, because what seems the central idea of the story, that the alien's written language is what awakens an element of timelessness in the conciousness of the linguist, is a detail that I don't remember being a part of the movie.
 
 _Seventy-two letters_ ...
 
