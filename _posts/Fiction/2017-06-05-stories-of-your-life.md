@@ -28,6 +28,6 @@ _The evolution of human science_ is very short, another thought experiment about
 
 The final two stories are _Hell is the absence of God_ and _Liking what you see: a documentary_.  I don't know whs, at least the modern ones, seem not to suffer this problem to the same degreeat they are about, I'd lost interest by then. 
 
-The enduring impression from this collection of stories is while the ideas are interesting, they are not backed up by strong writing.  Like so much SF, but especially short stories where the "thought experiment" theme seems to satisfy the author who doesn't bother with the discipline required to turn that idea into a memorable piece of writing.  Instead, give me a decent SF novel where just a few of these great ideas are explored with more skill.  Judging by effusive praise for **Ted Chiang** from other SF writers I am, however, in the minority. 
+The enduring impression from this collection of stories is while the ideas are interesting, they are not backed up by strong writing.  Like so much SF, but especially short stories where the "thought experiment" theme seems to satisfy the author who doesn't bother with the discipline required to turn that idea into a memorable piece of writing.  Instead, give me a decent SF novel where just a few of these great ideas are explored with more skill (**Iain M. Banks**, where are you?).  Judging by effusive praise for **Ted Chiang** from other SF writers I am, however, in the minority. 
 
 There are some slightly interesting story notes at the end of the volume.  
