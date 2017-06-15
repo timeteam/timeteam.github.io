@@ -3,7 +3,7 @@ layout: post
 title: "Tracy Kidder - The Soul of a New Machine"
 date: 2017-06-15
 published: true
-categories: ['technology']
+categories: [technology]
 ---
 
 
