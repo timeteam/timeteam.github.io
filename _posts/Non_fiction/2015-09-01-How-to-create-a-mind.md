@@ -11,8 +11,8 @@ category: ['mind and artificial intelligence']
 ***
 The human cortex and human consciousness is a pattern matching device that can be modelled as a hierarchical hidden Markov model.  Software implementations using the same model are increasingly successful in artificial intelligences - evidence that the model may accurately describe the workings of the human mind.
 
-More to come...
+[incomplete, more to come... ]
 
-Recently acquired in the same theme but not yet read, this book by another researcher in the same group:
+In the same theme this book by another researcher in the same group:
 
-**Roberto Pieraccini** 2012.  _The Voice in the Machine_.  Cambridge, Massachusetts: MIT Press Books. 325 pp.
+**Roberto Pieraccini** [The Voice in the Machine](http://timeteam.github.io/mind%20and%20artificial%20intelligence/2015/09/01/How-to-create-a-mind.html)
