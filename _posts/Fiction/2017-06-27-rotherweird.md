@@ -12,7 +12,7 @@ categories: ['fiction']
 <b>Andrew Caldecott</b> 2017. _Rotherweird_. London: Jo Fletcher Books. 456 pp.
 
 ***
-**Andrew Caldecott** is a QC who defended the Guardian in the Leveson Inquiry into the British phone hacking scandal, among many privacy- and media-related cases.  He is also a successful playwright.  It is hardly surprising then that the book received a [benevolent review](https://www.theguardian.com/books/2017/may/18/rotherweird-by-andrew-caldecott-review) in the Guardian.   
+**Andrew Caldecott** is a QC who defended the Guardian in the Leveson Inquiry into the British phone hacking scandal, among many privacy- and media-related cases.  He is also a successful playwright.  It is hardly surprising then that the book received a [benevolent review](https://www.theguardian.com/books/2017/may/18/rotherweird-by-andrew-caldecott-review) in the Guardian.   But well it might.
 
 The spiffing cover captures the vibe of the book and accurately raises expectations. 
 
