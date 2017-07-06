@@ -32,6 +32,8 @@ Part 3 and part 4 comprise the last third of the book and describe the essential
  
 Quantum gravity theory, like string theory, is just starting to be tested.  Observations that tend to support quantum gravity include the failure (so far) of the Large Hadron Collider to observe supersymmetric particles (predicted by string theory).   Also, fluctuations in the cosmic background radiation may prove to better support the predictions of quantised spacetime but this mathematics is not yet developed. Unsurprisingly.
 
+(I can't help but wonder if the quantised spacetime of quantum gravity is a more plausible operating system than the 11 dimensions of string theory: which would we expect to observe if we were to be living in a [simulation](http://www.simulation-argument.com/)?)
+
 The annotated bibliography is also notable: only 4 pages in which books by or about **Aristotle**, **Democritus**, **Dirac**, **Einstein**, **Feyneman**, **Heisenberg**, **Newton** and **Plato** appear in ones and twos alongside 7 references by **Carlo Rovelli** himself.  Got to like that!
 
 **Carlo Rovelli** also has a shorter account of quantum gravity in [Physics World November 2003](http://cgpg.gravity.psu.edu/people/Ashtekar/articles/rovelli03.pdf) and the [references](https://en.wikipedia.org/wiki/Loop_quantum_gravity#References) at the end of the Wikipedia page are extensive.
