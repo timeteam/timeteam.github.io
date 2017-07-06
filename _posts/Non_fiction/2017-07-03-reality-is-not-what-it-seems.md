@@ -31,6 +31,6 @@ Part 3 and part 4 comprise the last third of the book and describe the essential
 
 Among the compelling reasons to return regularly to this book are the memorable aphorisms which **Carlo Rovelli** arrives at in telling fashion.  Such as
 
-    > This permanent doubt, the deep source of science
-    >
+> This permanent doubt, the deep source of science
+    
 
