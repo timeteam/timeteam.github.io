@@ -15,4 +15,4 @@ The human cortex and human consciousness is a pattern matching device that can b
 
 In the same theme this book by another researcher in the same group:
 
-**Roberto Pieraccini** [The Voice in the Machine](hhttp://timeteam.github.io/mind%20and%20artificial%20intelligence/2017/06/19/the-voice-in-the-machine.html)
+**Roberto Pieraccini** [The Voice in the Machine](http://timeteam.github.io/mind%20and%20artificial%20intelligence/2017/06/19/the-voice-in-the-machine.html)
