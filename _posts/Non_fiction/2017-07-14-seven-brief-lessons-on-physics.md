@@ -22,13 +22,21 @@ There were a few things that I grasped more thoroughly or was even more amazed b
 
 The extraordinary leap by **Werner Heisenberg** to imagine, and then demonstrate mathematically, that electrons do not exist in between the quantum interactions they have in the orbit of an atom.  They are brought into being by collision.
 
+Thermodynamics has been successfully extended to electro-magnetic fields, and to quantum theory.  But not to gravitational fields.
+
 The fundamental indivisible but interlocking 'atoms' of space in quantum gravity are not in space, they are themselves that space. 
 
 **Ludwig Boltzman**'s insight was to conceive of heat flow from hot to cold as due to chance (statistical physics and probability). 
 
+I'll leave the penultimate words for **Carlos Rovelli**:
+
+> Our memory and our conciousness are built on these statistical [thermodynamic] phenomena. ... But due to the limitations of our consciousness we only perceive a blurred vision of the world, and life in time. 
+
 > Scientific thought is fed by the capacity to 'see' things differently than they have previously been seen.
 
-(Like art.)
+And the final words to his editor:
+
+> What's non-apparent is much vaster than what's apparent.
 
 
 
