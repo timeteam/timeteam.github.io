@@ -30,7 +30,7 @@ The fundamental indivisible but interlocking 'atoms' of space in quantum gravity
 
 **Ludwig Boltzman**'s insight was to conceive of heat flow from hot to cold as due to chance (statistical physics and probability). 
 
-A couple of quotes from **Carlos Rovelli**:
+A couple of quotes from **Carlo Rovelli**:
 
 > Our memory and our consciousness are built on these statistical [thermodynamic] phenomena. ... But due to the limitations of our consciousness we only perceive a blurred vision of the world, and live in time. 
 
