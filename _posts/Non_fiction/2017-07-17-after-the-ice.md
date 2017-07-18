@@ -23,16 +23,22 @@ This is followed by  Northern Europe, but the Scotland component is mainly about
 * 9,700-8,500 BC - _Jericho_ in the Jordan valley. More benign climate returns and Neolithic humans raise crops again.
 * 9,250 BC - _Cramond_, Endinburgh.  As of 2003 the oldest date for a settlement in Scotland. 
 * 7,500-6,400 BC - Rising sea levels submerge Doggerland beneath the North Sea and cut off Britain from Europe.
-* 3,800 BC -	The Knap of Howar occupied on the island of Papa Westray.  Oldest Orkneys date?
-* 3,400-3,100 BC - Earliest structures at the Barnhouse Settlement, Orkneys.
-* 3,300-3,200 BC - Earliest structures built on the Ness of Brodgar, Orkneys.
-* 3,200 BC - Early buildings at Skara Brae, Orkneys.
-* 3,000-2,900 BC - Standing Stones o' Stenness constructed, Orkneys.
-* 2,900-2,750 BC - Barnhouse Neolithic settlement abandoned, Orkneys.
-* 2,800-2,700 BC - Maeshowe tomb  constructed, Orkneys.
-* 2,700 BC - Great pyramids of Egypt?
-* 2,600-2,500 BC - Construction of Ring of Brodgar.
-* 2,200 BC - Skara Brae abandoned.
+* 3,800 BC -	The _Knap of Howar_ occupied on the island of Papa Westray.  Oldest Orkneys date?
+* 3,400-3,100 BC - Earliest structures at the _Barnhouse_ Settlement, Orkneys.
+* 3,300-3,200 BC - Earliest structures built on the _Ness of Brodgar_, Orkneys.
+* 3,200 BC - Early buildings at _Skara Brae_, Orkneys.
+* 3,100 BC - _Stonehenge_ phase 1.  Earthen ring.
+* 3,000-2,900 BC - _Standing Stones o' Stenness_ constructed, Orkneys.
+* 2,900-2,750 BC - _Barnhouse_ Neolithic settlement abandoned, Orkneys.
+* 2,800-2,700 BC - _Maeshowe_ tomb  constructed, Orkneys.
+* 2,700 BC - _Great pyramids_ of Egypt.
+* 2,600-2,500 BC - Construction of _Ring of Brodgar_.
+* 3,000 BC - _Stonehenge_ phase 2.  Cemetary and Aubrey holes.
+* 2,550 BC - _Stonehenge_ phase 3.  Stone henge.
+* 2,200 BC - _Skara Brae_ abandoned.
+* 1,900 BC - _Temple of Knossos_ built.  Crete.
+* 1,400-1,300 BC - _Temple of Knossos_ destroyed.
+* 610-546 BC - _Anaximander_. Presocratic philosopher.  Miletus, Turkey. 
  
 
 Other parts of this thick book deal with Asia, the Americas, Australia and Africa.  Maybe I'll get to bits of those one day.  The extensive endnotes and references are a great reference.
