@@ -38,7 +38,10 @@ This is followed by  Northern Europe, but the Scotland component is mainly about
 * 2,200 BC - _Skara Brae_ abandoned.
 * 1,900 BC - _Temple of Knossos_ built.  Crete.
 * 1,400-1,300 BC - _Temple of Knossos_ destroyed.
-* 610-546 BC - _Anaximander_. Presocratic philosopher.  Miletus, Turkey. 
+* 610-546 BC - _Anaximander_.  Miletus, Turkey. 
+* 470-399 BC - _Socrates_. Athens.
+* 43-410 AD - Roman occupation of England.
+* 79 AD - Eruption of Vesuvius destroys Pompeii and Herculaneum.
  
 
 Other parts of this thick book deal with Asia, the Americas, Australia and Africa.  Maybe I'll get to bits of those one day.  The extensive endnotes and references are a great reference.
