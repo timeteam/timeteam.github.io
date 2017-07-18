@@ -31,7 +31,7 @@ This is followed by  Northern Europe, but the Scotland component is mainly about
 * 3,000-2,900 BC - _Standing Stones o' Stenness_ constructed, Orkneys.
 * 2,900-2,750 BC - _Barnhouse_ Neolithic settlement abandoned, Orkneys.
 * 2,800-2,700 BC - _Maeshowe_ tomb  constructed, Orkneys.
-* 2,700 BC - _Great pyramids_ of Egypt.
+* 2,700-2,500 BC - Pyramids of Egypt.
 * 2,600-2,500 BC - Construction of _Ring of Brodgar_.
 * 3,000 BC - _Stonehenge_ phase 2.  Cemetary and Aubrey holes.
 * 2,550 BC - _Stonehenge_ phase 3.  Stone henge.
