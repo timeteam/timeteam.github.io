@@ -6,7 +6,7 @@ category: fiction
 ---
 
 ***
-<b>Neal Stephenson</b> - _Seveneves_.  London: Harper Collins.  880 pp.
+<b>Neal Stephenson</b> 2015. _Seveneves_.  London: Harper Collins.  880 pp.
 
 ***
 
