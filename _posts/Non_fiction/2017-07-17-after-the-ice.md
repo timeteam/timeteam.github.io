@@ -16,6 +16,7 @@ This is a vast survey of the global archaeological record of human settlement th
 Here is a chronology of some of the settlements chosen by **Mithen** for his account, plus some dates from recent work in the Orkneys from [Orkneyjar](http://www.orkneyjar.com/history/timeline.htm).  Also a few other dates as points of reference:
 
 * 20,000-12,300 BC - _Ohalo_ on the Sea of Galilee.  Hunter-gatherers with temporary "settlements" of earth and wood huts.
+* 17,000 BC - neolithic paintings in the [_Font-de-Gaume_](https://en.wikipedia.org/wiki/Font-de-Gaume) in the Dordogne.
 * 13,200-12,400 BC - _Gough's Cave_ in southern England.  Evidence for cannibalism.
 * 12,300-10,800 BC - _Ain Mallaha_ and other eastern Mediterranean sites where _Natufian_ culture has been found.  First evidence for more permanent settlements and crop domestication.
 * 11,000 BC - By now humans are living throughout southern England.
