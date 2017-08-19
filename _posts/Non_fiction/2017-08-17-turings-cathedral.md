@@ -23,11 +23,11 @@ Refugee academics are not the only pricipals in this book; **Abraham Flexner** a
 
 Another enduring message from this book is that the scientists who concieved of ENIAC and first implemented digital computing knew very well the wider and longer term implications of what they were doing.  Documents unearthed by  **George Dyson** show that  **John von Neumann** and others saw many of the places that digital computing would lead: vastly more accurate modelling of weather, ... 
 
-Is time, space and the universe fundamentally digital (as asserted by **Anaximander**, **Gottfried Wilhelm Leibniz** and quantum loop gravity theoreticians such as [**Carlo Rovelli**](http://timeteam.github.io/mathematics%20and%20physics/2017/07/03/reality-is-not-what-it-seems.html)? **Kurt Gödel** was perhaps the person among all these thinkers who best deserved the adjective original;  **Gödel** spent a lot of his final years researching the writings of **Leibniz** who pioneered binary arithmetic and the his own view that the universe was digital.  Few shared **Gödel**'s views, then or now, but he did have a [medallion struck in 1697](http://edge.org/3rd_culture/edge_dld11/images/leibniz.jpg) illustrating the creation of all things by means of binary arithmetic.  It seems the simulation argument goes back further than I realised.
+Is time, space and the universe fundamentally digital (as asserted by **Anaximander**, **Gottfried Wilhelm Leibniz** and quantum loop gravity theoreticians such as [**Carlo Rovelli**](http://timeteam.github.io/mathematics%20and%20physics/2017/07/03/reality-is-not-what-it-seems.html)? **Kurt Gödel** was perhaps the person among all these thinkers who best deserved the adjective original;  **Gödel** spent a lot of his final years researching the writings of **Leibniz** who pioneered binary arithmetic and the his own view that the universe was digital.  Few shared **Gödel**'s views, then or now, but he did have a [medallion struck in 1697](http://edge.org/3rd_culture/edge_dld11/images/leibniz) illustrating the creation of all things by means of binary arithmetic.  It seems the simulation argument goes back further than I realised.
 
 A truly great book, about an incredible time in the history of science and of the West.  Richly documented with endnotes, mostly from unpublished sources from the archives of the Institute for Advanced Study and from the personal documents of the protagonists.  Unfortunately I read this from a library but will seek out my own copy. 
 
-
+http://images.penguinrandomhouse.com/cover/9781400075997
 
 
     
