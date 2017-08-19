@@ -9,7 +9,7 @@ categories: ['mathematics and physics', technology]
 
 
 ***
-<b>George Dyson</b> 2012. _Turing's Cathedral.  The origins of the digital universe_. New York: Pantheon, 401 pp.
+<b>George Dyson</b> 2012. _Turing's Cathedral.  The origins of the digital universe_. New York: Pantheon Books, 401 pp.
 
 ***
 
