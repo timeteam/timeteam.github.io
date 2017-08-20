@@ -27,6 +27,8 @@ They even wondered "is time, space and the universe fundamentally digital?"  (as
 
 A great book, about a small group of remarkable scientists and engineers who changed the course of history of science and of the West.  Richly documented with endnotes, mostly from unpublished sources from the archives of the Institute for Advanced Study and from the personal documents of the protagonists. 
 
+(These notes don't make mention of the engineers such as **Julian Bigelow** and **Herman Goldstine** (mathematician who became administrator of the project) who built ENIAC according to **von Neumann**'s design.  Nor do these notes focus on **John von Neumann** nearly as much as the book does.  **George Dyson** emphasises how important  **John von Neumann** was in gathering and leading the team; after his death in 1957 the team rapidly dispersed and other groups, and IBM, led further developments in computing.  Subsequent  technical developments greatly speeded up processing but serial processing, memory addressing etc remain largely unchanged from  **John von Neumann**'s original design.)
+
 
     
 
