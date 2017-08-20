@@ -25,7 +25,7 @@ Although ENIAC was sold to the army as a way of completing the calculations for 
 
 They even wondered "is time, space and the universe fundamentally digital?"  (as asserted by **Anaximander**, **Gottfried Wilhelm Leibniz** and quantum loop gravity theoreticians such as [**Carlo Rovelli**](http://timeteam.github.io/mathematics%20and%20physics/2017/07/03/reality-is-not-what-it-seems.html)). **Kurt Gödel**, at least, apparently thought so.  **Gödel** was perhaps the person among all these thinkers who best deserved the adjective original and he;   spent a lot of his final years researching the writings of **Leibniz** who pioneered binary arithmetic and the idea that the universe itself was digital ("monadology").  Few shared **Gödel**'s views, then or now, but **Leibniz** <img align="right" src="http://jams.ucpress.edu/content/ucpjams/68/1/151/F1.large.jpg?width=800&height=600&carousel=1" style="width: 30%; height: 30%" alt="medallion struck in 1697">  did have a medallion struck in 1697 illustrating the creation of all things by means of binary arithmetic.  It seems the "we are in a simulation" argument goes way back. 
 
-A truly great book, about an incredible time in the history of science and of the West.  Richly documented with endnotes, mostly from unpublished sources from the archives of the Institute for Advanced Study and from the personal documents of the protagonists. 
+A great book, about a small group of remarkable scientists and engineers who changed the course of history of science and of the West.  Richly documented with endnotes, mostly from unpublished sources from the archives of the Institute for Advanced Study and from the personal documents of the protagonists. 
 
 
     
