@@ -9,7 +9,7 @@ categories: ['mathematics and physics', history]
 
 
 ***
-<b>Carlo Rovelli</b> 2017. _Anaximander. Translated by Marion Lignana Rosenberg.  Yardley, Pennsylvania: Westholme Publishing, 209 pp.
+<b>Carlo Rovelli</b> 2017. _Anaximander_. Translated by Marion Lignana Rosenberg.  Yardley, Pennsylvania: Westholme Publishing, 209 pp.
 
 ***
 <img align="right" src="http://www.westholmepublishing.com/images/books/First-Scientist.jpg" alt="">  
