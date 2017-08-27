@@ -24,4 +24,4 @@ Among many other thoughtful and interesting discussions, I was most pleased to f
 > The reasons behind such omnipressence of "another world", "gods" and the other variants of the divine in the ancient world is, in my view, one of the most important open questions about the nature and history of thought. (p. 159)
 
 
-The bibliography contains many books I didn't know about and will seek out; it is much more extensive than the bibliographies of [**Carlo Rovelli**](http://www.cpt.univ-mrs.fr/~rovelli/)'s  other two current popular science books.  
+The bibliography is much more extensive than the bibliographies of [**Carlo Rovelli**](http://www.cpt.univ-mrs.fr/~rovelli/)'s other two current popular science books. It contains many books that are relevant to this and related questions and which I didn't know about and will seek out, for example **Joseph Campbell** _Renewal myths and rites of the primitive hunters and planters_ and **Roy Rappaport** _Ritual and religion in the making of humanity_. 
