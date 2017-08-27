@@ -3,7 +3,7 @@ layout: post
 title: "Carlo Rovelli - Anaximander"
 date: 2017-08-26
 published: true
-categories: ['mathematics and physics', 'history and prehistory']
+categories: ['mathematics and physics', 'history and pre-history']
 
 ---
 
