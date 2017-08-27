@@ -21,6 +21,6 @@ A sampling of the chapter titles gives raises expectations (which are not disapp
 
 Among many other thoughtful and interesting discussions, I was most pleased to find **Rovelli** agreeing that perhaps the most important unanswered question in human history is why theistic world views, even though unhelpful and unnecessary to a rational view of much greater practical value, are nevertheless of such pervasive power even now in human thinking (and almost universaly so in the earliest societies):
 
-> The reasons behind such omnipressence of "another world", "gods" and the other variants of the divine in the ancient world is, in my view, one of the most important open questions about the nature and history of thought. (p. 159)
+> The reasons behind such omnipresence of "another world", "gods" and the other variants of the divine in the ancient world is, in my view, one of the most important open questions about the nature and history of thought. (p. 159)
 
 The bibliography is much more extensive than the bibliographies of [**Carlo Rovelli**](http://www.cpt.univ-mrs.fr/~rovelli/)'s other two current popular science books. It contains many books that are relevant to this and related questions and which I didn't know about and will seek out, for example **Joseph Campbell** _Renewal myths and rites of the primitive hunters and planters_ and **Roy Rappaport** _Ritual and religion in the making of humanity_. 
