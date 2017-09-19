@@ -83,7 +83,6 @@ _Conclusion: The New Silk Road_
 
 
 The beautiful cover photograph is the dome of the Tilla Kari Madrasa in Samarkand, Uzbekistan: <a title="By Jean-Pierre Dalbéra from Paris, France [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALa_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_(Samarcande%2C_Ouzb%C3%A9kistan)_(5630693152).jpg"><img width="512" alt="La madrasa et la mosquée Tilla Kari du Registan (Samarcande, Ouzbékistan) (5630693152)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/La_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_%28Samarcande%2C_Ouzb%C3%A9kistan%29_%285630693152%29.jpg/512px-La_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_%28Samarcande%2C_Ouzb%C3%A9kistan%29_%285630693152%29.jpg"/></a>
-
 <a title="By Patrickringgenberg (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASamarkand_madrasa_Tilla_Kari_cupola.JPG"><img width="256" alt="Samarkand madrasa Tilla Kari cupola" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Samarkand_madrasa_Tilla_Kari_cupola.JPG/256px-Samarkand_madrasa_Tilla_Kari_cupola.JPG"/></a>
 
 
