@@ -29,7 +29,7 @@ The endnotes are extremely extensive and filled with original sources but the la
 
 But what is most glaringly absent is an overview of the content of the chapters, which is hidden behind clever but cryptic chapter titles.  Since I'm expecting to use this as something of a reference book and since I couldn't find any such summary online so have attempted a rough version:
 
-1 The creation of the Silk Road
+1 _The creation of the Silk Road_  
 
    Mespotamia and the reach of Greece and pre-Christian Rome into Persia
 
