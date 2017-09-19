@@ -27,7 +27,7 @@ Important to recognise, states **Frankopan**, that Islam, Christianity and Judai
 
 The endnotes are extremely extensive and filled with original sources but the lack of a companion bibliography makes it very laborious to track down references, which are only given in full the first time they are used.
 
-What is most glaringly absent is an overview of the content of the chapters, which is hidden behind cryptic chapter titles.  ** Peter Frankopan**'s historical knowledge is often a fresh and informative perspective on modern political and economic issues.  Thus, in order to use this as a reference and since I couldn't find any such summary online I have attempted my own rough outline of the chapters:
+What is most glaringly absent is an overview of the content of the chapters, which is hidden behind cryptic chapter titles.  **Peter Frankopan**'s historical knowledge is often a fresh and informative perspective on modern political and economic issues.  Thus, in order to use this as a reference and since I couldn't find any such summary online I have attempted my own rough outline of the chapters:
 
 1 _The Creation of the Silk Road_  - Mesopotamia and the reach of Greece and pre-Christian Rome into Persia.
 
