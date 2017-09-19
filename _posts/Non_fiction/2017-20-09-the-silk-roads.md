@@ -27,33 +27,33 @@ Important to recognise, states **Frankopan**, that Islam, Christianity and Judai
 
 The endnotes are extremely extensive and filled with original sources but the lack of a companion bibliography makes it very laborious to track down references, which are only given in full the first time they are used.
 
-But what is most glaringly absent is an overview of the content of the chapters, which is hidden behind cryptic chapter titles.  ** Peter Frankopan**'s historical perspective is often a fresh perspective on modern political and economic issues.  Thus, in order to use this as a reference and since I couldn't find any such summary online I have attempted my own rough version:
+What is most glaringly absent is an overview of the content of the chapters, which is hidden behind cryptic chapter titles.  ** Peter Frankopan**'s historical knowledge is often a fresh and informative perspective on modern political and economic issues.  Thus, in order to use this as a reference and since I couldn't find any such summary online I have attempted my own rough outline of the chapters:
 
-1 _The Creation of the Silk Road_   Mesopotamia and the reach of Greece and pre-Christian Rome into Persia
+1 _The Creation of the Silk Road_  - Mesopotamia and the reach of Greece and pre-Christian Rome into Persia.
 
-2 _The Road of Faiths_  Buddhism, Christianity and Zoroastrianism
+2 _The Road of Faiths_  and
 
-3 _The Road to a Christian East_
+3 _The Road to a Christian East_ - Buddhism, Zoroastrianism and especially the spread of Christianity. 
 
-4 _The Road to Revolution_
+4 _The Road to Revolution_  - The rise of Islam.
 
-5 _The Road to Concord_
+5 _The Road to Concord_  - Early interactions between Christianity, Islam and Judaism were relatively peaceful.  Until Rome and Persia came into more territorial conflict.  Islam was better at uniting previously independent and disparate local warlords. 
 
-6 _The Road of Furs_
+6 _The Road of Furs_  - Fur and other trade.  Jewish merchants and Vikings ranging far. (Vikings the father or modern Russia:  Rus' = rower).
 
-7 _The Slave Road_
+7 _The Slave Road_  - The Vikings also prominent slave traders.
 
-8 _The Road to Heaven_
+8 _The Road to Heaven_  - The hypocritical, genocidal and catastrophic Crusades.  Harbingers of equally damaging modern conservative forces.
 
-9 _The Road to Hell_
+9 _The Road to Hell_  - **Genghis Khan** and the Mongols.  Not as bad as their reputation would suggest.
 
-10 _The Road of Death and Destruction_
+10 _The Road of Death and Destruction_  - Black Death kills at least a third of Europe's population. And resets the economy in favour of the West (economic reform by killing 30% of the population - don't tell economists).
 
-11 _The Road of Gold_
+11 _The Road of Gold_  - **Columbus** discovers the Americas.
 
-12 _The Road of Silver_
+12 _The Road of Silver_  - **Vasco da Gama** rounds the Cape of Good Hope into the Indian Ocean.  
 
-13 _The Road to Northern Europe_
+13 _The Road to Northern Europe_  - Britian ...
 
 14 _The Road to Empire_
 
