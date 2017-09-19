@@ -27,11 +27,11 @@ Important to recognise, states **Frankopan**, that Islam, Christianity and Judai
 
 The endnotes are extremely extensive and filled with original sources but the lack of a companion bibliography makes it very laborious to track down references, which are only given in full the first time they are used.
 
-But what is most glaringly absent is an overview of the content of the chapters, which is hidden behind clever but cryptic chapter titles.  Since I'm expecting to use this as something of a reference book and since I couldn't find any such summary online so have attempted a rough version:
+But what is most glaringly absent is an overview of the content of the chapters, which is hidden behind cryptic chapter titles.  ** Peter Frankopan**'s historical perspective is often a fresh perspective on modern political and economic issues.  Thus, in order to use this as a reference and since I couldn't find any such summary online I have attempted my own rough version:
 
-1 _The Creation of the Silk Road_   Mespotamia and the reach of Greece and pre-Christian Rome into Persia
+1 _The Creation of the Silk Road_   Mesopotamia and the reach of Greece and pre-Christian Rome into Persia
 
-2 _The Road of Faiths_   Buddhism, Christianity and Zoroastrianism
+2 _The Road of Faiths_  Buddhism, Christianity and Zoroastrianism
 
 3 _The Road to a Christian East_
 
@@ -47,11 +47,11 @@ But what is most glaringly absent is an overview of the content of the chapters,
 
 9 _The Road to Hell_
 
-10 _The Road  of Death and Destruction_
+10 _The Road of Death and Destruction_
 
 11 _The Road of Gold_
 
-12 _The Road  of Silver_
+12 _The Road of Silver_
 
 13 _The Road to Northern Europe_
 
@@ -69,7 +69,7 @@ But what is most glaringly absent is an overview of the content of the chapters,
 
 20 _The Road to Genocide_
 
-21 _The Road  of Cold Warfare_
+21 _The Road of Cold Warfare_
 
 22 _The American Silk Road_
 
