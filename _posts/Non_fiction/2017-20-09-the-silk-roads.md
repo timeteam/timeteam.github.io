@@ -39,7 +39,7 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 5 _The Road to Concord_  - Early interactions between Christianity, Islam and Judaism were relatively peaceful.  Until Rome and Persia came into more territorial conflict.  Islam was better at uniting previously independent and disparate local warlords. 
 
-6 _The Road of Furs_  - Fur and other trade.  Jewish merchants and Vikings ranging far. (Vikings the father or modern Russia:  Rus' = rower).
+6 _The Road of Furs_  - Fur and other trade.  Jewish merchants and Vikings ranging far. (Vikings the father or modern Russia:  Rus' = rower).https://archnet.org/system/media_contents/contents/1461/medium/IHU0504.jpg?1384685540
 
 7 _The Slave Road_  - The Vikings also prominent slave traders.
 
@@ -81,5 +81,7 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 _Conclusion: The New Silk Road_
 
+
+The beautiful cover photograph is the dome of the Tilla Kari Madrasa in Samarkand, Uzbekistan: <img align="right" src="https://archnet.org/system/media_contents/contents/1461/medium/IHU0504.jpg?1384685540" alt="" /> 
 
 
