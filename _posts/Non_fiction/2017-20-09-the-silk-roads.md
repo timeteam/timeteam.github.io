@@ -27,11 +27,11 @@ Important to recognise, states **Frankopan**, that Islam, Christianity and Judai
 
 The endnotes are extremely extensive and filled with original sources but the lack of a companion bibliography makes it very laborious to track down references, which are only given in full the first time they are used.
 
-But what is most glaringly absent is an overview of the content of the chapters, which is hidden behind clever but cryptic chapter titles.  I couldn't find any such summary online so have attempted a rough version:
+But what is most glaringly absent is an overview of the content of the chapters, which is hidden behind clever but cryptic chapter titles.  Since I'm expecting to use this as something of a reference book and since I couldn't find any such summary online so have attempted a rough version:
 
 1. The creation of the Silk Road
 
-... Mespotamia and the reach of Greece and pre-Christian Rome into Persia
+...Mespotamia and the reach of Greece and pre-Christian Rome into Persia
 
 2. The road of faiths
 3. the road to a Christian East
