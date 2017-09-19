@@ -14,7 +14,7 @@ categories: ['history and pre-history']
 ***
 
 
-<img align="right" src="http://images.penguinrandomhouse.com/cover/9781101912379" alt="" />
+<img align="right" src="http://knopfdoubleday.com/wp-content/uploads/2016/02/Silk-Roads-jkt-for-web.jpg" alt="" />
 
 This huge meal of a book is a rich history of the silk roads.  Not just _the_ Silk Road connecting Persia with Rome, Constantinople and the far East.  But also any trading route or seaway.  But the focus is very much on what is now Iran and 
 I took this as a correction to the Western bias of [Sapiens](http://timeteam.github.io/history%20and%20pre-history/2017/09/04/sapiens.html), and a great companion to the history of the "Dark Ages", [The Edge of the World](http://timeteam.github.io/history%20and%20pre-history/2016/01/11/The-edge-of-the-world.html) by **Michael Pye** and also **Richard Fiddler**'s  history of Constantinople, [Ghost Empire](http://timeteam.github.io/history%20and%20pre-history/2017/01/04/ghost-empire.html).  
