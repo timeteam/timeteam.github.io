@@ -43,27 +43,23 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 8 _The Road to Heaven_  - The hypocritical, genocidal and catastrophic Crusades.  Harbingers of equally damaging modern conservative forces.
 
-9 _The Road to Hell_  - **Genghis Khan** and the Mongols.  Not as bad as their reputation would suggest.
+9 _The Road to Hell_  - **Genghis Khan** and the Mongols.  Not as bad as their modern reputation would suggest.
 
 10 _The Road of Death and Destruction_  - Black Death kills at least a third of Europe's population. And resets the economy in favour of the West (economic reform by killing 30% of the population - don't tell economists).
 
 11 _The Road of Gold_  - **Columbus** discovers the Americas.
 
-12 _The Road of Silver_  - **Vasco da Gama** rounds the Cape of Good Hope into the Indian Ocean.  
+12 _The Road of Silver_  - **Vasco da Gabema** rounds the Cape of Good Hope into the Indian Ocean.  
 
-13 _The Road to Northern Europe_  - Britian ...
+13 _The Road to Northern Europe_  - Northern Europe prospers: Britain invests in the navy, Dutch traders bypass Spain and Portugal.
 
-14 _The Road to Empire_
+14 _The Road to Empire_  - The Puritans escape the newly diverse and multicultural Europe to found America [one of the great social experiments, and an abject failure]. Britain enjoys the great benefit of not having a land border to protect and thus not needing an expensive army. 
 
-15 _The Road to Crisis_
+15 _The Road to Crisis_ and 16 _The Road to War_  - Napoleon.  Then Britain, Russia and Germany struggle for control of Eastern Europe and Afghanistan.  These complex conflicts about trading and food security are the basis of World War 1. 
 
-16 _The Road to War_
+17 _The Road of Black Gold_ and 18 _The Road to Compromise_  - British investors prospect and drill for oil in Persia and Burma. Some of these companies join to form BP and fuel the machines and ships of World War 1.  Germany suffered from not changing from coal quickly enough.
 
-17 _The Road of Black Gold_
-
-18 _The Road to Compromise_
-
-19 _The Wheat Road_
+19 _The Wheat Road_  - Complex conflicts with Russia around food security for Germany, eventually leading to **Hitler**'s catastrophic Russian invasion.
 
 20 _The Road to Genocide_  - World War 2, the Russian front, the Holocaust, the Iron Curtain.
 
