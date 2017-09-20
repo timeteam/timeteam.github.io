@@ -31,9 +31,7 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 1 _The Creation of the Silk Road_  - Mesopotamia and the reach of Greece and pre-Christian Rome into Persia.
 
-2 _The Road of Faiths_  and
-
-3 _The Road to a Christian East_ - Buddhism, Zoroastrianism and especially the spread of Christianity. 
+2 _The Road of Faiths_ and 3 _The Road to a Christian East_ - Buddhism, Zoroastrianism and especially the spread of Christianity. 
 
 4 _The Road to Revolution_  - The rise of Islam.
 
@@ -67,19 +65,15 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 19 _The Wheat Road_
 
-20 _The Road to Genocide_
+20 _The Road to Genocide_  - World War 2, the Russian front, the Holocaust, the Iron Curtain.
 
-21 _The Road of Cold Warfare_
+21 _The Road of Cold Warfare_  - Britian, the United States and Russia contest oilfields and Iran.  The CIA backs a coup in 1973, the Shah flees to Italy and the seeds of modern Islamic extremism are born from the enmity to the West.
 
-22 _The American Silk Road_
+22 _The American Silk Road_  - The USA in Israel and Egypt.  In response OPEC is founded by Iray, Iran, Saudi Arabia, Kuwait and Venezuela.
 
-23 _The Road of Superpower Rivalry_
+23 _The Road of Superpower Rivalry_ and 24 _The Road to Catastrophe_ and 25 _The Road to Tragedy_  - The USA and USSR seek control of Afghanistan, Iran.  The USA creates Iran as a nuclear power.  In 1979 **Ayatollha Khomeini** momentously replaces the US-backed Shah in Iran.  The catastrophe of the USA, Iraq and **Saddam Hussein**.  Kuwait.
 
-24 _The Road to Catastrophe_
-
-25 _The Road to Tragedy_
-
-_Conclusion: The New Silk Road_
+_Conclusion: The New Silk Road_  - China!  "The age of the West is at a crossroads, if not at an end." (p. 503)
 
 
 The beautiful cover photograph is the cupola of the Tilla Kari Madrasa in Samarkand, Uzbekistan.  <a title="By Jean-Pierre Dalbéra from Paris, France [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALa_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_(Samarcande%2C_Ouzb%C3%A9kistan)_(5630693152).jpg"><img width="512" alt="La madrasa et la mosquée Tilla Kari du Registan (Samarcande, Ouzbékistan) (5630693152)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/La_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_%28Samarcande%2C_Ouzb%C3%A9kistan%29_%285630693152%29.jpg/512px-La_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_%28Samarcande%2C_Ouzb%C3%A9kistan%29_%285630693152%29.jpg"/></a>
