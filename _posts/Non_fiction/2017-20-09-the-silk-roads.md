@@ -72,6 +72,7 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 _Conclusion: The New Silk Road_  - China!  
 
 > The age of the West is at a crossroads, if not at an end.
+
 (p. 503)
 
 
