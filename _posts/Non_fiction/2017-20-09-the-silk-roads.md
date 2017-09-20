@@ -53,7 +53,7 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 13 _The Road to Northern Europe_  - Northern Europe prospers: Britain invests in the navy, Dutch traders bypass Spain and Portugal and Holland becomees wealthy.
 
-14 _The Road to Empire_  - The Puritans escape the newly diverse and multicultural Europe to found America [one of the great social experiments, and an abject failure]. Britain enjoys the great benefit of not having a land border to protect and thus not needing an expensive army. 
+14 _The Road to Empire_  - The Puritans escape the newly diverse and multicultural Europe to found America [one of the great social experiments, and an abject failure as a secular, rational American society is clearly as distant as ever]. Britain enjoys the great benefit of not having a land border to protect and thus not needing an expensive army. 
 
 15 _The Road to Crisis_ and 16 _The Road to War_  - **Napoleon** rates a brief mention.  Britain, Russia and Germany struggle for control of Eastern Europe and Afghanistan.  These complex conflicts about trading and food security are the basis of World War 1. 
 
