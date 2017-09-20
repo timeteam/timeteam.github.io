@@ -49,13 +49,13 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 11 _The Road of Gold_  - **Columbus** discovers the Americas.
 
-12 _The Road of Silver_  - **Vasco da Gabema** rounds the Cape of Good Hope into the Indian Ocean.  
+12 _The Road of Silver_  - **Vasco da Gama** rounds the Cape of Good Hope into the Indian Ocean.  
 
-13 _The Road to Northern Europe_  - Northern Europe prospers: Britain invests in the navy, Dutch traders bypass Spain and Portugal.
+13 _The Road to Northern Europe_  - Northern Europe prospers: Britain invests in the navy, Dutch traders bypass Spain and Portugal and Holland becomees wealthy.
 
 14 _The Road to Empire_  - The Puritans escape the newly diverse and multicultural Europe to found America [one of the great social experiments, and an abject failure]. Britain enjoys the great benefit of not having a land border to protect and thus not needing an expensive army. 
 
-15 _The Road to Crisis_ and 16 _The Road to War_  - Napoleon.  Then Britain, Russia and Germany struggle for control of Eastern Europe and Afghanistan.  These complex conflicts about trading and food security are the basis of World War 1. 
+15 _The Road to Crisis_ and 16 _The Road to War_  - **Napoleon** rates a brief mention.  Britain, Russia and Germany struggle for control of Eastern Europe and Afghanistan.  These complex conflicts about trading and food security are the basis of World War 1. 
 
 17 _The Road of Black Gold_ and 18 _The Road to Compromise_  - British investors prospect and drill for oil in Persia and Burma. Some of these companies join to form BP and fuel the machines and ships of World War 1.  Germany suffered from not changing from coal quickly enough.
 
@@ -69,7 +69,10 @@ What is most glaringly absent is an overview of the content of the chapters, whi
 
 23 _The Road of Superpower Rivalry_ and 24 _The Road to Catastrophe_ and 25 _The Road to Tragedy_  - The USA and USSR seek control of Afghanistan, Iran.  The USA creates Iran as a nuclear power.  In 1979 **Ayatollha Khomeini** momentously replaces the US-backed Shah in Iran.  The catastrophe of the USA, Iraq and **Saddam Hussein**.  Kuwait.
 
-_Conclusion: The New Silk Road_  - China!  "The age of the West is at a crossroads, if not at an end." (p. 503)
+_Conclusion: The New Silk Road_  - China!  
+
+> The age of the West is at a crossroads, if not at an end.
+(p. 503)
 
 
 The beautiful cover photograph is the cupola of the Tilla Kari Madrasa in Samarkand, Uzbekistan.  <a title="By Jean-Pierre Dalbéra from Paris, France [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALa_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_(Samarcande%2C_Ouzb%C3%A9kistan)_(5630693152).jpg"><img width="512" alt="La madrasa et la mosquée Tilla Kari du Registan (Samarcande, Ouzbékistan) (5630693152)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/La_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_%28Samarcande%2C_Ouzb%C3%A9kistan%29_%285630693152%29.jpg/512px-La_madrasa_et_la_mosqu%C3%A9e_Tilla_Kari_du_Registan_%28Samarcande%2C_Ouzb%C3%A9kistan%29_%285630693152%29.jpg"/></a>
