@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ian McDonald - Luna. Wolf moon."
+title: "Ian McDonald - Luna. Wolf moon"
 date: 2017-09-28
 published: true
 category: fiction
