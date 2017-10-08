@@ -14,7 +14,7 @@ categories: ['art and music']
 ***
 
 
-<img align="right" src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374534042.jpg" alt="" />
+<img align="right" src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374534042.jpg"  width="512"  alt="" />
 
 Ostensibly this book is not directly about the music of **J.S. Bach**.  Rather it is about modern interpreters who have been responsible for a revived appreciation of **J.S. Bach**.
 
