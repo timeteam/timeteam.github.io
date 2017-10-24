@@ -17,6 +17,6 @@ A defense of pure mathematics.  But Oxford and Cambridge don **G.H. Hardy** is s
 
 There are a few aphorisms scattered through the text, but none that I have remembered.  There is at least one thing in this essay where **Hardy** would probably find himself in agreement with mathematicians and philosophers from **Plato** to **Tegmark**: mathematics is apart from the physical universe.  We discover it, we do not create it. 
 
-The foreword by **C.P. Snow** paints a revealing picture of his eccentric and pathologically shy friend, who by his own admission was only a bit brilliant and stated that for a short time he was probably about the 5th best pure mathematician alive.  Lots of modern mathematicians cite this book in various contexts but perhaps they are being a bit polite? 
+The foreword by **C.P. Snow** paints a revealing picture of his eccentric and pathologically shy friend, who by his own admission was only a bit brilliant and stated that for a short time he was probably about the fifth best pure mathematician alive.  Lots of modern mathematicians cite this book in various contexts but perhaps they are being a bit polite? 
 
 
