@@ -21,6 +21,7 @@ The first chapters are about the Sibley and Ahlquist "Out of Australia" songbird
 - Parrots are sister to songbirds.  There are 3 parrot groups: the 3 NZ parrot species; cockatoos; and the rest (Psittacidae). 
 - Songbirds only became seed eaters elsewhere, after they left Australia, where seed eating competitors pigeons and parrots dominated.
 - New Zealand, benefiting from the productivity of the Southern Ocean Circulation and with lots of suitable safe nesting islands has the highest seabird diversity in the world.
+- A handy [bird taxonomy web site](http://jboyd.net/Taxo/taxo1.html) by an amateur ornighologist (not updated since 2014, however).
 
 Anyone who has had the very great pleasure of watching Wandering Albatross on the wing in a Southern Ocean storm will be in total agreement with Tim Low's statement on this subject:
 
