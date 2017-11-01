@@ -22,8 +22,8 @@ The first chapters are about the Sibley and Ahlquist "Out of Australia" songbird
 - Songbirds only became seed eaters elsewhere, after they left Australia, where seed eating competitors pigeons and parrots dominated.
 - New Zealand, benefiting from the productivity of the Southern Ocean Circulation and with lots of suitable safe nesting islands has the highest seabird diversity in the world.
 
-Anyone who has had the very great pleasure of watching wandering albatross on the wing will be in total agreement with Tim Low's statement on this subject:
+Anyone who has had the very great pleasure of watching Wandering Albatross on the wing in a Southern Ocean storm will be in total agreement with Tim Low's statement on this subject:
 
-> Seabirds in wind are hypnotic to watch.  I don't believe I've spent as much time absoirbved by anything wild as by the wandering albatross. (p.252)
+> Seabirds in wind are hypnotic to watch.  I don't believe I've spent as much time absorbed by anything wild as by the Wandering Albatross. (p.252)
 
 <a title="By 3HEADEDDOG (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/4/4c/Wandering_Albatross_CW.jpg"><img width="512" alt="Wandering Albatross CW" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wandering_Albatross_CW.jpg/1024px-Wandering_Albatross_CW.jpg"/></a>
