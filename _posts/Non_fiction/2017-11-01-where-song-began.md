@@ -26,4 +26,4 @@ Anyone who has had the very great pleasure of watching wandering albatross on th
 
 > Seabirds in wind are hypnotic to watch.  I don't believe I've spent as much time absoirbved by anything wild as by the wandering albatross. (p.252)
 
-<a title="By 3HEADEDDOG (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AWandering_Albatross_CW.jpg"><img width="512" alt="Wandering Albatross CW" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wandering_Albatross_CW.jpg/512px-Wandering_Albatross_CW.jpg"/></a>
+<a title="By 3HEADEDDOG (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/4/4c/Wandering_Albatross_CW.jpg"><img width="512" alt="Wandering Albatross CW" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wandering_Albatross_CW.jpg/1024px-Wandering_Albatross_CW.jpg"/></a>
