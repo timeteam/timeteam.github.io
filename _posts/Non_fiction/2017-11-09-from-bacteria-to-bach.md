@@ -18,7 +18,7 @@ A persistent reader will finally encounter a reasonable précis of this book in 
 
 > At last we are ready to ... examine human consciousness as a system of virtual machines that evolved, genetically and memetically, to play very specialized roles in the "cognitive niche" our ancestors have constructed over the millennia.
 
-But although many concepts are described and much literature drawn on, there is nothing in here in the way of mechanism that illuminates the evolution of consciousness.  It is all just words, theories, alternatives, maybes, possibilities.  All very disappointing.
+But although many concepts are described and much literature drawn on, there is nothing in here in the way of mechanism or other substantial or original contribution that could illuminate the evolution of consciousness.  It is all just words, theories, alternatives, maybes, possibilities.  All very disappointing.
 
 A few interesting observations and propositions stuck with me:
 
