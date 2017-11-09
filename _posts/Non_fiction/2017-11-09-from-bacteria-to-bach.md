@@ -12,7 +12,7 @@ category: ['mind and artificial intelligence']
 
 <img align="right" src="http://cdn.wwnorton.com/dam_booktitles/270/img/cover/9780393242072_300.jpeg"  width="256"  alt="" />
 
-In this long, rambling and uninformative book, Daniel Dennett seeks to show that a plausible process exists for the evolution of minds. That the Cartesian duality cannot be accepted. That top down AI does not work. That evolution explains biology including studies of the mind.  And long-winded justifications of a host of other unremarkable propositions that have long been accepted by biologists.  But apparently not by some philosophers, who would otherwise be lacking a topic to produce words on.   
+In this long, rambling and uninformative book, Daniel Dennett seeks to show that a plausible process exists for the evolution of minds. That the Cartesian duality cannot be accepted. That top down AI does not work. That evolution explains biology including studies of the mind.  And long-winded justifications of a host of other unremarkable propositions that have long been accepted by biologists.  But apparently not by some philosophers, who would otherwise be lacking the mind as a topic to produce words on (with their minds).   
 
 A persistent reader will finally encounter a reasonable précis of this book in the opening sentence of chapter 14:
 
