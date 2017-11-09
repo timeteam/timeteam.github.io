@@ -14,17 +14,22 @@ category: ['mind and artificial intelligence']
 
 In this long, rambling and uninformative book, Daniel Dennett seeks to show that a plausible process exists for the evolution of minds. That the Cartesian duality cannot be accepted. That top down AI does not work. That evolution explains biology including studies of the mind.  And long-winded justifications of a host of other unremarkable propositions that have long been accepted by biologists.  But apparently not by some philosophers, who would otherwise be lacking a topic to produce words on.   
 
-A persistent reader will finally encounter a reasonable précis of this book in the opening sentence of chapter 14... 
+A persistent reader will finally encounter a reasonable précis of this book in the opening sentence of chapter 14:
+
+> At last we are ready to ... examine human consciousness as a system of virtual machines that evolved, genetically and memetically, to play very specialized roles in the "cognitive niche" our ancestors have constructed over the millennia.
+
+But although many concepts are described and much literature drawn on, there is nothing in here in the way of mechanism that illuminates the evolution of consciousness.  It is all just words, theories, alternatives, maybes, possibilities.  All very disappointing.
+
+There are just a few redeeming observations and propositions:
 
 
+* On page 200, the assertion that words/sounds are unlikely to survive unless they can be digitised (I think Dennett means atomised). However, this interesting assertion is not supported by a reasoned argument. He then goes on to talk about memes, words as memes, the origin of language, but other than the atomisation statement nowhere is there an explanation for the origin of words.
 
-P 200, words/sounds are unlikely to survive unless they can be digitised (i think he means atomised). Goes o  to talk about memes, words as memes, the origin of language, but other than the atomisation statement (which is not  a reasoned argument) nowhere is there an explanation for the origin of words.
+* On page 263, the idea that words are memes, and selection among memes may overcome non-adaptive early stages in language evolution (But see contra view of Pinker, p. 316 ff.)
 
-2 uninformative chapters describing memes then responding to criticism of whether they exist or are real.
+* On p. 271 the quote from p. 147 of Hurford 2014 _The origins of language: a slim guide._:
 
-Memes overcoming non-adaptive early stages in language evolution bottom of p. 263. Butbsee contra view of Pinker, p 316 ff
-
-Hurford 2014 book, quote on complexity p 271
+> There is a robust negative statistical correlation between the morphological complexity of a language and the size of the population that speaks it.   
 
 Plato bottom of page 299
 
