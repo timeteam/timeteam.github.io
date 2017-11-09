@@ -20,8 +20,7 @@ A persistent reader will finally encounter a reasonable précis of this book in 
 
 But although many concepts are described and much literature drawn on, there is nothing in here in the way of mechanism that illuminates the evolution of consciousness.  It is all just words, theories, alternatives, maybes, possibilities.  All very disappointing.
 
-There are just a few redeeming observations and propositions:
-
+A few interesting observations and propositions stuck with me:
 
 * On page 200, the assertion that words/sounds are unlikely to survive unless they can be digitised (I think Dennett means atomised). However, this interesting assertion is not supported by a reasoned argument. He then goes on to talk about memes, words as memes, the origin of language, but other than the atomisation statement nowhere is there an explanation for the origin of words.
 
@@ -31,8 +30,8 @@ There are just a few redeeming observations and propositions:
 
 > There is a robust negative statistical correlation between the morphological complexity of a language and the size of the population that speaks it.   
 
-Plato bottom of page 299
+* In the footnote at the bottom of page 299 I was very glad to be told Plato's description of one's knowledge as an aviary filled with birds; they are your birds, but do they come when you call?
 
-P 301 ff language as a virtual machine 
+* On p. 301 ff. offering the idea that language can be thought of as a virtual machine.  (And so can many other aspects of culture, and of mind.) 
 
-There is an extensive bibliography, mostly philosophy works, but very many referencdes cited in the text are missing.  
+There is an extensive bibliography, mostly philosophy works, but it is incomplete; many references cited in the text are missing from endnotes and from bibliography.  
