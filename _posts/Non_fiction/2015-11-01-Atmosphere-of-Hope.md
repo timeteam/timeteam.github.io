@@ -2,7 +2,7 @@
 layout: post
 title: "Tim Flannery - Atmosphere of Hope*"
 date: 2015-11-01
-category: ['mind and artificial intelligence']
+category: ['weather and climate']
 ---
 
 ***
