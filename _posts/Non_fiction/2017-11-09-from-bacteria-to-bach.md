@@ -9,6 +9,8 @@ category: ['mind and artificial intelligence']
 <b>Daniel Dennett</b> 2017. _From Bacteria to Bach and Back.  The evolution of minds._ New York: W.W. Norton. 476 pp.
 
 ***
+http://cdn.wwnorton.com/dam_booktitles/270/img/cover/9780393242072_300.jpeg
+
 
 In this long, rambling and uninformative book, Daniel Dennett seeks to show that a plausible process exists for the evolution of minds. That the Cartesian duality cannot be accepted. That top down AI does not work. That evolution explains biology including studies of the mind.  And long-winded justifications of a host of other unremarkable propositions that have long been accepted by biologists.  But apparently not by some philosophers, who would otherwise be lacking a topic to produce words on.   
 
