@@ -13,7 +13,7 @@ categories: ['fiction']
 ***
 
 
-<img width="256" align="right" src="http://timeteam.github.io/images/ransome_1956_racundra.jpg" alt=""> 
+<img width="256" align="right" src="http://timeteam.github.io/images/thewritinginthestone.jpg" alt=""> 
 
 
 
