@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jennifer Doudna and Samuel Sternberg - A Crack in Creation"
+title: "Jennifer Doudna & Samuel Sternberg - A Crack in Creation"
 date: 2017-11-22
 published: true
 categories: ['biology ecology and evolution']
@@ -17,7 +17,7 @@ An easily consumed account of how undirected curiosity-driven research into the 
 
 The acronym CRISPR stands for clustered regularly interspaced short palindromic repeats.  This is a fast-evolving section of bacterial DNA that acts as an immune system against viruses; it is able to adopt the sequence of an attacking virus and can then use this to recognise and destroy similar attacking viruses. Genes at either end of the CRISPR sequence (such as Cas9) and RNA then recognise this sequence in a virus and cut up the virus genome and destroy it.  (At the molecular level all this happens very fast.)  On pp. 39-85 the authors describe these discoveries in a fascinating and exiting narrative.  This is the central part of the book.  The authors, who are also leading researchers in the field, go on to describe how this natural immune system in viruses can be used to develop systems now routinely used by researchers to target and edit genes in any organism.
 
-Clearly, Jennifer Doudna is one of the researchers who will soon win a Nobel Prize for this work but the book makes it very clear that there were dozens of researchers who made key discoveries, including discoveries made prior to Doudna's interest in CRISPR.  Doudna admits her role was managing and directing the lab and other collaborators rather than actually doing lab work.  Who else will get prizes? No doubt Emmanuelle Charpentier (original collaborator, now competitor).  The Nobel Committee needs to work out a way to acknowledge these large teams more equitably.
+Clearly, Jennifer Doudna is one of the researchers who will soon win a Nobel Prize for this work but the book makes it very clear that there were dozens of researchers who made key discoveries, including discoveries made prior to Doudna's interest in CRISPR.  Doudna admits her role was managing and directing the lab and other collaborators rather than actually doing lab work.  Who else will get prizes? No doubt Emmanuelle Charpentier (original collaborator, now competitor).  The Nobel Prizes will seem increasingly out of date until they work out a way to acknowledge these large teams more equitably.
 
 To me the book reads a bit too cosy and friendly, to the point of being misleading.  In this narrative everyone gets on nicely but it must have been a very higly competitive and stressful time, with several teams racing towards key discoveries once the first and most influential steps had been taken.  There must be an account somewhere, or in the making, that is not as sanitised and one-sided as this seems to be. 
 
