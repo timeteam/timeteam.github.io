@@ -29,4 +29,4 @@ Not as much to offer on the earliest steps in language evolution as in later dev
 Modelling vowels p 152
 
 Fricatives and lenition, softening, p 160
-The bibliography is as slim and concise as the rest of the book.  For an introduction to some of the other voices on the topic, the [references and further reading](https://en.wikipedia.org/wiki/CRISPR#References) 
+The bibliography is as slim and concise as the rest of the book but there is a whole lot of reading including some pdfs at [Jim Hurford's web page](http://www.lel.ed.ac.uk/~jim/).
