@@ -3,7 +3,7 @@ layout: post
 title: "John L. Casti - The One True Platonic Heaven"
 date: 2017-12-14
 published: true
-categories: ['biology ecology and evolution', 'mind and artificial intelligence']
+categories: ['fiction']
 
 ---
 
