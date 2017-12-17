@@ -9,7 +9,7 @@ categories: ['fiction']
 
 
 ***
-<b>John L. Casti</b> 2003. _The One True Platonic Heaven. A scientific fiction on the limits of knowledge  Washington D.C.: John Henry Press, 160 pp.
+<b>John L. Casti</b> 2003. _The One True Platonic Heaven. A scientific fiction on the limits of knowledge_.  Washington D.C.: John Henry Press, 160 pp.
 
 ***
 <img width="256" align="right" src="https://www.nap.edu/cover/10533/450" alt="">  
