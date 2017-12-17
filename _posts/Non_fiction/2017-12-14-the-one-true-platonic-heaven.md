@@ -12,6 +12,7 @@ categories: ['fiction']
 <b>John L. Casti</b> 2003. _The One True Platonic Heaven. A scientific fiction on the limits of knowledge_.  Washington D.C.: John Henry Press, 160 pp.
 
 ***
+
 <img width="256" align="right" src="https://www.nap.edu/cover/10533/450" alt="">  
 
 It is not clear what advantage the author hoped to achieve by inserting gratuitous invented dialogue into a history of a key period in the development of quantum mechanics.  For example, who would find an account of the Einstein-Podolsky-Rosen paper is improved by pretending that Einstein's wife might have said to him 
