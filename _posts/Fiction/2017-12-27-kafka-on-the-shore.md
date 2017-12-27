@@ -13,7 +13,7 @@ categories: ['fiction']
 
 ***
 
-<img align="right" src="https://images.penguinrandomhouse.com/cover/9781400079278" alt="">  
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/41uHZPvw1aL._SX325_BO1,204,203,200_.jpg" alt="">  
 
 It seems Haruki Murakami sums this up himself at the end, using the voice of Oshima, a character of uncertain gender who  might be his alter-ego:
 
