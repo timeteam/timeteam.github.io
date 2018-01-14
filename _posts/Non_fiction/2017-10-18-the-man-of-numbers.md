@@ -3,7 +3,7 @@ layout: post
 title: "Keith Devlin - The Man of Numbers"
 date: 2017-10-18
 published: true
-categories: ['history and pre-history', 'mathematics and physics']
+categories: ['history and pre-history', 'mathematics and physics', 'biography and memoir']
 
 ---
 
