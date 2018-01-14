@@ -3,7 +3,7 @@ layout: post
 title: "Mike Tomkies - A Last Wild Place"
 date: 2017-04-09
 published: true
-categories: ['natural history']
+categories: ['natural history', 'biography and memoir']
 
 ---
 
