@@ -3,7 +3,7 @@ layout: post
 title: "G.H. Hardy - A Mathematician's Apology"
 date: 2017-10-23
 published: true
-categories: ['mathematics and physics']
+categories: ['mathematics and physics', 'biography and memoir']
 
 ---
 
