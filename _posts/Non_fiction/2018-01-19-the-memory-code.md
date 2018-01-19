@@ -9,7 +9,7 @@ categories: ['history and pre-history']
 ***
 <b>Lynne Kelly</b> 2003. _The Memory Code._  Sydney: Allen & Unwin, 318 pp. 
 
-<img align="right" width=256 src="https://s3-ap-southeast-2.amazonaws.com/assets.allenandunwin.com/images/small/9781760291327.jpg" alt="">
+<img align="right" width="256" src="https://s3-ap-southeast-2.amazonaws.com/assets.allenandunwin.com/images/small/9781760291327.jpg" alt="">
 Lynne Kelly's thesis is that memory - of environment, landscape, history, dates, astronomy, food and so on - was crucial to all successful societies in prehistory.  Therefore, says Lynne Kelly, those societies would have used the most effective method available, the 'memory cathedral' technique: linking knowledge to landscapes (songlines of Aboriginal Australian cultures), megaliths (Neolithic Europe), glyphs in the desert (Nasca), sculptures (the moai of Rapanui), and many kinds of hand-held mnemonic devices in many cultures.  Among others.   
 
 In an early chapter, Lynne Kelly explains how this technique works for her in a modern context.  I'm encouraged enough to find a  relevant framework and give it a try.
