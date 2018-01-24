@@ -13,7 +13,12 @@ categories: ['history and pre-history']
 
 The late acclaimed novelist takes a stab at a popular account of the mathematics and philosophy of infinity.  A hugely disappointing read.  Instead of providing some structure, or even a narrative, this book is an unfiltered  stream of consciousness direct from David Foster Wallace.  Clearly he knows a great deal about mathematics and especially the key mathematicians relevant to this subject.  But he has no wit for imparting that information, despite his own obvious enthusiasm for the topic. 
 
-A hard book to learn anything from, and more likely to steer the thoughtful reader to other sources, especially regarding Georg Cantor and transfinite numbers.  Several books already on my shelf will do that more concisely and easily.  but also 
+A hard book to learn anything from, and more likely to steer the thoughtful reader to other sources, especially regarding Georg Cantor and transfinite numbers.  Several books already on my shelf will do that more concisely and easily, but also: 
+Dauben, Joseph W. 1979. _Georg Cantor: his mathematics and philosophy of the infinite_ Boston: Harvard University Press; 
+and
+Dauben, Joseph W. June 1983. Georg Cantor and the Origins of Transfinite Set Theory _Scientific American_ 248 (6): 122–131.
+
+The preface to this edition by Neal Stephenson is an unconvincing  try-hard apology for this idiosyncratic book.
 
 
 
