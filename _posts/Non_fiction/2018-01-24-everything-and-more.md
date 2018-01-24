@@ -2,7 +2,7 @@
 layout: post
 title: "David Foster Wallace - Everything and More"
 date: 2018-01-24
-categories: ['history and pre-history']
+categories: ['mathematics and physics']
 ---
 
 
