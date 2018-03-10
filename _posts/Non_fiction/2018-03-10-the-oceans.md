@@ -11,11 +11,11 @@ categories: ['weather and climate']
 
 <img align="right" width="256" src="https://press.princeton.edu/sites/default/files/styles/large/public/covers/9780691168913_1.png?itok=96CZWDHQ" alt="">
 
-Despite a few significant flaws, this is a compelling and sobering summary of what we think we know about the history of the oceans and climate, and the perspective that gives to an understanding of climate change due to humans in the past ~200 years.
+Despite a few significant flaws, this is a fascinating, compelling and sobering summary of what we think we know about the history of the oceans and climate, and the perspective that gives to an understanding of climate change due to humans in the past ~200 years.
 
 Eelco Rohling is a "paleoceanographer" [a daft but apparently nearly universal misspelling of what should surely be "palaeo-oceanographer", or at least  "paleo-oceanographer". Who says or writes "paleclimatolagist", for example?].  His goal is to convey what he and his colleagues have learned about the history of the oceans and  climate through geological time to a readership "beyond the narrow circle of specialists" (p. 2).  Unfortunately I suspect he will fail, since the book may be a bit too detailed and have too many graphs for a general audience.  A more likely audience would include scientists from other fields, especially related fields.  Like a typical reader of other books by the publisher (Princeton University Press).  It isn't a hard book to read, however, and I learned a lot, and when I forget it again I'll return to this book and to these notes.
 
-It is a pity that many of the interesting/important/debatable statements are not explicitly supported by references.   The best one can do is attempt to guess which of the several dozen primary literature citations for each chapter might be applicable to each statement. Or to exhaustively read each paper.
+It is a pity that many of the interesting/important/debatable statements are not explicitly supported by references.   The best one can do is attempt to guess which of the several dozen primary literature citations for each chapter might be applicable to each statement. Or to read each paper.
 
 For example: 
 "we have good evidence of their [oceans] existence by about four billion years ago" (p. 15)
