@@ -51,7 +51,7 @@ A compelling description of anoxic events in the Mediterranean (p. 145 ff.) and 
 
 The theory and method of inferring sea-level change over time is masterfully summarised on pages 168-174, although I would have liked to read a short description of the methods by which palaeo-oceanographers correct for uplift or subsidence since the deposition of a [coral] sample (p. 169).
 
-Maybe my biggest lesson was that causes opf ice ages older than 1.2 Ma (which occurred about every 41K years) are reasonably well understood as they correlate with orbital variations.   However ice ages since 1.2 Ma occur about every 100K years _and their causes are still not known_ (p. 176 and elsewhere).  Given the present predicament of humanity this is one of our most important knowledge gaps.
+Maybe my biggest lesson was that causes of the most recent ice ages is a mystery.  Ice ages older than 1.2 Ma occurred about every 41K years and are reasonably well understood as they correlate with orbital variations.   However ice ages since 1.2 Ma occur about every 100K years _and their causes are still not known_ (p. 176 and elsewhere).  Given the present predicament of humanity this is a hugely significant knowledge gap.
 
 I didn't know about the "seesaw" of temperatures between north and south.  North Atlantic deepwater formation is a heat pump that ensures when high northern latitudes receive warm, high salinity tropical waters, then the south cools (p. 190).
 
