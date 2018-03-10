@@ -45,7 +45,7 @@ Sponges may have had a role increasing oxygenation in the early oceans because t
 
 The best summary I've found on the carbonate compensation depth (CCD - transition from depths where sediments contain carbonate to those where carbonate is absent because deep sea waters are more acid and colder due) starting on p. 104 and changes over time due to weathering of carbonate rocks, buffering of atmospheric CO^2^  and comparisons of the Atlantic and Pacific Oceans.  I didn't know that the CCD his thought to have increased by 1.6 km over the past 55 Ma (p. 117).  The system is a buffer, because when oceans become more acidic carbonate in the sediments dissolves and corrects.  Just a lot more slowly.
 
-Sea levels are said to be about 200 m higher than present values during the mid-Cretaceous but only about 80 m of this can be achieved by melting all the polar ice.  Of course this is not a mystery to proponents of a smaller those whopalaeo-Earth (pp. 131-132; also p. 167). 
+Sea levels are said to be about 200 m higher than present values during the mid-Cretaceous but only about 80 m of this can be achieved by melting all the polar ice.  This is no mystery to proponents of a smaller palaeo-Earth (pp. 131-132; also p. 167). 
 
 A compelling description of anoxic events in the Mediterranean (p. 145 ff.) and correlation with astronomical phenomena (precession).  Precession also alternately magnifies then minimises seasonal difference every ~11.5K years.
 
