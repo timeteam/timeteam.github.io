@@ -2,7 +2,7 @@
 layout: post
 title: "Eelco J. Rohling - The Oceans"
 date: 2018-03-10
-categories: ['mathematics and physics']
+categories: ['weather and climate']
 ---
 
 
