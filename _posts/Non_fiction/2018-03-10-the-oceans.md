@@ -59,6 +59,8 @@ All this provides a convincing and compelling context for evaluating changes in 
 
 A few refs to follow up:
 
+Brinkhuis, H., Schouten, S., Collinson, M.E., Sluijs, A., Damsté, J.S.S., Dickens, G.R., Huber, M., Cronin, T.M., Onodera, J., Takahashi, K., Bujak, J.P., Stein, R., van der Burgh, J., Eldrett, J.S., Harding, I.C., Lotter, A.F., Sangiorgi, F., Cittert, H. van K., de Leeuw, J.W., Matthiessen, J., Backman, J., Moran, K. & the Expedition 302 Scientists (2006) Episodic fresh surface waters in the Eocene Arctic Ocean. Nature 441, 606. 
+
 Butterfield, N.J. (2006) Hooking some stem-group “worms”: fossil lophotrochozoans in the Burgess Shale. BioEssays 28, 1161–1166. 
 
 Canfield, D.E., Poulton, S.W. & Narbonne, G.M. (2007) Late-Neoproterozoic Deep-Ocean Oxygenation and the Rise of Animal Life. Science 315, 92. 
