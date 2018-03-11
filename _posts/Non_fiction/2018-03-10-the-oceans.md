@@ -60,11 +60,17 @@ All this provides a convincing and compelling context for evaluating changes in 
 A few refs to follow up:
 
 Butterfield, N.J. (2006) Hooking some stem-group “worms”: fossil lophotrochozoans in the Burgess Shale. BioEssays 28, 1161–1166. 
+
 Canfield, D.E., Poulton, S.W. & Narbonne, G.M. (2007) Late-Neoproterozoic Deep-Ocean Oxygenation and the Rise of Animal Life. Science 315, 92. 
+
 Caron, J.-B., Scheltema, A., Schander, C. & Rudkin, D. (2007) Reply to Butterfield on stem-group “worms”: fossil lophotrochozoans in the Burgess Shale. BioEssays 29, 200–202. 
+
 Hönisch, B., Ridgwell, A., Schmidt, D.N., Thomas, E., Gibbs, S.J., Sluijs, A., Zeebe, R., Kump, L., Martindale, R.C., Greene, S.E., Kiessling, W., Ries, J., Zachos, J.C., Royer, D.L., Barker, S., Marchitto, T.M., Moyer, R., Pelejero, C., Ziveri, P., Foster, G.L. & Williams, B. (2012) The Geological Record of Ocean Acidification. Science 335, 1058. 
 Huber, B.T., Norris, R.D. & MacLeod, K.G. (2002) Deep-sea paleotemperature record of extreme warmth during the Cretaceous. Geology 30, 123–126. 
+
 Purvis, A., Jones, K.E. & Mace, G.M. (2000) Extinction. BioEssays 22, 1123–1133. 
+
 Shen, B., Dong, L., Xiao, S. & Kowalewski, M. (2008) The Avalon Explosion: Evolution of Ediacara Morphospace. Science 319, 81. 
+
 Whaley, J. (2007) The Azolla Story: Climate Change and Arctic Hydrocarbons. Geo ExPro 4, 66–72. 
 
