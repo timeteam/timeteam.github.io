@@ -18,7 +18,7 @@ Darwin’s first love, geology, is supposedly the focus of Rob Wesson’s book b
 
 Anyway, the bones of Darwin’s geological contributions are significant and all follow from his insightful understanding of the significance of uplift (and subsidence) in explaining so much in geomorphology.  Lyell’s iconic example is the marine bivalve borings in the exposed columns of the Temple of Serapis but Darwin and others were already on board.
 
-Darwin’s first excursion into geomorphology was an interest in the now elevated “Parallel Roads” in Glen Roy, Scotland.  These are now recognised as being scars due to glaciers, as explained by Agassiz but Darwin was sort of close, supposing that they were ancient shoreline scars due to floating sea ice.  Perhaps most importantly, these and many other examples show Darwin’s incessant curiosity and willingness, when the evidence demanded, to embrace explanations that many would have seen by many as unbelievable.
+Darwin’s first excursion into geomorphology was an interest in the “Parallel Roads” in Glen Roy, Scotland.  These are now recognised as being scars due to glaciers, as explained by Agassiz but Darwin was sort of close, supposing that they were ancient shoreline scars due to floating sea ice.  Perhaps most importantly, these and many other examples show Darwin’s incessant curiosity and willingness, when the evidence demanded, to embrace explanations that many would have seen by many as unbelievable.
 
 When the Beagle was in South America, Darwin learned in Chile that uplift is often associated with earthquakes.  He  discovered that uplift and subsidence explained many geological forms including the presence of marine fossils high up the Andes and the famous example of the formation of coral reefs and atolls. 
 
