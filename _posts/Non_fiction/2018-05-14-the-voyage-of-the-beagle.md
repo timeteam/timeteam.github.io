@@ -13,17 +13,10 @@ categories: ['boats and sailing', 'biography and memoir']
 ***
 
 
-<img width="256" align="right" src="http://timeteam.github.io/images/ransome_1956_racundra.jpg" alt=""> 
+<img width="256" align="right" src="http://timeteam.github.io/images/taylor-2008-the-voyage-of-the-beagle-cover.jpg" alt=""> 
 
-A sublime cruising yarn and a pure joy to read and re-read, much of it written by the author at his writing desk on _Racundra_'s maiden voyage - this 1922 Baltic cruise.  The first edition was published a year later. Memorable for Ransome's simple elegant language, for the empathetic descriptions of the lands and people of Estonia, Ransome's photographs, the sailing legs from port to port, the crucial secret of making good marmalade, and much more.
+Wonderfully conceived book on aspects of the Beagle voyage that I have always wanted to know more about, in particular The Origin & Design of HMS Beagle (Chapter 1), The Art of Surveying at Sea (Chapter 5) and Earle & Martens: FitzRoy's Painting Men (Chapter 6).  Richly illustrated and referenced.   Look out for a 2nd-hand copy, and also for _HMS Beagle: Survey Ship Extraordinary_ by Karl Heinz Marquardt  although 2nd-hand copies are ridiculously expensive. 
 
-The crew of _Racunda_ comprised a most interesting trio:
-"The Cook" throughout the book but known to be Evgenia Shelepin, who was Trotsky's secretary and would become Ransome's wife.
-
-"The Ancient" (a fond allusion to the Ancient Mariner), who was really Carl Sehmel, a sailor from the clipper ship era who had been crew aboard _Thermoplyae_ when she raced _Cutty Sark_. 
-
-Arthur Ransome himself, who had moved to Russia in 1913 as journalist and writer and became (or already was?) a strong sympathiser of the Bolsheviks.  Ransome was under investigation from MI5 from 1917 as a possible Russian spy but it seems equally possible he was gathering information for the British.  MI5 didn't lose interest in him until 1937.  
-
-Much of this information, about which Ransome was coy, can be found at the [Arthur Ransome wiki](http://arthur-ransome.wikia.com/wiki/Arthur_Ransome_Wiki) 
+Interesting to know that no detailed plans for the Beagle survive and anyway she was apparently modified along the way by the builders.   The Beagle was launched on 11 May 1820 (closing in on 200 years ago) and  her keel and lower timbers probably still exist in the mud of the River Roach where she finished her service as a coast watch vessel on a permanent mooring.
 
 
