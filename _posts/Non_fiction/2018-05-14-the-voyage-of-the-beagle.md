@@ -20,4 +20,4 @@ Wonderfully conceived book on aspects of the Beagle voyage that I have always wa
 Interesting to know that no detailed plans for the Beagle survive and anyway she was apparently modified along the way by the builders.   The Beagle was launched on 11 May 1820 (closing in on 200 years ago) and  her keel and lower timbers probably still exist in the mud of the River Roach where she finished her service as a coast watch vessel on a permanent mooring.
 
 
-<img width="640"  align="right" title="By Conrad Martens [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons"  src="http://timeteam.github.io/images/HMS_Beagle_by_Conrad_Martens.jpg" alt="HMS Beagle by Conrad Martens"> 
+<img width="800"  align="left" title="By Conrad Martens [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons"  src="http://timeteam.github.io/images/HMS_Beagle_by_Conrad_Martens.jpg" alt="HMS Beagle by Conrad Martens"> 
