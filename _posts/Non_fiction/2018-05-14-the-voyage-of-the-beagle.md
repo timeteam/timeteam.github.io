@@ -13,7 +13,7 @@ categories: ['boats and sailing', 'biography and memoir']
 ***
 
 
-<img width="256" align="right" src="http://timeteam.github.io/images/taylor-2008-voyage-of-the-beagle-cover.jpg" alt=""> 
+<img width="256" align="right" src="http://timeteam.github.io/images/taylor_2008_voyage_of_the_beagle_cover.jpg" alt=""> 
 
 Wonderfully conceived book on aspects of the Beagle voyage that I have always wanted to know more about, in particular The Origin & Design of HMS Beagle (Chapter 1), The Art of Surveying at Sea (Chapter 5) and Earle & Martens: FitzRoy's Painting Men (Chapter 6).  Richly illustrated and referenced.   Look out for a 2nd-hand copy, and also for _HMS Beagle: Survey Ship Extraordinary_ by Karl Heinz Marquardt  although 2nd-hand copies are ridiculously expensive. 
 
