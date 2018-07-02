@@ -21,4 +21,4 @@ But most interestingly, his sfumato wasn't just a painting technique but a deepl
 
 What a fabulously interesting book to have researched and written, or to have read. Full of wonderful reproductions of paintings and notebook pages, and heavily endnoted.
 
-<img width="800"  align="left" title="Leonardo da Vinci study for _Virgin of the Rocks [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons"  src="https://upload.wikimedia.org/wikipedia/commons/9/94/Leonardo_study_Madonna_of_the_rocks.jpeg" alt="HMS Beagle by Conrad Martens"> 
+<img width="800"  align="left" title="Leonardo da Vinci study for Virgin of the Rocks [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons"  src="https://upload.wikimedia.org/wikipedia/commons/9/94/Leonardo_study_Madonna_of_the_rocks.jpeg" alt="HMS Beagle by Conrad Martens"> 
