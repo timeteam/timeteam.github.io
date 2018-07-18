@@ -14,7 +14,7 @@ A compelling account of climate research from one of the researchers from David 
 
 This book is most interesting and most original in the first chapters, where the author sets out what was learned from her project to extend Australia's climate record bach beyond what the BOM records allow, into the colonial era.  Notably that the First Fleet arrived in the midst of a strong El Niño which lasted to 1790 and was followed by La Niña flooding (not, as proposed by earlier authors, arriving in a La Niña phase).  Much of this material is available in a [shorter account elsewhere](http://climatehistory.com.au/wp-content/uploads/2009/12/Environmental-History-2010-Gergis-envhis_emq079.pdf), part of the [SEARCH web site](http://climatehistory.com.au) developed by this research group. 
 
-Among many other aspects of climate, there are very clear explanations of the Southern [Ocean] Ocillation Index, the Indian Ocean Dipole and the cycle that I hadn't grasped, the Inter-decadal Pacific Oscillation (IPO) which Gergis usefully characterises as a 'deep memory' of accumulated El Niño and La Niña cycles.
+Among many other aspects of climate, there are very clear explanations of the Southern Ocillation Index, the Indian Ocean Dipole and the cycle that I hadn't grasped, the Inter-decadal Pacific Oscillation (IPO) which Gergis usefully characterises as a kind of 'deep memory' of accumulated El Niño and La Niña cycles.  The ENSO cycle is typically up to 7 years, whereas the IPO is maybe 10 or 30 year (or longer? - poorly understood and integrates many factors).  Thus, eg, repeated La Niña events lead to a negative IPO phase, warmer sea temperatures in the Indo-Pacific, and increased rainfall in Australia.
 
 The strongest part of the book is the inescapable logic with which Gergis sets out the historical (pre-industrial) climate variability and then shows how since the 1950s and the increasing C0<sub>2</sub> the increase in temperatures is by comparison off-scale.
 
@@ -22,6 +22,9 @@ It was interesting to read that there has been some speculation that the 'Little
 
 I didn't find much novel in the last half of the book, which becomes about attribution, impacts, mitigation, politics and so on.  It is a compelling summary but nothing original. 
 
-References of interest:
+
+The index is ridiculously hierarchical (3 levels) which makes a mockery of alphabetic order and useability.
+
+The  association between industrial revolution-technological & scientific advance-increasing atmostpheric C0<sub>2</sub>-destructive climate change is utterly convincing.  But the question then is: Was there a path through history where humanity gained scientific, medical, cultural, moral advances *without* destructive levels of industrialisation?  Who has thought or written of this?  Where?
 
 
