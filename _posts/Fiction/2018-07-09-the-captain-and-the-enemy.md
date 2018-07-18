@@ -16,6 +16,6 @@ category: fiction
 
 Graham Greene's last novel.   
 
-Measured reveal of the layers of memory, meaning, understanding.  Young lad won from his father by The Captain in a backgammon (or was it chess?) game. Growing up and slowly learning more, but not enough, of The Captain, Panama, the Sandanistas and so on.   
+Measured reveal of the layers of memory, meaning, understanding.  Young lad won from his father by The Captain in a backgammon (or was it chess?) game. Growing up and slowly learning more, but not enough, of The Captain, Liza, Panama, the Sandanistas, love, trust and so on.   
 
 Masterful. Surely Kazuo Ishiguro is his literary heir.
