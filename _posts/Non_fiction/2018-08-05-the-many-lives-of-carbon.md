@@ -13,5 +13,4 @@ categories: ['weather and climate']
 
 A book about the role of carbon in the ecological and biochemical cycles that help understand life, ecology and climate.  Thus, a sort of stochiometric companion to Joëlle Gergis' _Sunburnt Country_ and Eelco Rohling's _The Oceans. A deep history_.
 
-Instructive on the history of key discoveries in the field, particularly chemists Joseph Black (born 1728) who concluded that the gas generated from acid on limestone was the same one that we exhale, and Anoine Lavoisiere and Joseph Priestly who determined the chemistry and properties of COO<sup>2</sup>.   Pp26_27 Linnaeus berzelius and the elements
-P 21 ff Priestley  et al
+Instructive on the history of key discoveries in the field, particularly chemists Joseph Black (1728-1799) who concluded that the gas generated from acid on limestone was the same one that we exhale, and Antoine Lavoisiere (1743-1794) and Joseph Priestley (1733-1804) who determined the chemistry and properties of CO<sub>2</sub>.  Priestley moved to America to escape the guillotine but Lavoisiere didn't.  I didn't know that it was Swede Jöns Jacob Berzelius (1779-1848) who allocated letters as convenient names for the elements and that he was probably inspired to do so by Linneaus' binomials for  animal and plant species a few years before. 
