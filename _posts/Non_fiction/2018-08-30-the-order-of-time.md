@@ -26,3 +26,15 @@ The traces of thermodynamic events in the past seem to be causes and memories to
 > nothing but names we give to the consequences of a statistical fact: the improbability of a past state of the universe
 
 Simple really.
+
+Carlo Rovelli then goes on to discuss the implications for ourselves.  He argues plausibly (p. 152):
+
+> I believe that our notion of self stems from this [social interactions], not from introspection.  When we think of ourselves as persons, I believe we are applying to ourselves the mental circuits that we have developed to engage with our companions.
+
+_Contra_ Descartes, in other words.
+
+We are also memories, histories which we apply to attempt to predict the future, and condensing these memories gives us our sense of time.  Rovelli traces this idea to St Augustine (p. 157):
+
+> It is within my mind, then, that I measure time.  I must not allow my mind to insist that time is something objective.  When I measure time, I am measuring something in the present of my mind.  Either this is time, or I have no idea what time is.
+
+Music is given as a powerful example.  If we live only in the present (with past and future inaccessible), how is it possible for us to appreciate music? Because we remember, and anticipate.  _Only in our mind._  (Like so many interesting a powerful ideas, this was heretical to the Catholic church.)
