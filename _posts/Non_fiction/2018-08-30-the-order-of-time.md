@@ -3,7 +3,7 @@ layout: post
 title: "Carlo Rovelli - The Order of Time"
 date: 2018-08-30
 published: true
-categories: ['mathematics and physics']
+categories: ['mathematics and physics', philosophy]
 
 ---
 
@@ -44,3 +44,6 @@ In the penultimate chapter, _The sources of time_, Rovelli provides his own effo
 > I don't think there is much more than this to be understood.
 
 Just go back now and cultivate the garden.
+
+The final chapter, _The Sister of sleep_ (from J.S. Bach Cantata BWV 56) is Carlo Rovelli's personal statement of where his ideas in time, life and death have taken him. To a place of serenity given to few, at once informed, rooted in the history of ideas, and original.
+
