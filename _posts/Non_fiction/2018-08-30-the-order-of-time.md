@@ -3,7 +3,7 @@ layout: post
 title: "Carlo Rovelli - The Order of Time"
 date: 2018-08-30
 published: true
-categories: ['mathematics and physics', 'biography and memoir']
+categories: ['mathematics and physics']
 
 ---
 
