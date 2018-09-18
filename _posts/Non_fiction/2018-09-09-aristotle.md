@@ -26,6 +26,6 @@ For Aristotle, objects in natural science (his transliterated ~"physike") have t
 
 >If there are no substances apart from natural substances, natural science will be the primary science; but if there are changeless substances, the science of them will be prior and will be the primary philosophy.
 
-As a zoologist Aristotle had mixed success.  He knew (or some fisherman told him) that octopus copulate using their longest arm as a "penis", but on the other hand he thought some insects were spontaneously generated from dew.  I guess in a world where so little was known, someone who loved knowledge and learning was bound to go off the rails occasionally.
+As a zoologist Aristotle had mixed success.  He knew (or some fisherman told him) that octopus copulate using their longest arm as a "penis", but on the other hand he thought some insects were spontaneously generated from dew.  I guess in a world where so little was known, someone who loved knowledge and learning was bound to go off the rails occasionally, especially as he must have used multiple sources.
 
 One striking similarity between Aristotle and geniuses from other fields (Beethoven, Leonardo da Vinci for example) is that they all lived through wars and other conflicts but apparently remained rather removed. 
