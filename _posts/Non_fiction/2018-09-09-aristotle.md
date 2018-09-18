@@ -9,7 +9,7 @@ categories: [philosophy]
 
 
 ***
-<b>Jonathan Barnes</b> 2000. _ - Aristotle. A very short introduction_. Oxford: Oxford University Press, 160  pp.
+<b>Jonathan Barnes</b> 2000. _Aristotle. A very short introduction_. Oxford: Oxford University Press, 160  pp.
 
 ***
 <img align="right" width="320" src="https://global.oup.com/academic/covers/pdp/9780192854087" alt="">   
