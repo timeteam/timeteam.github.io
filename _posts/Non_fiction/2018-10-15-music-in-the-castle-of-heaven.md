@@ -9,7 +9,7 @@ categories: ['art and music', 'history and pre-history']
 
 
 ***
-<b>John Eliot Gardiner</b> 2016. _Music in the Castle of Heaven.  A portrait of Johann Sebastian Bach._ London: Allen Lane, 629 pp.
+<b>John Eliot Gardiner</b> 2013. _Music in the Castle of Heaven.  A portrait of Johann Sebastian Bach._ London: Allen Lane, 629 pp.
 
 ***
 
