@@ -3,7 +3,7 @@ layout: post
 title: "John Eliot Gardiner - Music in the Castle of Heaven"
 date: 2018-10-15
 published: true
-categories: ['art and music' 'history and pre-history']
+categories: ['art and music', 'history and pre-history']
 
 ---
 
