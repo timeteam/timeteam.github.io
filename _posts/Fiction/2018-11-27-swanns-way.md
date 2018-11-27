@@ -14,7 +14,7 @@ category: fiction
 
 <img align="right" width="360" src="https://images.gr-assets.com/books/1352231701l/18796.jpg" alt="">  
 
-A stream, or rather a lake, of conciousness outside of time.  Yet despite the long beautiful and precise sentences to me the endless swirling childhood neuroses often obscure Proust's evident grander plan (of trying to step past the passage of time). Even if the neuroses are rather too much to the fore than the author and most subsequent admirers would like to think, anyone must grant that the author knew his destination before first raising his quill.
+A stream, or rather a lake, of conciousness outside of time.  Yet despite the long beautiful and precise sentences to me the endless swirling childhood neuroses often obscure Proust's evident grander plan (of trying to step past the passage of time). Even if the neuroses are further to the fore than the author and most subsequent admirers would like to think, anyone must grant that the author knew his destination before first raising his quill.
 
 These paragraphs seem central to Proust's philosophy, or at least his ambition for the novel:
 
