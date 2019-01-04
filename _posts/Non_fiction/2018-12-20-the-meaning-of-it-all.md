@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Richard P. Feynman - The Meaning of it all"
+title: "Richard Feynman - The Meaning of it all"
 date: 2018-12-20
 published: true
 categories: ['mathematics and physics', philosophy]
@@ -9,7 +9,7 @@ categories: ['mathematics and physics', philosophy]
 
 
 ***
-<b>Richard P. Feynman</b> 1998. _The Meaning of it all_. Penguin: London, 132  pp.
+<b>Richard Feynman</b> 1998. _The Meaning of it all_. Penguin: London, 132  pp.
 
 ***
 <img align="right" width="320" src="https://productimages.worldofbooks.com/0140276351.jpg" alt="">   
