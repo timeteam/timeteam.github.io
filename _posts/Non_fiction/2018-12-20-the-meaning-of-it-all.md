@@ -21,7 +21,7 @@ This little book contains the text of 3 lectures given by Feynman in April 1963 
 2. The uncertainty of values
 3. This unscientific age
 
-It is a useful reality check in an age where right-wing commentators choose to ridicule science that Feynman chose to talk about "This unscientific age" in 1963, although of course there have been plenty of other times and places in history where such a talk would have been even more topical (sometimes suicidal).  In 1963 Feynman's examples, or targets, were Russia, false advertising, and various anecdotes that could be termed examples of sampling bias. 
+It is a useful reality check in an age where right-wing commentators routinely dismiss science that Feynman chose to talk about "This unscientific age" in 1963, although of course there have been plenty of other times and places in history where such a talk would have been even more topical (sometimes suicidal).  In 1963 Feynman's examples, or targets, were Russia, false advertising, and various anecdotes that could be termed examples of sampling bias. 
 
 The first two lectures revolve around undercainty and The importance of doubt and comprise a modern manual on how to argue with deniers of climate science or antivaxers or others who for various narrow reasons choose to adopt doctrinaire positions in defiance of evidence.  
 
