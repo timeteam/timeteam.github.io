@@ -31,7 +31,8 @@ Aside from the information theory and mathematical background central to Shannon
 
 > There are passionate scientsts who are almost overcome by the abundance of the world, who are gluttons for facts; and then there are those who stand a step back from the world, their apartmess a condition of their work.  Shannon was one of this latter kind ... 
 
-> [in the context of Shannon's brief dabble in genetics at Cold spring Harbor] Demand for naturalists and butterfly nets had cratered; biology, like computer building, demanded mathematicians.
+ [in the context of Shannon's brief dabble in genetics at Cold spring Harbor] 
+> Demand for naturalists and butterfly nets had cratered; biology, like computer building, demanded mathematicians.
 
 Of the famous Bell Laboratories, where Shannon spent the bulk of his career (not the last part), their president said:
 > There were two kinds of researchers ... those who are being paid for what they _used_ to do, and those who are being paid for what they were _going_ to do.  Nobody was being paid for what they were doing now.
