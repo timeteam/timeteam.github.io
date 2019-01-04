@@ -17,6 +17,8 @@ categories: ['mathematics and physics', technology]
 
 This biography of Claude Shannon makes him seem a lot like Paul Dirac.  A true eccentric genius.   Contemporary of Johnny von Neumann, Alan Turing et al, who all knew one another. 
 
+As most readers would want, the book has a much stronger focus on Shannon's research than on Shannon himself.  And when the authors do focus on Shannon, it is most often on career and idiosyncracies (eg his enthusiasm for unicycle riding and juggling).  It is only late in the book that we suddenly discover that Shannon now has two children.  Probably there will be another biography one day that filles some of these gaps.  This one will do me though - lots of people have children, but not many lay the foundations for information science.
+
 Shannon defined channel capacity - bits per second and demonstrated the relationship between capacity, bandwidth and signal to noise ratio, a relationship to which engineers are beholden to. 
 
 But to me this might have been Shannon's great contribution in a nutshell:
