@@ -15,7 +15,7 @@ categories: ['mathematics and physics', technology]
 
 <img align="right" src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476766690/a-mind-at-play-9781476766690_lg.jpg" alt="">  
 
-This biography of Claude Shannon makes him seem a lot like Paul Dirac.  A true eccentric genius.   Contemporary of Johnny von Neumann, Alan Turing et al, both of who he knew. 
+This biography of Claude Shannon makes him seem a lot like Paul Dirac.  A true eccentric genius.   Contemporary of Johnny von Neumann, Alan Turing et al, who all knew one another. 
 
 Shannon defined channel capacity - bits per second and demonstrated the relationship between capacity, bandwidth and signal to noise ratio, a relationship to which engineers are beholden to. 
 
