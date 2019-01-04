@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peter Wohlleben - The Hidden Life of Trees"
-date: 2018-03-16
+date: 2019-01-02
 published: true
 categories: ['natural history']
 
