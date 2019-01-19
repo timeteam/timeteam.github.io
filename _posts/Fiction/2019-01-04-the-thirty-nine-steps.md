@@ -8,7 +8,7 @@ category: fiction
 
 
 ***
-<b>John Buchan</b> 1915. _The Thirty-Nine Steps_. Titan Books: London. 418 pp.
+<b>John Buchan</b> 1915. _The Thirty-Nine Steps_. Penguin: London. 144 pp.
 
 ***
 
