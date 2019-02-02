@@ -13,15 +13,15 @@ categories: ['biology ecology and evolution']
 
 ***
 <img width="256" align="right" src="https://d1a37ygoufymvg.cloudfront.net/resized/width-298/path-assets/covers/v1/9780008310684.jpg" alt="">  
-An easily consumed account of how undirected curiosity-driven research into the bacterial genome and immune systems led to the discovery of CRISPR-Cas9 and the development of that into a cheap, simple (if you are a biochemist) and widely available gene editing system.  
+Short summary: the "tree" of life is actually reticulate, a network.  Of course this is old news, the symbiotic origin of the eukaryote cell has been taught to undergraduates in Australia since the 1970s.  I was hoping to find more news on recent discoveries of hybridisation & lateral gene transfer in metazoans but had to wait until the final chapters, and especially pp. 351-364 on retroviruses to be partially rewarded.  But worth the whole book for those pages alone, the work of Thierry Heidmann and colleagues on multipe origin of placental genes through retroviruses indep[endently    
 
 Miscellaneous comments, positives: 
-
-* Short easy to read and easy to understand chapters
-* "Prokaryotes" is a non-group, rather like "invertebrates", I didn't realise that.
+- Thoroughly researched over several years
+- Short easy to read and easy to understand chapters
+- "Prokaryotes" is a non-group, rather like "invertebrates", I didn't realise that.
 
 
 Miscellaneous comments, negatives:
 
  - Too many USA colloquialisms, including a few that nobody who has mostly lived in other countries will understand.
- - Too much of Carl Woese.  I found no evidence that he was as important as Quammen seems to think.  Woese undoubtedly had flashes of brilliance 
+ - Too much of Carl Woese.  I found no evidence that he was as important as Quammen seems to think, nor was Woese as important as Woese thought.   Woese repeatedly asserted that he had advanced evolutionary thinking more than Darwin - a huge delusional blind spot which Quammen tacitly acknowledges.
