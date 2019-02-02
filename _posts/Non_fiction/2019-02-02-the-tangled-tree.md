@@ -9,7 +9,7 @@ categories: ['biology ecology and evolution']
 
 
 ***
-<b>David Quammen</b> and <b>Samuel Sternberg</b> 2018. _ - The Tangled Tree. A radical new history of life_.  London: Williams Collins, 461 pp.
+<b>David Quammen</b> 2018. _The Tangled Tree. A radical new history of life_.  London: Williams Collins, 461 pp.
 
 ***
 <img width="256" align="right" src="https://d1a37ygoufymvg.cloudfront.net/resized/width-298/path-assets/covers/v1/9780008310684.jpg" alt="">  
