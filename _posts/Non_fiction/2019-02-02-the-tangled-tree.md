@@ -13,7 +13,7 @@ categories: ['biology ecology and evolution']
 
 ***
 <img width="256" align="right" src="https://d1a37ygoufymvg.cloudfront.net/resized/width-298/path-assets/covers/v1/9780008310684.jpg" alt="">  
-Short summary: the "tree" of life is actually reticulate, a network.  Of course this is old news, the symbiotic origin of the eukaryote cell has been taught to undergraduates in Australia since the 1970s.  I was hoping to find more news on recent discoveries of hybridisation & lateral gene transfer in metazoans but had to wait until the final chapters, and especially pp. 351-364 on retroviruses to be partially rewarded.  But worth the whole book for those pages alone, the work of Thierry Heidmann and colleagues on multipe origin of placental genes through retroviruses indep[endently    
+Short summary: the "tree" of life is actually reticulate, a network.  Of course this is old news, the symbiotic origin of the eukaryote cell has been taught to undergraduates in Australia since the 1970s.  I was hoping to find more news on recent discoveries of hybridisation & lateral gene transfer in metazoans but had to wait until the final chapters, and especially pp. 351-364 on retroviruses to be partially rewarded.  But worth the whole book for those pages alone, the work of Thierry Heidmann and colleagues on multipe origin of placental genes through retroviruses independently in multiple mammal lineages starting perhaps 100 my, and indeed seemingly facilitated the evolution of an immune barrier between mother and embryo in placental mammals.   
 
 Miscellaneous comments, positives: 
 - Thoroughly researched over several years
