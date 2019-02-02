@@ -13,7 +13,9 @@ categories: ['biology ecology and evolution']
 
 ***
 <img width="256" align="right" src="https://d1a37ygoufymvg.cloudfront.net/resized/width-298/path-assets/covers/v1/9780008310684.jpg" alt="">  
-Short summary: the "tree" of life is actually reticulate, a network.  Of course this is old news, the symbiotic origin of the eukaryote cell has been taught to undergraduates in Australia since the 1970s.  But a lot of the first two thirds of this book is a rather laborious blow by blow account of this history with Carl Woese, Ford Doolittle, Lyn Margulis et al prominent of course.
+Short summary: the "tree" of life is actually reticulate, a network.  
+
+Of course this is old news, the symbiotic origin of the eukaryote cell has been taught to undergraduates since at least the early 1970s.  But a lot of the first two thirds of this book is a rather laborious blow by blow account of this history with Carl Woese, Ford Doolittle, Lyn Margulis _et al._ prominent of course.
 
 I was hoping to find more news on recent discoveries of hybridisation & lateral gene transfer in metazoans but had to wait until the final chapters, and especially pp. 351-364 on retroviruses to be partially rewarded.  But worth the whole book for those pages alone, the work of Thierry Heidmann and colleagues on multipe origin of placental genes through retroviruses independently in multiple mammal lineages starting perhaps 100 my, and indeed seemingly facilitated the evolution of an immune barrier between mother and embryo in placental mammals. And this is merely one well-researched example ...
 
@@ -30,3 +32,4 @@ Miscellaneous comments, negatives:
 
  - Too many USA colloquialisms, including a few that nobody who has mostly lived in other countries will understand.
  - Too much of Carl Woese.  I found no evidence that he was as important as Quammen seems to think, nor was Woese as important as Woese thought.   Woese repeatedly asserted that he had advanced evolutionary thinking more than Darwin - a huge delusional blind spot which Quammen tacitly acknowledges.
+ - There is an extensive bibliography but it is only sparsely referenced in the endnotes, so it is often hard to find references that support some of Quammen's statements.
