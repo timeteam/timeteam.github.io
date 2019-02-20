@@ -7,26 +7,6 @@ categories: ['biology ecology and evolution']
 ---
 
 
-***
-<b>Nick Lane</b> 2015. _The Vital Question. Why is life the way it is?_ London: Profile Books, 360 pp.
-
-***
-
-
-An original, exciting discussion of what life is, and how it may have evolved. 'Origin of Life' is a crowded field where it is difficult to be original, but _The Vital Question_ certainly qualifies.  
-
-Flow of energy, not information, is central to **Nick Lane**'s  account, DNA is rarely discussed.  The overriding principle seems to be, when seeking to reveal phylogenetic relationships, that parsimony of energy metabolic mechanisms in cells is more informative (at least at basal branches) than molecular phylogeny based on genetic data (which cannot be trusted because lateral gene transfer is rife among bacteria et al. and is only good for gene trees).  Instead, **Nick Lane** would map genes onto a tree based on characteristics related to energy metabolism.  An interesting reversal from the very many molecular phylogenies of eukaryote taxa, in which lateral gene transfer is much less common. 
-
-In the _Introduction_, **Nick Lane** dismisses the "serial symbiosis" model championed by **Lyn Margulis** because it predicts there should be many kinds of eukaryotes formed from many different combinations of bacterial/archaeal symbionts.  Instead we find that all cells are virtually identical in their component organelles in all eukaryote organisms (including "... you (and ewe and yew)" - E. Yonge, 2014).  All eukaryotes are thus derived from a single symbiotic event, somewhere between 1.5-2 billion years ago.  
-
-_What is life?_ and _What lives?_ present the current views on what molecular phylogenetics concludes about evolutionary relationships (3 monophyletic groups: bacteria, archaea, eukaryota) and also a thrilling description of the molecular power plant of the mitochondrion, which is a semi-permeable membrane that functions as a proton pump.  A large respiratory complex (comprised of proteins) uses a redox reaction to pump protons across the membrane and a complex protein called ATP synthase sits in the membrane and uses the protons gradient through the membrane to allow protons to pass back through the protein, rotating the proteins complex head like a motor.  This converts ADP to ATP and powers the cell.  This mechanism was discovered by **Peter Mitchell** who termed it chemiosmotic coupling.  I had to re-read this section (pp. 63-77 and the beautiful drawing of ATP synthase on p. 74) several times, both to be sure I sort of understood it, but also for pure pleasure.  It is not easy to describe biochemical reactions ---
-layout: post
-title: "Nick Lane - The Vital Question"
-date: 2017-01-14
-published: true
-categories: ['biology ecology and evolution']
----
-
 
 ***
 <b>Nick Lane</b> 2015. _The Vital Question. Why is life the way it is?_ London: Profile Books, 360 pp.
