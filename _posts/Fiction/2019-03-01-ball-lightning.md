@@ -8,7 +8,7 @@ category: fiction
 
 
 ***
-<b>Cixin Liu</b> 2018. _Ball Lightning_. translated by Joel Martinsen. Head of Zeus: London. 384 pp.
+<b>Cixin Liu</b> 2018. _Ball Lightning_. Translated by Joel Martinsen. Head of Zeus: London. 384 pp.
 
 ***
 
