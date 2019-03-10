@@ -12,11 +12,12 @@ categories: ['natural history']
 <b>Deborah Cramer</b> 2015. _The Narrow Edge. A tiny bird, an ancient crab & an epic journey._ Yale University Press: New Haven, 293 pp.
 
 ***
-<img align="left"  width="256" src="https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/a07a8d6723ec6fe5094e1461e62886c4.jpg?itok=ePcW9KVD" alt="">  
+<img align="right"  width="256" src="https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/a07a8d6723ec6fe5094e1461e62886c4.jpg?itok=ePcW9KVD" alt="">  
 
-I can't remember why I put off reading this when it was first published, but that was a mistake. A great read, thoroughly researched and referenced but most importantly thoughtfull, measured but still passionate exploration of the world of the Red Knot.  Made the more memorable by seeing my first Red Knot in full breeding plumage near Toora on Corner Inlet before I had finished reading the book.  Among the things Deborah Cramer does especially well is evoke the environment and the researchers along the flyway of the Red Knot, from Tierra del Fuego to the Arctic and many places between; and to set out the rich network of connections between Red Knot and local weather and environmental change, climate change, crashes of dependent species (bivalves, _Limulus_, ... ).  Of course human impacts on local, continental and global scales usually cause even greater disturbances but it seems clear that there never has been a "balance" or steady      
 
-...
+Every bit as informative and evocative and enjoyable as Adam Nicolson's _The Seabird's Cry_. I can't remember why I put off reading this when it was first published, but that was a mistake. A great read, thoroughly researched and referenced but most importantly thoughtfull, measured but still a passionate exploration of the world of the Red Knot.  
+
+Made the more memorable by seeing my first Red Knot in full breeding plumage near Toora on Corner Inlet before I had finished reading the book.  Among the things Deborah Cramer does especially well is evoke the environment and the researchers along the flyway of the Red Knot, from Tierra del Fuego to the Arctic and many places between; and to set out the rich network of connections between Red Knot and local weather and environmental change, climate change, crashes of dependent species (bivalves, _Limulus_, ... ).  Of course human impacts on local, continental and global scales usually cause even greater disturbances but it seems clear that there never has been a "balance".  Yet they hang on, so far.  Rich pickings on shorebird phylogeny and on Red Knot phylogeography and palaeo-flyway speculation to follow up from the extensive bibliography:      
 
 <body>
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
@@ -40,6 +41,5 @@ I can't remember why I put off reading this when it was first published, but tha
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs10336-011-0716-z&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Flyway%20evolution%20is%20too%20fast%20to%20be%20explained%20by%20the%20modern%20synthesis%3A%20proposals%20for%20an%20%E2%80%98extended%E2%80%99%20evolutionary%20research%20agenda&amp;rft.jtitle=Journal%20of%20Ornithology&amp;rft.stitle=Journal%20of%20Ornithology&amp;rft.volume=152&amp;rft.issue=1&amp;rft.aufirst=Theunis&amp;rft.aulast=Piersma&amp;rft.au=Theunis%20Piersma&amp;rft.date=2011-09-01&amp;rft.pages=151-159&amp;rft.spage=151&amp;rft.epage=159&amp;rft.issn=1439-0361"></span>
 </div></body>
 
-Every bit as informative and evocative and enjoyable as Adam Nicolson's _The Seabird's Cry_.
 
 
