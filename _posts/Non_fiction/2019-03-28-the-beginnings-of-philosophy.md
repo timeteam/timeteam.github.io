@@ -22,7 +22,7 @@ The chronological chart on pp xix - xx is a vital aid for the likes of me; thus 
 
 ... incomplete ...
 
-| year BCE  | who what where         |                                                    |
+| year BCE  | who what where      |                                                    |
 | ----------|---------------------|----------------------------------------------------|
 | 776       | First Olympic games |  |
 | 750-725?  | Homer               |   is the background rather than the focus to Sassi's book|
@@ -32,5 +32,16 @@ The chronological chart on pp xix - xx is a vital aid for the likes of me; thus 
 | 555       | Anaximander         |    ... |
 |           | temple of Hera at Samos     |    ... |
 | 545       | Anaximenes              |    ... |
+| 525       | Pythagoras              |    ... |
+| 490-480       | Persian Wars              |    ... |
+|               | Parmenides              |    ... |
+|               | Zeno              |    ... |
+| 440-430       | Herodotus              |    ... |
+|        | Sophocles              |    ... |
+| 427       | birth of Plato              |    ... |
+| 415-413       | Democritus              |    ... |
+|               | Thucydides              |    ... |
+|               | Aristophanes              |    ... |
+| 399       | birth of Plato              |    ... |
 
 
