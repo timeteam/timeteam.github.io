@@ -14,11 +14,11 @@ categories: [philosophy]
 ***
 <img align="right" width="320" src="https://press.princeton.edu/sites/default/files/styles/large/public/covers/9780691180502_0.png?itok=WZ13AVlO7" alt="">   
 
-A short but densely argued book, written (and translated) with the understated assurance of an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I am surely not among the intended readership.
+A short but densely argued book by an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I am surely not among the intended readership.
 
-Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?"
+Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?" and other circular arguments endlessly debated by philosophers.
 
-The chronological chart on pp xix - xx is a vital aid for the likes of me; thus I've hung my comments on this heavily truncated version:
+The chronological chart on pp xix - xx was vital so I have annotated this heavily truncated version:
 
 ... incomplete ...
 
@@ -33,15 +33,18 @@ The chronological chart on pp xix - xx is a vital aid for the likes of me; thus 
 |           | temple of Hera at Samos     |    ... |
 | 545       | Anaximenes              |    ... |
 | 525       | Pythagoras              |    ... |
+| 494       | destruction of Miletus              |    ... |
 | 490-480       | Persian Wars              |    ... |
 |               | Parmenides              |    ... |
 |               | Zeno              |    ... |
 | 440-430       | Herodotus              |    ... |
 |        | Sophocles              |    ... |
+| 431-404       | Peloponnesian War              |    ... |
 | 427       | birth of Plato              |    ... |
 | 415-413       | Democritus              |    ... |
 |               | Thucydides              |    ... |
 |               | Aristophanes              |    ... |
-| 399       | birth of Plato              |    ... |
+| 403       | democracy restored in Athens              |    ... |
+| 399       | death of Socrates              |    ... |
 
 
