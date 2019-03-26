@@ -22,10 +22,10 @@ The chronological chart on pp xix - xx is a vital aid for the likes of me; thus 
 
  - 
 
-| year BCE  | who or what |       |
-| ----------|-------------|------------------------------------------|
-| 776      | First Olympic games | xx xxxxxxxxx xx xxxxxxxxxxxxx x |
-| 750-725?      | Homer      |   is the background rather than the focus to Sassi's book |
+| year BCE  | who or what         |                                                    |
+| ----------|---------------------|----------------------------------------------------|
+| 776       | First Olympic games | xx xxxxxxxxx xx xxxxxxxxxxxxx x |
+| 750-725?      | Homer      |   is the background rather than the focus to Sassi's book  the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I'm probably not a |
 | 700 | Hesiod      |    first of the notable "pre-socratics" |
 
 
