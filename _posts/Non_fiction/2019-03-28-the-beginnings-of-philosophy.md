@@ -14,7 +14,7 @@ categories: [philosophy]
 ***
 <img align="right" width="320" src="https://press.princeton.edu/sites/default/files/styles/large/public/covers/9780691180502_0.png?itok=WZ13AVlO7" alt="">   
 
-A short but densely argued book, written (and translated) with the understated assurance of an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I'm probably not among the intended readership.
+A short but densely argued book, written (and translated) with the understated assurance of an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I am surely not among the intended readership.
 
 Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?"
 
