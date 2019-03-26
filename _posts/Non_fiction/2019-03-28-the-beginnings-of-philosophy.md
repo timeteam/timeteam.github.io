@@ -29,7 +29,7 @@ The chronological chart on pp xix - xx was vital so I have annotated this heavil
 | 700       | Hesiod              |   first of the notable "pre-socratics" ... |
 | 620-610   | Athens and Miletus  |   tyrany |
 | 600       | Thales              |    ... |
-| 555       | Anaximander         |    ... |
+| 555       | Anaximander         |    Reinforces the summary by physicist Carlo Rovelli.  First (?) to conceive of a world without gods.  Theorised that the world is a cylinder. Thought it natural to question earlier ideas and thinkers.   |
 |           | temple of Hera at Samos     |    ... |
 | 545       | Anaximenes              |    ... |
 | 525       | Pythagoras              |    ... |
