@@ -14,9 +14,11 @@ categories: [philosophy]
 ***
 <img align="right" width="320" src="https://press.princeton.edu/sites/default/files/styles/large/public/covers/9780691180502_0.png?itok=WZ13AVlO7" alt="">   
 
-A short but densely argued book by an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I am surely not among the intended readership.
+A short but densely argued book by an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I am surely not among the intended readership otherwise why would words like gnoseology be used [= the philosophy or theory of knowledge].
 
-Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?" and other circular arguments endlessly debated by philosophers.  What I did not find in this discussion was any suggestion of how ecology and wealth of society must have been crucial (a Jaren Diamond approach).  But surely a stable and wealthy society would (and still is) crucial for a significant number of thinkers to have the luxury of thinking about more than how to survive and obtain food.   
+Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?" and other circular arguments endlessly debated by philosophers.  What I did not find in this discussion was any suggestion of how ecology and wealth of society must have been crucial (a Jaren Diamond approach).  But surely a stable and wealthy society would (and still is) crucial for a significant number of thinkers to have the luxury of thinking about more than how to survive and obtain food. 
+
+It seems that the philosophical ideas were first discussed among elites (wealthy) who first gathered in homes, perhaps to read aloud texts brought back from travels.  And that ideas from other societies were important in initiating critical assessment.  For  example other cultures each imagined their gods in their own image (Nubians had tall black gods), causing Anaximander and his contemporaries and successors to question the universality and existence of such culturally aligned deities.  And critical thinking by parody: would horses imagine horse-gods for themselves? 
 
 The chronological chart on pp xix - xx was vital so I have this heavily truncated and lightly annotated  version:
 
@@ -27,15 +29,15 @@ The chronological chart on pp xix - xx was vital so I have this heavily truncate
 | 776       | First Olympic games |  |
 | 750-725?  | Homer               |   is the background rather than the focus to Sassi's book|
 | 700       | Hesiod              |   earliest of the notable "pre-socratics" - some say influenced by the Bablylonians  |
-| 620-610   | Athens and Miletus  |   tyrany |
-| 600       | Thales              |    "father of philosophy" according to some [but omitted from the index!]  |
-| 555       | Anaximander         |   First to imagine a world without gods    |
+| 620-610   | Athens and Miletus  |   tyranny |
+| 600       | Thales              |    "father of philosophy" according to many|
+| 555       | Anaximander         |   first to imagine a world without gods    |
 |           | Samos     |    construction of temple of the Hera |
 | 550       | Samos     |    construction of the tunnel of Samos begins |
 | 545       | Anaximenes              |    student of Anaximander |
 | 525       | Pythagoras              |    probably known to Anaximander (according to Carlo Rovelli) |
 | 497       | birth of Sophocles              |     |
-| 494       | Miletus              |   tyrant Aristagoras destroys the city and population  |
+| 494       | Miletus              |   tyrant Aristagoras destroys the city and castrates the population  |
 | 490-480       | Persian Wars              |    |
 |               | Parmenides              |     |
 |               | Zeno              |    |
@@ -53,4 +55,20 @@ But Anaximander emerges as the figure who had the earliest impact and about who 
 
 The index is hopelessly inadequate: omits, eg, Miletus, Thales, Zeno and no doubt dozens of other people and places.
 
-On the other hand, the bibliography is extensive and has many references I wish I had time to read.
+On the other hand, the bibliography is extensive.  Just a few of those of special interest:
+
+
+Barnes, J. 1979. _The Presocratic Philosophers. Volume 2. Empedocles to Democritus_. London: Routledge.
+
+Couprie, D.L., Hahn, R. & Naddaf, G. 2003. _Anaximander in Context: new studies in the origins of Greek philosophy._ Albany: State University of New York Press.
+
+Ferrari, G.R.F. 1984. Orality and literacy in the origin of philosophy. _Ancient Philosophy_ 4: 194-205.
+
+Hahn, R. 2001. _Anaximander and the Architects: the contributions of Aegyptian and Greek architectural technologies to the origins of Greek philosophy_. Albany: State University of New York Press.
+
+Kahn, C.H. 1960. Review of Hahn 2001. _Ancient Philosophy_ 22: 143-152. [and many others by the same author]
+
+Shapiro, H.A. ed. 2007. _The Cambridge Companion to Archaic Greece_. Cambridge: CUP.
+
+
+
