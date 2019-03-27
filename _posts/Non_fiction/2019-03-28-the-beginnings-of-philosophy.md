@@ -18,7 +18,17 @@ A short but densely argued book by an author totally at ease with her subject.  
 
 Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?" and other circular arguments endlessly debated by philosophers.  What I did not find in this discussion was any suggestion of how ecology and wealth of society must have been crucial (a Jaren Diamond approach).  But surely a stable and wealthy society would (and still is) crucial for a significant number of thinkers to have the luxury of thinking about more than how to survive and obtain food. 
 
-It seems that the philosophical ideas were first discussed among elites (wealthy) who first gathered in homes, perhaps to read aloud texts brought back from travels.  And that ideas from other societies were important in initiating critical assessment.  For  example other cultures each imagined their gods in their own image (Nubians had tall black gods), causing Anaximander and his contemporaries and successors to question the universality and existence of such culturally aligned deities.  And critical thinking by parody: would horses imagine horse-gods for themselves? 
+It seems that the philosophical ideas were first discussed among elites (wealthy) who first gathered in homes, perhaps to read aloud texts brought back from travels.  And that ideas from other societies were important in initiating critical assessment.  For  example other cultures each imagined their gods in their own image, bringing into question the universality and existence of such culturally aligned deities.  And critical thinking by sarcasm; Xenophanes: 
+
+  > The Ethiopians say that their gods are snub-nosed and black,
+  > the Thracians that they have light blue eyes and a rosy complexion.
+  
+  > But if oxen, horses or lions had hands,
+  ...
+  > horses would draw the forms of their gods similar to horses,
+  ...
+  
+ 
 
 The chronological chart on pp xix - xx was vital so I have this heavily truncated and lightly annotated  version:
 
@@ -35,6 +45,7 @@ The chronological chart on pp xix - xx was vital so I have this heavily truncate
 |           | Samos     |    construction of temple of the Hera |
 | 550       | Samos     |    construction of the tunnel of Samos begins |
 | 545       | Anaximenes              |    student of Anaximander |
+| 530       | Xenophanes              |    the traveller  |
 | 525       | Pythagoras              |    probably known to Anaximander (according to Carlo Rovelli) |
 | 497       | birth of Sophocles              |     |
 | 494       | Miletus              |   tyrant Aristagoras destroys the city and castrates the population  |
