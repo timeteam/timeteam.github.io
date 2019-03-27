@@ -28,12 +28,9 @@ It seems that the philosophical ideas were first discussed among elites (wealthy
   > horses would draw the forms of their gods similar to horses,
   ...
   
- 
-
 The chronological chart on pp xix - xx was vital so I have this heavily truncated and lightly annotated  version:
 
-
-
+---
 | year BCE  | who / where      |     what                                              |
 | ----------|---------------------|----------------------------------------------------|
 | 776       | First Olympic games |  |
