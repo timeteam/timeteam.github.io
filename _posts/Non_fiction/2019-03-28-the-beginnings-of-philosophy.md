@@ -16,7 +16,7 @@ categories: [philosophy]
 
 A short but densely argued book by an author totally at ease with her subject.  And therefore a pleasure to read, even if the detailed and extensively referenced academic issues discussed go way further than I need.  However the author would surely argue that when so much of the material is available only as second- or third-hand accounts and has been the subject of conflicting assessments, there is no escaping a detailed and systematic discussion.  And anyway, I am surely not among the intended readership otherwise why would words like gnoseology be used [= the philosophy or theory of knowledge].
 
-Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?" and other circular arguments endlessly debated by philosophers.  What I did not find in this discussion was any suggestion of how ecology and wealth of society must have been crucial (a Jared Diamond approach).  But surely a stable and wealthy society would (and still is) crucial for a significant number of thinkers to have the luxury of thinking about more than how to survive and obtain food. 
+Some of the questions raised are recurring chicken and egg topics, like "did philosophy build polis or the other way around?", "did literacy build thinking or did thinking come first?" and other circular arguments endlessly debated by philosophers.  What I did not find in this discussion was any suggestion of how ecology and wealth of society must have been crucial (a Jared Diamond approach).  But surely a stable and wealthy society would be (and still is) crucial for a significant number of thinkers to have the luxury of thinking about more than how to survive and obtain food. 
 
 It seems that the philosophical ideas were first discussed among elites (wealthy) who first gathered in homes, perhaps to read aloud texts brought back from travels.  And that ideas from other societies were important in initiating critical assessment.  For  example other cultures each imagined their gods in their own image, bringing into question the universality and existence of such culturally aligned deities.  And critical thinking by sarcasm; Xenophanes: 
 
@@ -61,6 +61,8 @@ The chronological chart on pp xix - xx was vital so I have this heavily truncate
 |               | Aristophanes              |     |
 | 403       | democracy restored in Athens              |     |
 | 399       | death of Socrates              |    |
+
+---
 
 But Anaximander emerges as the figure who had the earliest impact and about who we have best knowledge, although almost nothing first-hand. Nevertheless, his originality and independence stands out not just because the work of others has mostly been lost.  So has that of Anaximander. Maria Sassi's thorough and fascinating treatment has all the elements of the summary by [Carlo Rovelli](http://timeteam.github.io/mathematics%20and%20physics/history%20and%20pre-history/2017/08/26/anaximander.html).  First to conceive of a world without gods.  Thought it natural to question earlier thinkers.  Probably the first to choose to write prose rather than verse.
 
