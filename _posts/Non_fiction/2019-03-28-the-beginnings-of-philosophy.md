@@ -62,7 +62,9 @@ The chronological chart on pp xix - xx was vital so I have this heavily truncate
 | 403       | democracy restored in Athens              |     |
 | 399       | death of Socrates              |    |
 
-But Anaximander emerges as the figure who had the earliest impact and about who we have best knowledge, although almost nothing first-hand. Nevertheless, his originality and independence stands out not just because the work of others has gone missing.  So has that of Anaximander. This treatment has all the elements of the summary by [Carlo Rovelli](http://timeteam.github.io/mathematics%20and%20physics/history%20and%20pre-history/2017/08/26/anaximander.html).  First to conceive of a world without gods.  Thought it natural to question earlier thinkers.  Probably the first to choose to write prose rather than verse.
+But Anaximander emerges as the figure who had the earliest impact and about who we have best knowledge, although almost nothing first-hand. Nevertheless, his originality and independence stands out not just because the work of others has mostly been lost.  So has that of Anaximander. Maria Sassi's thorough and fascinating treatment has all the elements of the summary by [Carlo Rovelli](http://timeteam.github.io/mathematics%20and%20physics/history%20and%20pre-history/2017/08/26/anaximander.html).  First to conceive of a world without gods.  Thought it natural to question earlier thinkers.  Probably the first to choose to write prose rather than verse.
+
+Much of the final part of the book seems to be about philosophy and religion - not of so much interest right now. I skipped through that.
 
 The index is hopelessly inadequate: omits, eg, Miletus, Thales, Zeno and no doubt dozens of other people and places.
 
