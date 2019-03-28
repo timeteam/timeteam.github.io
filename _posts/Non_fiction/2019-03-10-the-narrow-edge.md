@@ -15,7 +15,7 @@ categories: ['natural history']
 <img align="right"  width="256" src="https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/a07a8d6723ec6fe5094e1461e62886c4.jpg?itok=ePcW9KVD" alt="">  
 
 
-I can't remember why I put off reading this when it was first published, but that was a mistake. A great read, thoroughly researched and referenced but most importantly thoughtfull, measured but still a passionate exploration of the world of the Red Knot. Every bit as informative and evocative and enjoyable as Adam Nicolson's _The Seabird's Cry_, and similar in many ways.   
+I can't remember why I put off reading this when it was first published, but that was a mistake. A great read, thoroughly researched and referenced but most importantly thoughtful, measured but still a passionate exploration of the world of the Red Knot. Got a bit of the _Silent Spring_ about it (as others have noted).  Every bit as informative and evocative and enjoyable as Adam Nicolson's _The Seabird's Cry_, and similar in many ways.   
 
 Made the more memorable by seeing my first Red Knot, almost ready to migrate, in spectacular breeding plumage near Toora on Corner Inlet - before I had finished reading the book.  
 
