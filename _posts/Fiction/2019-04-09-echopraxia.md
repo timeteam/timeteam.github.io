@@ -14,7 +14,7 @@ category: fiction
 
 <img align="right" width="360" src="https://i2.wp.com/www.tor.com/wp-content/uploads/2014/12/echopraxia.jpg?fit=401%2C600&type=vertical&ssl=1" alt="">  
 
-Another great hard SF discovery.  Hard like diamond.  A very unsettling read, a rush, written to be read likewise.  Like running downstairs 3 steps at a time in the dark.  In thongs.  In the rain.
+Another great hard SF discovery.  Hard like diamond.  A very unsettling read, a rush, written to be read likewise.  Like running downstairs three steps at a time in the dark.  In thongs.  In the rain.
 
 Probably I should have read Peter Watts' _Blindsight_ first, but that is now lined up for the future, when a decent interval has elapsed so as not to risk more permanent mental disturbance.
 
