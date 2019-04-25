@@ -25,3 +25,8 @@ Selections for further reading from the bibliography:
  Peter Ackroyd 2010. _Venice: Pure City_  London: Vintage. 
  Serafina Cuomo 2001. _Ancient Mathematics_ Oxford: One World.
  Joanne M. Ferraro 2012. _Venice: History of the Floating City_ Cambridge: Cambridge University Press.
+ Menso Folkerts 2006. _The Development of Mathematics in Medieval Europe: The Arabs, Euclid, Regiomontanus_ Aldershot: Ashgate Variorum.
+ Stephen Greenblatt 2011. _The Swerve: How the Renaissance began_ London: Bodley Head.
+ Jim al-Khalili 2010. _The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance_ London: Penguin.
+ 
+ 
