@@ -3,7 +3,7 @@ layout: post
 title: "Violet Moller - The Map of Knowledge"
 date: 2019-04-20
 published: true
-categories: [history, "mathematics and physics"]
+categories: ["history and prehistory", "mathematics and physics"]
 
 ---
 
