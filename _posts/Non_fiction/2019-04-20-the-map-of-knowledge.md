@@ -20,13 +20,22 @@ The author tells a tale well although maybe with a few gratuitous adjectives.  A
 
 I found myself lost in a little too much historical detail, especially in Spain, but the final chapter on Venice made it all worthwhile, very interesting.  In this telling, Venice became an early adopter of Gutenberg's press through entrepeneurship, political stability at a crucial time (the conservative monk Savanarola was causing an exodus of scholars from Florence), and timely connections between Nuremberg and Venice by astronomer Regiomantanus, scholar Bessarion and Venetian publishers Erhardt Ratdolt (expatriot German who published a new corrected edition of Euclid's _The Elements_) and Aldus Manutius whose famous Aldine Press published among many others, the first complete works of Aristotle seen since antiquity.  In Greek, however; he soon switched to Latin to keep the press afloat.  In this final chapter it feels like the momentous events of emergence of publishing and rebirth of astronomy in Germany and their spread to Venice are treated in just a few short pages while earlier on several long chapters were devoted to Spain at a time when, from a science publishing perspective (the focus of this book, after all) not much was happening.  I'll be seeking some remedial reading to fill this gap. 
 
+Useful links:
+- [database of illustrations from books published before 1500](http://zeus.robots.ox.ac.uk/15cillustration/)
+- [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu) 
+- [In aedibus Aldi: the legacy of Aldus Manutius and his press](http://exhibits.lib.byu.edu/aldine/)
+
+
 Selections for further reading from the bibliography: 
 
-- Peter Ackroyd 2010. _Venice: Pure City_  London: Vintage. 
-- Serafina Cuomo 2001. _Ancient Mathematics_ Oxford: One World.
-- Joanne M. Ferraro 2012. _Venice: History of the Floating City_ Cambridge: Cambridge University Press.
-- Menso Folkerts 2006. _The Development of Mathematics in Medieval Europe: The Arabs, Euclid, Regiomontanus_ Aldershot: Ashgate Variorum.
-- Stephen Greenblatt 2011. _The Swerve: How the Renaissance began_ London: Bodley Head.
-- Jim al-Khalili 2010. _The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance_ London: Penguin.
+- Ackroyd, Peter 2010. _Venice: Pure City_  London: Vintage. 
+- Cuomo, Serafina 2001. _Ancient Mathematics_ Oxford: One World.
+- Ferraro, Joanne M. 2012. _Venice: History of the Floating City_ Cambridge: Cambridge University Press.
+- Folkerts, Menso 2006. _The Development of Mathematics in Medieval Europe: The Arabs, Euclid, Regiomontanus_ Aldershot: Ashgate Variorum.
+- Greenblatt, Stephen 2011. _The Swerve: How the Renaissance began_ London: Bodley Head.
+- al-Khalili, Jim 2010. _The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance_ London: Penguin.
+- Lowry, Martin 1979. _The World of Aldus Manutius: Business and Scholarship in Renaissance Venice_ Ithaca, New York: Cornell University Press.
+- Ohler, Norbert 1989. _The Medieval Traveller_ Martlesham, Suffolk: Boydell Press.
+- Rhodes, Neil & Sawday, Jonathan (eds) 2000. _The Renaissance computer: knowledge technology in the first age of print_ London: Routledge.
  
  
