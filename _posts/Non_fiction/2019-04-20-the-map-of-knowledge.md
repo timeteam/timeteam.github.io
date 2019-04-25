@@ -9,7 +9,7 @@ categories: ["history and pre-history", "mathematics and physics"]
 
 
 ***
-<b>Violet Moller</b> 2019. _The Map of Knowledge. How classical ideas were lost and found: a history in seven cities_ London: Penguin Random House, 331  pp.
+<b>Violet Moller</b> 2019. _The Map of Knowledge. How classical ideas were lost and found: a history in seven cities._ London: Penguin Random House, 331  pp.
 
 ***
 <img align="right" width="320" src="https://images.penguinrandomhouse.com/cover/9780385541763" alt="">   
@@ -28,15 +28,15 @@ Useful links:
 
 Selections for further reading from the bibliography: 
 
-- Ackroyd, Peter 2010. _Venice: Pure City_  London: Vintage. 
-- Cuomo, Serafina 2001. _Ancient Mathematics_ Oxford: One World.
-- Eisenstein, Elisabeth L. 1980. _The Printing Press as an Agent of Change_ Cambridge: Cambridge University Press.
-- Ferraro, Joanne M. 2012. _Venice: History of the Floating City_ Cambridge: Cambridge University Press.
-- Folkerts, Menso 2006. _The Development of Mathematics in Medieval Europe: The Arabs, Euclid, Regiomontanus_ Aldershot: Ashgate Variorum.
-- Greenblatt, Stephen 2011. _The Swerve: How the Renaissance began_ London: Bodley Head.
-- al-Khalili, Jim 2010. _The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance_ London: Penguin.
-- Lowry, Martin 1979. _The World of Aldus Manutius: Business and Scholarship in Renaissance Venice_ Ithaca, New York: Cornell University Press.
-- Ohler, Norbert 1989. _The Medieval Traveller_ Martlesham, Suffolk: Boydell Press.
-- Rhodes, Neil & Sawday, Jonathan (eds) 2000. _The Renaissance computer: knowledge technology in the first age of print_ London: Routledge.
+- Ackroyd, Peter 2010. _Venice: Pure City._  London: Vintage. 
+- Cuomo, Serafina 2001. _Ancient Mathematics._ Oxford: One World.
+- Eisenstein, Elisabeth L. 1980. _The Printing Press as an Agent of Change._ Cambridge: Cambridge University Press.
+- Ferraro, Joanne M. 2012. _Venice: History of the Floating City._ Cambridge: Cambridge University Press.
+- Folkerts, Menso 2006. _The Development of Mathematics in Medieval Europe: The Arabs, Euclid, Regiomontanus._ Aldershot: Ashgate Variorum.
+- Greenblatt, Stephen 2011. _The Swerve: How the Renaissance began._ London: Bodley Head.
+- al-Khalili, Jim 2010. _The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance._ London: Penguin.
+- Lowry, Martin 1979. _The World of Aldus Manutius: Business and Scholarship in Renaissance Venice._ Ithaca, New York: Cornell University Press.
+- Ohler, Norbert 1989. _The Medieval Traveller._ Martlesham, Suffolk: Boydell Press.
+- Rhodes, Neil & Sawday, Jonathan (eds) 2000. _The Renaissance computer: knowledge technology in the first age of print._ London: Routledge.
  
  
