@@ -12,7 +12,7 @@ category: fiction
 
 ***
 
-<img align="right" width="360" src="https://tachyonpublications.com/wp-content/uploads/2017/07/FreezeFrame-1.png" alt="">  
+<img align="right" width="240" src="https://tachyonpublications.com/wp-content/uploads/2017/07/FreezeFrame-1.png" alt="">  
 
 Words like gold to parsimonious Peter Watts.  Long distance starship - black hole power - on a wormhole construction mission.  Crew in frozen stasis most of the time, captain an AI.  Great ideas ("How do you stage a mutiny when you are only awake one day in a million?"). Taut, short, hard.  Proper SF.  
 
