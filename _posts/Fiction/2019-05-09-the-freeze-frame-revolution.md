@@ -17,4 +17,4 @@ category: fiction
 Words like gold to parsimonious Peter Watts.  Long distance starship - black hole power - on a wormhole construction mission.  Crew in frozen stasis most of the time, captain an AI.  Great ideas ("How do you stage a mutiny when you are only awake one day in a million?"). Taut, short, proper SF.  
 
 
-[Discussion here.](https://www.reddit.com/r/printSF/comments/8omjxm/spoilers_discussion_of_the_freezeframe_revolution/)
+[Discussion here](https://www.reddit.com/r/printSF/comments/8omjxm/spoilers_discussion_of_the_freezeframe_revolution/) but read the book first.
