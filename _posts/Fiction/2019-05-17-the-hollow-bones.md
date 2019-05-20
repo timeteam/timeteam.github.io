@@ -17,4 +17,4 @@ categories: ['fiction']
 
 An attempt at a cautionary "lesson" for collectors, for ambition in careers and so on, but one I found unconvincing and difficult to engage with.
 
-The real [Ernst Schäfer](https://en.wikipedia.org/wiki/Ernst_Sch%C3%A4fer) wasn't so different it seems, ornithologist,  claimed to be in the SS under duress, and became part of the Nazi diaspora to South America post-war (after being exonerated for war crimes). 
+The real [Ernst Schäfer](https://en.wikipedia.org/wiki/Ernst_Sch%C3%A4fer) wasn't so different it seems, ornithologist,  claimed to be in the SS under duress, but still became part of the Nazi diaspora to South America post-war (despite being exonerated for war crimes). 
