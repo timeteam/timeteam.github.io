@@ -13,7 +13,7 @@ categories: ['fiction']
 
 ***
  
-Thinly drawn characters and plot.  The Nazi-sponsored scientist-collector, his wife who has to attend Nazi bride school & give up her cultural activities for the regime. An expedition into unknown Tibet for ostensibly for science but really to seek validation for a loopy Aryan theory. 
+<img align="right" width="256" src="https://cdn2.penguin.com.au/covers/400/9780143788911.jpg" alt="">  Thinly drawn characters and plot.  The Nazi-sponsored scientist-collector, his wife who has to attend Nazi bride school & give up her cultural activities for the regime. An expedition into unknown Tibet for ostensibly for science but really to seek validation for a loopy Aryan theory. 
 
 An attempt at a cautionary "lesson" for collectors, for ambition in careers and so on, but one I found unconvincing and difficult to engage with.
 
