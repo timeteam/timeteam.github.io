@@ -10,8 +10,7 @@ category: [classics]
 <b>Leo Tolstoy</b> - _War and Peace_ 2010 (this edition), 1869 (first complete publication). Translated by Louse & Aylmer Maude, revised and edited with introduction by Amy Mandelker. Oxford: Oxford World Classics. 1350 pp.
 
 ***
-***
-<b>Irving Finkel</b> 2014. _The Ark Before Noah. Decoding the story of the Flood_.  London: Hodder & Stoughton. 421 pp.
+
 
 ***
 
