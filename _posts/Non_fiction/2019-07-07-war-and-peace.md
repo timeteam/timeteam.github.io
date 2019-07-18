@@ -11,9 +11,6 @@ category: [classics]
 
 ***
 
-
-***
-
 <img align="right" src="https://global.oup.com/academic/covers/uk/pop-up/9780199232765" alt=""> 
 Monumental, unclassifiable.  Neither a novel, nor a history, nor any one thing.  I recall reading somewhere that Tolstoy simply described it as "what I could write" or some such.  I think it is his cosmology, his model and realisation of the human universe, and maybe not just the human one.
 
