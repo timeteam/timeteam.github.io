@@ -2,7 +2,7 @@
 layout: post
 title: "Leo Tolstoy - War and Peace"
 date: 2019-07-07
-category: [classics]
+category: classics
 ---
 
 
