@@ -3,7 +3,7 @@ layout: post
 title: "Marcel Proust - In Search of Lost Time. Volume 1. Swann's Way"
 date: 2018-11-27
 published: true
-category: fiction
+category: classics
 ---
 
 
