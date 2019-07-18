@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "David Spiegelhalter - he Art of Statistics"
+title: "David Spiegelhalter - The Art of Statistics"
 date: 2019-07-12
 published: true
 categories: ['mathematics and physics']
