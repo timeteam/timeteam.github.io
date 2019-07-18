@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prue Shaw - Reading Dante*"
+title: "Leo Tolstoy - War and Peace"
 date: 2019-07-07
 category: [classics]
 ---
