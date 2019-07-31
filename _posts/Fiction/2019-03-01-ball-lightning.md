@@ -16,6 +16,6 @@ category: fiction
 
 In the grand tradition of hard science fiction this is full of original great ideas, plausible (to non-physicists, at least) physics back-story and a bit of a page-turner yarn.  But it is all set in a pretty thin novel with skeletal characters, as is also traditional with most hard SF.  The translation, almost child-like in parts, hasn't done it any favours either.  There are wars, social upheaval, hints of actual human relationships all going on but although this background is as central to the story as the physics, it is barely acknowledged, let alone developed.  
 
-In the afterword the author explains that this is a sort of prequel to the _Three-Body Problem_ and was written to appeal to a Chinese audience.  I guess that explains a fascination with weapons and warfare.
+In the afterword the author explains that this is a sort of prequel to the _Three-Body Problem_ and was written to appeal to a [young?] Chinese audience.  Does that explain a fascination with weapons and warfare?
 
 Nevertheless, well worth the immersion just to experience the scope and originality of Cixin Liu's ideas again.
