@@ -20,7 +20,9 @@ Not as interesting as I thought it should have been, and not as interesting as I
 The most interesting parts are those that explore the ideas of J. Richard Gott III, which more Copernican than Bayesian: he concludes that there is a 95% chance of human extinction within 9,120 years.  I found the explanation of this on [wikipedia](https://en.wikipedia.org/wiki/Doomsday_argument) to be easier to follow than Poundstone's.  Probably because it is lighter on thought experiments which Poundstone uses so liberally that I found them tiresome by the end.  But I'm going to read Gott in his own words soon, especially
 
 Gott, J. Richard III 1993. Implications of the Copernican principle for our future prospects. _Nature_ 363 (6427): 315–319.
-  
+
+Depending on one's outlook, it is either a strength or a weakness of this line of argument that there is no consideration whatsoever of causal explanations of the events being predicted in this book; it is all purely empirical Bayesian probability theorising. I suppose the Butterfly-effect unpredictability of complex phenomena is a good argument for settling on an empirical approach. 
+
 Other valuable insights are that the likely lifetime (and profitable span for investors) of a company is best predicted by the present age of a company.  Warren Buffet's best 10 investment companies have ages of 234 and 42 years (only 2 are younger than 100 years and one of those is Apple). 
 
 Another appealing moment is the artwork that forms the frontispiece: Mark Tansey's [Achilles and the Tortoise](https://www.wikiart.org/en/mark-tansey/achilles-and-the-tortoise-1986).  Poundstone has an engaging explanation but there are [others](https://dnla77.wordpress.com/2015/11/15/an-interpretation-mark-tanseys-achilles-and-the-tortoise-forward-retreat/).
