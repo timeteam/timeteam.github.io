@@ -8,12 +8,22 @@ category: classics
 
 
 ***
-<b>Gerald Murnane</b> 2017. _Border Districts_. New York: The Modern Library.
+<b>Gerald Murnane</b> 2017. _Border Districts_. Artamon: Giramondo Publishing Company. 164 pp.
 
 ***
 
 <img align="right" width="360" src="https://giramondopublishing.com/wp-content/uploads/Border-Districts-cover-for-web-1-510x799.jpg" alt="">  
 
-An admirer has compared Gerald Murnane with Beckett but more like Proust than anything I have read, and even more introspective, withdrawn.  Accomplished and assured language but riven with minutiae and recursion which ascends from device to distraction to annoyance.  
+An admirer has compared Gerald Murnane with Beckett but more like Proust than anything I have read, and even more introspective, withdrawn.  Could mistakenly be thought of as neurotic but too genuine and accomplished to be dismissed so easily.  Assured language but riven with minutiae and recursion which ascends from device to distraction to annoyance.  It is moot whether the author ventures far (as he intends), or barely at all (as he pretends).  Nevertheless he is always in a border district, however it seems to me a border between not a lot and not much else.  
 
->I feel that there is much to be said for the Celtic belief that the souls of those whom we have lost are held captive in some inferior being, in an animal, in a plant, in some inanimate object, and thus effectively lost to us until the day (which to many never comes) when we happen to pass by the tree or to obtain posession of the object which forms their prison ... and as soon as we have recognised them the spell is broken.  Delivered by us, they have overcome death and return to share our life.
+Gerald Murnane variously encapsulates himself:
+
+> In the unimaginable circumstance that I were writing a work of fiction ... (p. 15)
+
+> Alone at my desk, however, and especially while writing a report such as this, I become what many would describe as an eccentric or a misfit. (p. 147)
+
+And especially:
+
+> ... I have learned to trust the promptings of my mind, which urges me sometimes to study in all seriousness matters that another person might dismiss as unworthy, trivial, childish. (p. 19)
+
+This is Murnane's most recent book.  And, he has said, his last.  In time I will try another.
