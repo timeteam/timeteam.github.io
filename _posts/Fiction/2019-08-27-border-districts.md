@@ -14,7 +14,7 @@ category: classics
 
 <img align="right" width="360" src="https://giramondopublishing.com/wp-content/uploads/Border-Districts-cover-for-web-1-510x799.jpg" alt="">  
 
-An admirer has compared Gerald Murnane with Beckett but more like Proust than anything I have read, and even more introspective, withdrawn.  Could mistakenly be thought of as neurotic but too genuine and accomplished to be dismissed so easily.  Assured language but riven with minutiae and recursion which ascends from device to distraction to annoyance.  It is moot whether the author ventures far (as he intends), or barely at all (as he pretends).  Nevertheless he is always in a border district, however it seems to me a border between not a lot and not much else.  
+An admirer has compared Gerald Murnane with Beckett but surely he is far more like Proust than anything else I have read, but even more introspective, withdrawn.  Could mistakenly be thought of as neurotic but too genuine and accomplished to be dismissed so easily.  Assured language but riven with minutiae and recursion which ascends from device to distraction to annoyance.  It is moot whether the author ventures far (as he intends), or barely at all (as he pretends).  Nevertheless he is always in a border district, however it seems to me a border between not a lot and not much else.  
 
 Gerald Murnane variously encapsulates himself:
 
