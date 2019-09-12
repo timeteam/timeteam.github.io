@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robert Macfarlane - The Dun Cow Rib"
+title: "Robert Macfarlane - The Wild Places"
 date: 2019-09-12
 published: true
 categories: ['biography and memoir']
@@ -9,7 +9,7 @@ categories: ['biography and memoir']
 
 
 ***
-<b>Robert Macfarlane</b> 2007. _The Dun Cow Rib. A very natural childhood_. Canongate: Edinburgh, 355 pp.
+<b>Robert Macfarlane</b> 2007. _The Wild Places_. Granta: London, 340 pp.
 
 ***
 <img align="right" width="120" src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+865124177_140.jpg?SearchOrder=+-+OT,OS,TN,GO,FA" alt="">  
