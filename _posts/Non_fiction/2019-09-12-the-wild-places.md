@@ -16,4 +16,4 @@ categories: ['biography and memoir']
 
 Gracefully written realisation of modest travels to some 'wild' places in Britain.  Even though often next to a road or with a cow skull or hedgerow as prominent feature, Robert Macfarlane manages to evoke some deeper imaginings out of not much.  A bit of Thoreau about this (a small slightly contrived wildness barely concealed within an ordinary rural surround). Seems churlish to be critical of Robert Macfarlane, rather like taking aim at Bambi, given that he has so rapidly earned membership of the rich British tradition of nature writers: Gilbert White, Gavin Maxwell, J.A. Baker, Richard Mabey, Roger Deakin and their worthy ilk).  
 
-But pleasant to read a themed chapter or two--Moor, Holloway, Saltmarsh etc--being the next best thing before sleeping than being in a real wild place.     
+Pleasant to read a themed chapter or two--Moor, Holloway, Saltmarsh and so on--being some sort of substitute, before sleeping, for  being in a real wild place.     
