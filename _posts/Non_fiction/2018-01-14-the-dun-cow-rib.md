@@ -12,7 +12,7 @@ categories: ['natural history', 'biography and memoir']
 <b>John Lister-Kaye</b> 2017. _The Dun Cow Rib. A very natural childhood_. Canongate: Edinburgh, 355 pp.
 
 ***
-<img align="right" width="256" src="https://d243y1uga1q3sn.cloudfront.net/assets/files/295579/the-dun-cow-rib-hardback-cover-9781786891457.600x0.jpg" alt="">  
+<img align="right" width="256" src="https://d243y1uga1q3sn.cloudfront.net/assets/files/327517/the-dun-cow-rib-paperback-cover-9781786891471.600x0.jpg" alt="">  
 
 More  childhood autobiography than natural history.  Great writing and a well-conceived childhood memoir that is above all a record of the stumbling yet inevitable path that the author trod to become a professional natural historian.  Along the way it is also a record of life in the Manor of a Scottish Laird, and yet another stake in the heart of the British private boarding school system, a system which nurtures not children, but bullies. 
 
