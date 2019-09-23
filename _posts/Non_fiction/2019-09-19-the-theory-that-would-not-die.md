@@ -9,7 +9,7 @@ categories: ['mathematics and physics']
 
 
 ***
-<b>Sharon Bertsch McGrayne</b> 2016. _TThe Theory That Would Not Die. How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy_. New Haven: Yale University Press, 320 pp.
+<b>Sharon Bertsch McGrayne</b> 2011. _TThe Theory That Would Not Die. How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy_. New Haven: Yale University Press, 320 pp.
 
 ***
 
