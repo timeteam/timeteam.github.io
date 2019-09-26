@@ -6,7 +6,7 @@ category: ['natural history']
 ---
 
 ***
-<b>Robin Wall Kimmerer</b> 2003 [2019 14th printing!]. _Gathering Moss. A natural and cultrual history of mosses_.  Corvallis: Oregon State University Press. 168 pp.
+<b>Robin Wall Kimmerer</b> 2003. _Gathering Moss. A natural and cultrual history of mosses_.  Corvallis: Oregon State University Press. 168 pp.
 
 ***
 
