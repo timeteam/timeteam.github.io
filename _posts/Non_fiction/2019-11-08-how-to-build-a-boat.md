@@ -15,7 +15,7 @@ categories: ['boats and sailing', 'biography and memoir']
 
 <img width="256" align="right" src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471164781/how-to-build-a-boat-9781471164781_lg.jpg" alt=""> 
 
-Memoir of Jonathan Gornall's building of a 10 foot clinker dinghy for his daughter.  Autobiographical elements include recounting of his 2 unsuccessful attempts to row across the North Atlantic, glimpses of a troubled childhood (unwanted son of a single alcoholic mother), and especially his new relationship and resulting three year old daughter on which he gratuitously projects himself  via "building a boat for his daughter".  Who doesn't want one of course.  
+Memoir of Jonathan Gornall's building of a 10 foot clinker dinghy for his daughter.  Autobiographical elements include recounting of his 2 unsuccessful attempts to row across the North Atlantic, glimpses of a troubled childhood (unwanted son of a single alcoholic mother), and especially his new relationship and resulting three year old daughter on which he gratuitously projects himself  via this "building a boat for his daughter" project.  Who doesn't want one of course.  
 
 Quite a nice little summary of clinker boatbuilding is interspersed with the personal memoir, as well as some interesting stuff about early history of clinker boatbuilding (principal pioneers being the Vikings).
 
