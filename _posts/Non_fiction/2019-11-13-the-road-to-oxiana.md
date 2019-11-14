@@ -9,7 +9,7 @@ categories: ['natural history', 'biography and memoir']
 
 
 ***
-<b>JRobert Byron</b> 1937. _The Road to Oxiana_. 1992 Penguin Travel Library: London, vii & 311 pp.
+<b>Robert Byron</b> 1937. _The Road to Oxiana_. 1992 Penguin Travel Library: London, vii & 311 pp.
 
 ***
 <img align="right" width="256" src="https://d3525k1ryd2155.cloudfront.net/h/520/273/1265273520.0.m.jpg" alt="">  
@@ -25,3 +25,5 @@ Joy in short sentences.
 Most of all, after such an epic journey, remember his closing words on returning to England.  Never has anyone, even Homer, better captured the return from a voyage:
 
 > At Paddington I began to feel dazed, dazed at the prospect of coming to a stop, at the impending immobility of a beloved home.  The collision happened; it was 19 1/2 days since we left Kabul.  Our dogs ran up.  And then my mother--to whom, now it is finished, I deliver the whole record; what I have seen she taught me to see, and will tell me if I have honoured it.
+
+RObert Byron died in 1941 when the ship in which he travelled was torpedoed by a U-boat off Scotland.
