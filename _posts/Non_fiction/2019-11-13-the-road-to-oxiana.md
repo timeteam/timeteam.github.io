@@ -9,7 +9,7 @@ categories: ['natural history', 'biography and memoir']
 
 
 ***
-<b>Robert Byron</b> 1937. _The Road to Oxiana_. 1992 Penguin Travel Library: London, vii & 311 pp.
+<b>Robert Byron</b> 1937. _The Road to Oxiana_. Penguin Travel Library edition (1992): London, vii & 311 pp.
 
 ***
 <img align="right" width="256" src="https://d3525k1ryd2155.cloudfront.net/h/520/273/1265273520.0.m.jpg" alt="">  
