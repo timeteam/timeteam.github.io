@@ -26,4 +26,4 @@ Most of all, after such an epic journey, remember his closing words on returning
 
 > At Paddington I began to feel dazed, dazed at the prospect of coming to a stop, at the impending immobility of a beloved home.  The collision happened; it was 19 1/2 days since we left Kabul.  Our dogs ran up.  And then my mother--to whom, now it is finished, I deliver the whole record; what I have seen she taught me to see, and will tell me if I have honoured it.
 
-RObert Byron died in 1941 when the ship in which he travelled was torpedoed by a U-boat off Scotland.
+Robert Byron died in 1941 when the ship in which he travelled was torpedoed by a U-boat off Scotland.
