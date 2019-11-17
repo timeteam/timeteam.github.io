@@ -20,6 +20,6 @@ The fundamental premise is that time is an illusion, and that reality is a creat
 
 All this cries out for a bit more physics.  One wishes Brad Crouch had consulted with Carlo Rovelli, who would surely have been on board with this brave attempt, and might have tried to stop the author taking thermodynomics quite so lightly.
 
-Nevertheless a top effort, and I'll be seekng out _Dark Matter_ by the same author.  I stick with one element of my initial impressions though: this ripping novel could have been even better (to hard SF enthusiasts) if the Blake Crouch backed off just a tad on the thriller component and instead beefed up the science fiction.
+Nevertheless a top effort, and I'll be seeking out _Dark Matter_ by the same author.  I stick with one element of my initial impressions though: this ripping novel could have been even better (to hard SF enthusiasts) if Blake Crouch backed off just a tad on the thriller component and instead beefed up the science in the science fiction.
 
 
