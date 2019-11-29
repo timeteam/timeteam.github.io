@@ -13,7 +13,7 @@ categories: ['nautical', 'biography and memoir']
 ***
 
 
-<img width="256" align="right" src="https://en.wikipedia.org/wiki/Pilgrim_(brig)#/media/File:Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg" alt="replica of the brib 'Pilgrim'in which Dana rounded the Horn east to west in 1835"> 
+<img width="256" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg/600px-Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg"  alt="replica of the brib 'Pilgrim'in which Dana rounded the Horn east to west in 1835"> 
 
 xxxxxxxxxxxxx xxxxxxxxxxxxxx
 
