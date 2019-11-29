@@ -3,7 +3,7 @@ layout: post
 title: "Arthur Ransome - Racundra's First Cruise"
 date: 2017-10-31
 published: true
-categories: ['boats and sailing', 'biography and memoir']
+categories: ['nautical', 'biography and memoir']
 ---
 
 
