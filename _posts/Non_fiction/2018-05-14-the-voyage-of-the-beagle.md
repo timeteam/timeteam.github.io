@@ -3,7 +3,7 @@ layout: post
 title: "James Taylor - The Voyage of the Beagle"
 date: 2018-05-14
 published: true
-categories: ['boats and sailing', 'biography and memoir']
+categories: ['nautical', 'biography and memoir']
 ---
 
 
