@@ -22,7 +22,4 @@ Above all the chapters describing what it took to round Cape Horn in winter on a
 
 A unique, unmatched classic, acutely and pragmatically observed, written with humility, beauty and simplicity, memorable to read. 
 
-
-<a title=""  img width="256" align="right" alt="" src=""> 
-
 <img width="800"  align="left" title="Replica of the 26 m brig Pilgrim in which Dana rounded the Horn east to west in 1835"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg/600px-Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg" alt="from https://en.wikipedia.org/wiki/Pilgrim_(brig)"> 
