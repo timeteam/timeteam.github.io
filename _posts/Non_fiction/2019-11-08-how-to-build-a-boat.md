@@ -3,7 +3,7 @@ layout: post
 title: "Jonathan Gornall - How to Build a Boat"
 date: 2019-11-08
 published: true
-categories: ['boats and sailing', 'biography and memoir']
+categories: ['nautical', 'biography and memoir']
 ---
 
 
