@@ -12,7 +12,7 @@ categories: ['nautical', 'biography and memoir']
 
 ***
 
-<a title="replica of the 26 m brig Pilgrim in which Dana rounded the Horn east to west in 1835"  img width="256" align="right" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg/600px-Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg"> 
+<img width="180" align="right" src="https://clzbooks.r.sizr.io/core/covers/lg/a0/a0_u265876_0_RichardHenryDana_TwoYearsBeforetheMastAPersonal.jpg" alt=""> 
 
 A compelling narrative, by an writer of great humility and humanity, and with a natural writer's grasp of language.  Nowadays a 20 year old student at Harvard with eyesight problems would visit an opthalmologist.  In 1835 Richard Henry Dana signed up for a 2 year sailing voyage round Cape Horn.  Time and again his understated narrative displays his willingness for adventure and unwillingness to shirk a duty, lest someone else should have to do it.  A progressive thinker before his time, Dana's eyesight never fails to recognise the plight of those around him who are wronged.
 
@@ -23,3 +23,6 @@ Above all the chapters describing what it took to round Cape Horn in winter on a
 A unique, unmatched classic, acutely and pragmatically observed, written with humility, beauty and simplicity, memorable to read. 
 
 
+<a title=""  img width="256" align="right" alt="" src=""> 
+
+<img width="800"  align="left" title="Replica of the 26 m brig Pilgrim in which Dana rounded the Horn east to west in 1835"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg/600px-Brig_Pilgrim_Dana_Point_Harbor_20081028.jpg" alt="from https://en.wikipedia.org/wiki/Pilgrim_(brig)"> 
