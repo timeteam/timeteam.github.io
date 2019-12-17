@@ -24,4 +24,4 @@ Weinberg's potted scientific biographies of Galileo and Newton, several pages ea
 
 > Any general principle of biology is what it is because of the fundamental princiles of physics together with historical accidents, which by definition can never be explained. (p. 267)
 
-Maybe the only disappointment is that Weinberg outs himself in passing as a cat person, and it is true he does have that look (eyebrows?).  But he can convey his deep understanding of physics and science with effortless simplicity and it is a wonderful book.
+Maybe the only disappointment is that Weinberg gratuitously outs himself as a cat person, and it is true he does have that look (eyebrows?).  But he can convey his deep understanding of physics and science with effortless simplicity and it is a wonderful book.
