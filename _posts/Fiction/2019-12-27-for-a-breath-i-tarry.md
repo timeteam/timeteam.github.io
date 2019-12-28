@@ -22,6 +22,6 @@ The Faustian character Frost is an AI in a world where humans [man] are extinct.
 
 Also to be located, Roger Zelazny's [Lord of Light](https://en.wikipedia.org/wiki/Lord_of_Light).
 
-Frost's AI partner, Beta [do I also detect a nod to Shelley's Frankestein?], is allowed the quote from which the splendid title is based: 
+Frost's AI partner, Beta [do I also detect a nod to Shelley's Frankestein?], is allowed the quote from which the title is drawn: 
 > Now - for a breath I tarry /  Nor yet disperse apart - / Take my hand quick and tell me, / What have you in your heart. [from A.E. Houseman, A Shorshire Lad]
 
