@@ -18,7 +18,8 @@ I think the reason I've been seeking this is due to mentions by researchers in A
 
 (Many other authors in this golden age SF anthology to be re-read: Isaac Asimov, J. G. Ballard, Alfred Bester, John W. Campbell, Arthur C. Clarke, Samuel R. Delany, Lester del Ray, Philip K. Dick, Thomas M. Disch, Harlan Ellison, Philiip José Farmer, Tom Godwin, Damon Knight, C. M. Kornbluth, Ursula K. Le Guin, Michael Moorcock, Robert Silverberg, Norman Spinrad, Theodore Sturgeon, A. E. Van Vogt.)
 
-The Faustian character Frost is an AI in a world where humans [man] are extinct.  Frost seeks to understand man, realises that to do so he must become human.  Allusions drawn from The Bible and from Goethe, as explained in the splendidly terse and informative [wikipedia page](https://en.wikipedia.org/wiki/For_a_Breath_I_Tarry). A strength is that much is left unexplained.  This is a reminder that many of the great themes and ideas in recent science fiction were already explored in the 1950s and 1960s.  
+The Faustian character Frost is an AI in a world where humans [man] are extinct.  Frost seeks to understand man, realises that to do so he must become human.  Roger Zelazny alludes to The Bible and Goethe, as explained in the splendidly terse and informative [wikipedia page](https://en.wikipedia.org/wiki/For_a_Breath_I_Tarry). A strength is that much is left unexplained.  This is a reminder that many of the great themes and ideas in recent science fiction were already explored in the 1950s and 1960s and this is a great anthology for exploring that.  
 
+Frost's AI partner, Beta [do I also detect a nod to Shelley's Frankestein?], is allowed the quote from which the splendid title is based: 
 > Now - for a breath I tarry /  Nor yet disperse apart - / Take my hand quick and tell me, / What have you in your heart. [from A.E. Houseman, A Shorshire Lad]
 
