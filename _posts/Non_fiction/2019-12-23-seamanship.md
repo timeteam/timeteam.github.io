@@ -23,3 +23,5 @@ But there will be ample reason to re-read this:
 
 > [quoting Gaston Bachelard, French philosopher, and surely Carlo Rovelli would concur:] "You cannot remember time; you can only remember the places in which time occurs." (p. 118)
 
+Personal pressures finally cause Adam Nicolson to leave the voyage at the northernmost extent, the Faeroes, where the long suffering skipper George and a Faeroese crewman sail the _Auk_ back to home port, near Lands End.
+
