@@ -8,7 +8,7 @@ categories: ['nautical', 'biography and memoir']
 
 
 ***
-<b>Adam Nicolson</b> 2004. _Seamanship. A voyage along hte wild coasts of the British Isles_. New York: Harper Collins, 180 pp.
+<b>Adam Nicolson</b> 2004. _Seamanship. A voyage along the wild coasts of the British Isles_. New York: Harper Collins, 180 pp.
 
 ***
 
