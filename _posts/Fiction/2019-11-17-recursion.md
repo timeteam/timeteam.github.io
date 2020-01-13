@@ -8,7 +8,7 @@ category: fiction
 
 
 ***
-<b>Blake Crouch</b> 2019. _TRecursion_. Macmillan: London. 329 pp.
+<b>Blake Crouch</b> 2019. _Recursion_. Macmillan: London. 329 pp.
 
 ***
 
