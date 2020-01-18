@@ -18,4 +18,6 @@ Henry Beston's intended wife wouldn't marry him until he had written this book, 
 
 Henry Beston is sort of like a Henry Thoreau but without the obsessive introspective philosophy which is replaced by an acutely informed and detailed knowledge of the flora and fauna.  And the past history of the Cape. Remains of [Pleistocene/Holocene forests](https://archive.boston.com/news/local/massachusetts/articles/2005/12/04/sunken_treasure/) are cast up on the beach occasionally, and the region must have a history as interesting as Dogger Land but perhaps less well known, at least there seems little evidence remaining of previous human settlements even though the geological history since the last ice age is [better known](https://www.sciencedirect.com/science/article/abs/pii/S0025322705003609?via%3Dihub).   
 
+The house was swept away by a storm in 1978 but there was a near miss in the time that Henry Beston lived in it, about 1925-1927.  
+
 
