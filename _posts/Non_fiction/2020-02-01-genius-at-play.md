@@ -6,7 +6,7 @@ category: ['mathematics and physics', 'biography and memoir']
 ---
 
 ***
-<b>Siobhan Roberts</b> 2015. _Genius at Play.  The curious Mind of John Horton Conway._ New York: Bloomsbury. 454 pp.
+<b>Siobhan Roberts</b>. 2015. _Genius at Play.  The curious Mind of John Horton Conway._ New York: Bloomsbury. 454 pp.
 
 ***
 <img align="right" src="https://media.bloomsbury.com/rep/bj/9781620405932.jpg" alt="" />
