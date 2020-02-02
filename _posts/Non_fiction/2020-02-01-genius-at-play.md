@@ -9,6 +9,7 @@ category: ['mathematics and physics', 'biography and memoir']
 <b>Siobhan Roberts</b> 2015. _Genius at Play.  The curious Mind of John Horton Conway_ New York: Bloomsbury. 454 pp.
 
 ***
+<img align="right" src="https://media.bloomsbury.com/rep/bj/9781620405932.jpg" alt="" />
 
 
 Probably the best maths book imaginable to show close to the world mathematicians explore, and for which "reality' is perhaps just an approximation, or one possible iteration. A very good book is memorable because of the new worldthe reader is exposed to. This then is a very very very good book because it is a remarkable matematiciian talking about his long productive life working on many remarkable mathematical disciplines, and written by a very good biographer who herself totally in command of the mathematical concepts. You would not want to miss reading this.
