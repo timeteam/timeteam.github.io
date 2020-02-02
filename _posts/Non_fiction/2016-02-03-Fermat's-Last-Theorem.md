@@ -10,15 +10,15 @@ category: ['mathematics and physics', 'biography and memoir']
 
 ***
 
-Not just a popular account of the efforts of multiple mathematicians to solve **Pierre de Fermat**'s Last Theorem, but, and for me primarily, a splendid introduction to the rarified atmosphere of mathematicians working on number theory.
+Not just a popular account of the efforts of multiple mathematicians to solve Pierre de Fermat's Last Theorem, but, and for me primarily, a splendid introduction to the rarified atmosphere of mathematicians working on number theory.
 
-**Fermat**'s Last Theorem was more properly a conjecture, since from the time **Fermat** stated it in 1637 as a marginal annotation in an older text, and for the next 358 years, it remained unproven.  The Theorem states:
+Fermat's Last Theorem was more properly a conjecture, since from the time Fermat stated it in 1637 as a marginal annotation in an older text, and for the next 358 years, it remained unproven.  The Theorem states:
 
 >there are no whole number solutions for the equation: _x_<sup>n</sup> + _y_<sup>n</sup> = _x_<sup>n</sup> where n is any number greater than 2
 
-(If n=2 then it becomes **Pythagoras**' Theorem which describes the relationship between the sides of a right-angled triangle: _x_<sup>2</sup> + _y_<sup>2</sup> = _z_<sup>2</sup>.)
+(If n=2 then it becomes Pythagoras' Theorem which describes the relationship between the sides of a right-angled triangle: _x_<sup>2</sup> + _y_<sup>2</sup> = _z_<sup>2</sup>.)
 
-**Fermat**'s marginal annotation stated (in Latin)
+Fermat's marginal annotation stated (in Latin)
 
 >I have a truly marvellous demonstration of this proposition which this margin is too narrow to contain.
 
