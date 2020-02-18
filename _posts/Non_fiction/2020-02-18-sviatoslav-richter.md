@@ -29,7 +29,7 @@ The first half of this book is the transcript (and more) of Bruno's film; the 2n
 
 When he returned after the siege in 1945 he found the people a mood of exhilaration but found himself
 
-> nauseated [and the city] utterley banal
+> nauseated [and the city] utterly banal
 
 It is a compelling memoir to read, on account of the singular nature of Richter's genius (all his energies totally devoted to music with no time for trivial events such as the death of Stalin or the coming of World War II to Russia).  And also for his the acute wit with which he delivers frank and often funny assessments of the many great musicians and composers he knew (Shostakovich, Prokofiev, Oistrakh, Gilels, von Karajan, Britten).
 
