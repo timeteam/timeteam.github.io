@@ -17,7 +17,7 @@ categories: ['art and music', 'biography and memoir']
 
 > I suffer from a terrifying non-selective memory that haunts me.
 
-This from a pianist who could learn and memorise Book I of the Well-Tempered Clavier in 4 days, who had 80 concerts committed to memory.   (Be careful what you wish for, says he that writes these notes mainly as a backstop against a poor memory.)
+This from a pianist who could learn and memorise Book I of the _Well-Tempered Clavier_ in 4 days, who had 80 concerts committed to memory.   (Be careful what you wish for, says he that writes these notes mainly as a backstop against a poor memory.)
 
 On the other hand, I've read elsewhere that Richter reputedly had the entire Western piano cannon of the past 200 years in his head, but he makes it clear in the converstations with Bruno Monsaingeon recounted in this book that such is not the case:
 
