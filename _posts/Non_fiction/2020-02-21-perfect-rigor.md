@@ -6,7 +6,7 @@ category: ['mathematics and physics', 'biography and memoir']
 ---
 
 ***
-<b>Masha Gessen</b>. 2015. _Perfect Rigor.  A genius and the mathematical breakthrough of the century._ New York: Houghton Mifflin Harcourt. 242 pp.
+<b>Masha Gessen</b>. 2009. _Perfect Rigor.  A genius and the mathematical breakthrough of the century._ New York: Houghton Mifflin Harcourt. 242 pp.
 
 ***
 <img align="right" src="https://d3myrwj42s63no.cloudfront.net/300/978/015/101/406/4/9780151014064.jpg" alt="" />
