@@ -9,7 +9,7 @@ categories: ['art and music', 'biography and memoir']
 
 
 ***
-<b>Haruki Murakami</b> 2017. _Absolutely on Music. Conversations with Seiji Ozawa._  Translated by Jay Rubin. London: Harvill Secker ebook.
+<b>Haruki Murakami</b>. 2017. _Absolutely on Music. Conversations with Seiji Ozawa._  Translated by Jay Rubin. London: Harvill Secker ebook.
 
 ***
 
