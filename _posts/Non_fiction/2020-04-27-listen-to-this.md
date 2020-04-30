@@ -13,7 +13,7 @@ categories: ['art and music']
 
 ***
 
-<img align="right" src="https://alexrossmusic.typepad.com/.a/6a00d83451cb2869e2015390a352fb970b-pi"  width="256"  alt="" />
+<img align="right" src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+238721091_140.jpg"  width="256"  alt="" />
 
 First read this in 2011, returned to it regularly, in 2020 re-read the first 3 chapters, then Mozart, Esa-Pekka Solonen, Schubert, Verdi and the last, _Blessed are the sad_ (Brahms). The table of contents:
 
