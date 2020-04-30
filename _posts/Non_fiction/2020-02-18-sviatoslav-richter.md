@@ -23,7 +23,7 @@ On the other hand, I've read elsewhere that Richter reputedly had the entire Wes
 
 > In any case, what's the point of cluttering up your brain when there are far beter things to do?
 
-The first half of this book is the transcript (and more) of Bruno's film; the 2nd part is Richter's notes on performances, works, recordings, composers & musicians. Much guidance to be found especially for Prokofiev and other Russian music, but opinions need qualifying with his remarkable recollection of wartime Leningrad under bombing with frozen bodies in the street: 
+The first half of this book is the transcript (and more) of Bruno's film; the 2nd part is Richter's notes on performances, works, recordings, composers & musicians. Much guidance to be found especially for Prokofiev and other Russian music, but opinions need qualifying with his remarkable and disturbing recollection of wartime Leningrad under bombing with frozen bodies in the street: 
 
 >the city was beautiful, mysterious ... 
 
@@ -31,6 +31,6 @@ When he returned after the siege in 1945 he found the people a mood of exhilarat
 
 > nauseated [and the city] utterly banal
 
-It is a compelling memoir to read, on account of the singular nature of Richter's genius (all his energies totally devoted to music with no time for trivial events such as the death of Stalin or the coming of World War II to Russia).  And also for his the acute wit with which he delivers frank and often funny assessments of the many great musicians and composers he knew (Shostakovich, Prokofiev, Oistrakh, Gilels, von Karajan, Britten).
+Not the responses of a normal human being.  It is a compelling memoir to read, on account of the singular nature of Richter's genius (all his energies totally devoted to music with no time for trivial events such as the death of Stalin or the coming of World War II to Russia).  And also for his the acute wit with which he delivers frank and often funny assessments of the many great musicians and composers he knew (Shostakovich, Prokofiev, Oistrakh, Gilels, von Karajan, Britten).
 
 The second ~200 pages is a transcript of Richter's  _On Music_ which are notes on concerts (his and others') and recordings over the years 1970-1995.  This is followed by an exhaustive tabulation of Richter's vast number of performances from his first public recital in 1934 until his last concert 30 March 1995 (Haydn).  Then there is a short chronology of major events in Richter's life.  Thankfully there is a comprehensive index to make good use of the 2nd half of this irreplaceable volume.
