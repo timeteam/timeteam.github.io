@@ -13,4 +13,4 @@ category: fiction
 ***
 
 <img align="right" width="240" src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9781250191786.jpg>" 
-Another ripping yarn.  There is a touch of Douglas Adams about muderbot.
+Another ripping yarn.  There is a touch of Douglas Adams and a big dollop of Iain M. Banks about muderbot.
