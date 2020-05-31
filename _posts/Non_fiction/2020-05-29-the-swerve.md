@@ -26,4 +26,4 @@ Swerves also clearly anticipate the butterfly effect, although Stephen Greenblat
 
 It is pretty heady stuff, let alone in a manuscript written over two thousand years ago.  No wonder Christianity worked to ruthlessly to squash Epicureans and other pagans.  Science is taking a long time to win back this territory.
 
-On the other hand, it pays to keep in mind that to Lucretious a spherical earth was a ridiculous idea.    
+On the other hand, to Lucretius a spherical earth was a ridiculous idea.    
