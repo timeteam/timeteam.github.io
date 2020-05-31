@@ -24,6 +24,6 @@ The world and universe is made only of atoms, indivisible and indestructible but
 
 Swerves also clearly anticipate the butterfly effect, although Stephen Greenblatt doesn't mention this in the book he does so in interviews elsewhere.  He also implies that Bracciolini's rediscovery of Lucretius's manuscript and ideas was itself a swerve.  So the system is both recursive and chaotic.
 
-It is pretty heady stuff, let alone in a manuscript written over two thousand years ago.  No wonder Christianity worked to ruthlessly to squash Epicureans and other pagans.  Science is taking a long time to win back this territory.
+It is pretty heady stuff, let alone in a manuscript written over two thousand years ago.  No wonder Christianity worked to ruthlessly to squash Epicureans and other pagans.  A line pushed strongly by Stephen Greenblatt, and many others of course.  It is hard to disagree though, presented with this material. 
 
 On the other hand, to Lucretius a spherical earth was a ridiculous idea.    
