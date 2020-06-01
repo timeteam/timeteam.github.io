@@ -9,7 +9,7 @@ category: ['mathematics and physics']
 <b>Paolo Zellini</b>. 2020. _The Mathematics of the Gods and the Algorithms of Men. A Cultural History_ Allen Lane. 241 pp.
 
 ***
-<img align="right" src="https://cdn2.penguin.com.au/covers/original/9780241312179.jpg" alt="" />
+<img align="right" width=260 src="https://cdn2.penguin.com.au/covers/original/9780241312179.jpg" alt="" />
 
 A mixture of mathematics and philosophy, with heavy emphasis on the latter.  Tried several times to get into this but could make no headway, despite the enticing chapter titles: 
 
