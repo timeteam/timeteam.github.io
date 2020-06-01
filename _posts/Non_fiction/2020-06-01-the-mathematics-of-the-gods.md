@@ -19,11 +19,11 @@ Chapter 1 - Abstraction, Existence and Reality -
 Chapter 2 - Mathematics of the Gods
   > It is hard to say why and where mathematics first arose...  
 
-However after these promising starts the obscurity kicks in. An end unto itself for philosophers?  On better days I may have been able to what of these interesting topics are, in the end, addressed.  About the only thing I have taken away is that the progress of geometry in ancient India was driven by the need to expand small squares etc to agricultural size while preserving shape.  And that the same imperative drove at least some early mathematics/geometry in Sumer.  Whether or not Euclid built upon these advances or developed The Elements independently did not seem to be addressed.  Indeed, in Chapter 2 he writes
+However after these promising starts the obscurity kicks in. An end unto itself for philosophers?  On better days I may have been able to understand what aspects of these topics are, in the end, addressed.  About the only thing I have taken away is that the progress of geometry in ancient India was driven by the need to expand small squares etc to agricultural size while preserving shape.  And that the same imperative drove at least some early mathematics/geometry in Sumer.  Whether or not Euclid built upon these advances or developed The Elements independently did not seem to be addressed.  Indeed, in Chapter 2 Paolo Zellini writes:
 
 > ... Nietsche denounces the wieighing down, the deep weariness that can result from a gaze cast systematically towards the past.
 
 However it is hard to take this seriously given that the author then spends a large part of this book with his own gaze cast systematically towards mathematics and philosophy in the past.
 
-Paolo Zellini's first book, _A Brief History of Infinity_ gets a rave review from Italo Calvino so perhaps I will try that one day.
+This is Paolo Zellini's second book translated into English.  The first, _A Brief History of Infinity_, gets a rave review from Italo Calvino so perhaps I will try that one day.
 
