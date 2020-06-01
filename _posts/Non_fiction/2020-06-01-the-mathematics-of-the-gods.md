@@ -23,7 +23,7 @@ However after these promising starts the obscurity kicks in. An end unto itself 
 
 > ... Nietsche denounces the wieighing down, the deep weariness that can result from a gaze cast systematically towards the past.
 
-However it is hard to take this seriously given that the author then spends many pages investigating mathematics and philosophy in the past.
+However it is hard to take this seriously given that the author then spends a large part of this book with his own gaze cast systematically towards mathematics and philosophy in the past.
 
 Paolo Zellini's first book, _A Brief History of Infinity_ gets a rave review from Italo Calvino so perhaps I will try that one day.
 
