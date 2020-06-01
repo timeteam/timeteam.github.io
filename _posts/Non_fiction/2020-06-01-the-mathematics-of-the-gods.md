@@ -19,7 +19,7 @@ Chapter 1 - Abstraction, Existence and Reality -
 Chapter 2 - Mathematics of the Gods
   > It is hard to say why and where mathematics first arose...  
 
-However after these promising starts the obscurity kicks in. An end unto itself for philosophers?  On better days I may have been able to understand what aspects of these topics are, in the end, addressed.  About the only thing I have taken away is that the progress of geometry in ancient India was driven by the need to expand small squares etc to agricultural size while preserving shape.  And that the same imperative drove at least some early mathematics/geometry in Sumer.  Whether or not Euclid built upon these advances or developed The Elements independently did not seem to be addressed.  Indeed, in Chapter 2 Paolo Zellini writes:
+However after these promising starts the obscurity kicks in. An end unto itself for philosophers?  On better days I may have been able to understand what aspects of these topics are, in the end, addressed.  About the only thing I have taken away is that the progress of geometry in ancient India was driven by the need to expand small squares etc to agricultural size while preserving shape.  And that the same imperative drove at least some early mathematics/geometry in Sumer.  Whether or not Euclid built upon these advances or developed _The Elements_ independently did not seem to be addressed.  Indeed, in Chapter 2 Paolo Zellini writes:
 
 > ... Nietsche denounces the wieighing down, the deep weariness that can result from a gaze cast systematically towards the past.
 
