@@ -159,6 +159,8 @@ Error message and password prompt
 
 <li>$:/config/RelinkOnRename</li>
 
+<li>$:/config/TextEditor/EnableToolbar</li>
+
 <li>$:/ControlPanel</li>
 
 <li>$:/core</li>
@@ -245,9 +247,9 @@ Error message and password prompt
 
 <li>Alfred Brendel</li>
 
-<li>All works</li>
-
 <li>all works</li>
+
+<li>All works</li>
 
 <li>Amilcare Ponchielli</li>
 
@@ -456,6 +458,8 @@ Error message and password prompt
 <li>Dmitry Kabalevsky</li>
 
 <li>Domenico Scarlatti</li>
+
+<li>Draft of 'all works'</li>
 
 <li>Draft of 'Schubert - D.664 Piano Sonata No. 13 in A major'</li>
 
@@ -894,6 +898,9 @@ Error message and password prompt
 <pre>hide</pre>
 </div>
 <div created="20200213123712413" modified="20200509050516484" title="$:/config/RelinkOnRename">
+<pre>yes</pre>
+</div>
+<div created="20200529042140321" modified="20200529042141281" title="$:/config/TextEditor/EnableToolbar">
 <pre>yes</pre>
 </div>
 <div color="#bbb" created="20200426134227038" icon="$:/core/images/options-button" modified="20200512001606351" title="$:/ControlPanel">
@@ -10103,7 +10110,7 @@ Error message and password prompt
     &quot;tiddlers&quot;: {
         &quot;Untitled&quot;: {
             &quot;title&quot;: &quot;Untitled&quot;,
-            &quot;text&quot;: &quot;Schubert - D9 Fantasy in G minor&quot;
+            &quot;text&quot;: &quot;&lt;$list filter=\&quot;[tag[work]] +[sort[creationyear]]\&quot;&gt;\n&lt;$link&gt;{{!!title}}&lt;/$link&gt; - &lt;span style=\&quot;font-weight: bold;\&quot;&gt; &lt;/span&gt; {{!!creationyear}} &lt;br&gt;\n&lt;/$list&gt;&quot;
         }
     }
 }</pre>
@@ -10141,8 +10148,8 @@ Error message and password prompt
 <div created="20200428135721845" modified="20200428135734260" title="$:/state/tab--1498284803">
 <pre>$:/core/ui/AdvancedSearch/Standard</pre>
 </div>
-<div created="20200215101156084" modified="20200426134405384" title="$:/state/tab--1963855381">
-<pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
+<div created="20200215101156084" modified="20200529042219176" title="$:/state/tab--1963855381">
+<pre>$:/core/ui/ControlPanel/StoryView</pre>
 </div>
 <div created="20200215102315296" modified="20200215102315296" title="$:/state/tab--86143343">
 <pre>$:/core/ui/ControlPanel/Plugins/Installed/Themes</pre>
@@ -10150,8 +10157,8 @@ Error message and password prompt
 <div created="20200222123224253" modified="20200222123228717" title="$:/state/tab-1163638994">
 <pre>$:/core/ui/MoreSideBar/Plugins/Languages</pre>
 </div>
-<div created="20200213112629612" modified="20200512001409268" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Info</pre>
+<div created="20200213112629612" modified="20200529042155448" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Appearance</pre>
 </div>
 <div created="20200512001515102" modified="20200512001517421" title="$:/state/tab-215529619">
 <pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
@@ -10162,10 +10169,10 @@ Error message and password prompt
 <div created="20200222122130596" modified="20200503020758644" title="$:/state/tab/moresidebar-1850697562">
 <pre>$:/core/ui/MoreSideBar/Drafts</pre>
 </div>
-<div created="20200213112938658" modified="20200525094541569" title="$:/state/tab/sidebar--595412856">
+<div created="20200213112938658" modified="20200529042601347" title="$:/state/tab/sidebar--595412856">
 <pre>Contents</pre>
 </div>
-<div created="20200527105749701" list="[[Beethoven string quartets]] [[Beethoven - Op. 135 String Quartet No. 16 in F major]] [[Schubert quartets]] [[Schubert - D887 String Quartet in G major]] [[Schubert piano works]] [[Beethoven piano works]] [[piano works (chronological)]] [[piano works (by composer)]] [[Beethoven - Op. 111 Piano Sonata No. 32 in C minor]] [[Beethoven piano sonatas]] [[Beethoven - Op. 13 Piano Sonata No. 8 in C minor 'Pathétique']] [[Beethoven - Op. 78 Piano Sonata No. 24 in F sharp major 'à Thérèse']] [[Beethoven - Op. 57 Piano Sonata No. 23 in F minor 'Appassionata']] [[Beethoven - Op. 53 Piano Sonata No. 21 in C major 'Waldstein']] [[Beethoven - Op. 31, No. 1 Piano Sonata No. 16 in G major]] [[composers (alphabetical)]] [[Ludwig van Beethoven]] [[all works]]" modified="20200527120649338" title="$:/StoryList">
+<div created="20200528114008771" list="$:/ControlPanel Contents [[Draft of 'all works']] [[Beethoven piano sonatas]] [[composers (alphabetical)]]" modified="20200529042041528" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20200509005143974" modified="20200509005143974" title="$:/temp/advancedsearch">
@@ -10229,8 +10236,8 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20200215055010859" modified="20200525094006122" title="$:/temp/search">
-<pre>sonata</pre>
+<div created="20200215055010859" modified="20200528114005022" title="$:/temp/search">
+<pre>contents</pre>
 </div>
 <div created="20200213120524774" modified="20200213120524774" title="$:/theme">
 <pre>$:/themes/tiddlywiki/vanilla</pre>
@@ -10404,14 +10411,14 @@ Recordings:
 &lt;/$list&gt;
 </pre>
 </div>
-<div created="20200213124353363" modified="20200215041639614" tags="" title="All works">
-<pre>&lt;$list filter=[tag[work]sort[creationyear]]&gt;
-&lt;dt&gt;&lt;$link to=&lt;&lt;currentTiddler&gt;&gt;&gt;&lt;$view  field=title/&gt;&lt;/$link&gt;&lt;/dt&gt;
-&lt;/$list&gt;</pre>
-</div>
 <div created="20200215055735190" modified="20200426134001057" tags="TableOfContents" title="all works">
 <pre>&lt;$list filter=&quot;[tag[work]] +[sort[creationyear]]&quot;&gt;
 &lt;$link&gt;{{!!title}}&lt;/$link&gt; - &lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt; {{!!creationyear}} &lt;br&gt;
+&lt;/$list&gt;</pre>
+</div>
+<div created="20200213124353363" modified="20200215041639614" tags="" title="All works">
+<pre>&lt;$list filter=[tag[work]sort[creationyear]]&gt;
+&lt;dt&gt;&lt;$link to=&lt;&lt;currentTiddler&gt;&gt;&gt;&lt;$view  field=title/&gt;&lt;/$link&gt;&lt;/dt&gt;
 &lt;/$list&gt;</pre>
 </div>
 <div birthyear="1834" composername="Ponchielli" created="20200215102436533" modified="20200215103805602" tags="composer" title="Amilcare Ponchielli" year="1834">
@@ -11220,7 +11227,7 @@ Recordings:
 <div composername="Connesson" created="20200215040946944" creationyear="2002" modified="20200215095548896" tags="work" title="Connesson - Techno-parade for flute, clarinet and piano" year="2002">
 <pre></pre>
 </div>
-<div created="20200215100754565" list-before="$:/core/ui/SideBar/Open" modified="20200222121959525" tags="$:/tags/SideBar" title="Contents">
+<div created="20200215100754565" list-before="$:/core/ui/SideBar/Open" modified="20200529042650742" tags="$:/tags/SideBar" title="Contents">
 <pre>&lt;div class=&quot;tc-table-of-contents&quot;&gt;
 
 &lt;&lt;toc-selective-expandable 'TableOfContents'&gt;&gt;
@@ -11264,6 +11271,11 @@ Ralph Kirkpatrick's volume is the source.  on Internet Archive. Chronology of th
 Selected works:
 
 &lt;$list filter=&quot;[composername[ScarlattiD]]  +[tag[work]] +[sort[creationyear]]&quot;&gt;
+&lt;$link&gt;{{!!title}}&lt;/$link&gt; - &lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt; {{!!creationyear}} &lt;br&gt;
+&lt;/$list&gt;</pre>
+</div>
+<div created="20200215055735190" draft.of="all works" draft.title="all works" modified="20200529042513688" tags="TableOfContents" title="Draft of 'all works'">
+<pre>&lt;$list filter=&quot;[tag[work]] +[sort[creationyear]]&quot;&gt;
 &lt;$link&gt;{{!!title}}&lt;/$link&gt; - &lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt; {{!!creationyear}} &lt;br&gt;
 &lt;/$list&gt;</pre>
 </div>
