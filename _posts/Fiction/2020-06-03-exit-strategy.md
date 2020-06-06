@@ -8,7 +8,7 @@ category: fiction
 
 
 ***
-<b>Martha Wells</b> 2018. _Rogue Protocol (The Murderbot Diaries Volume 3)_. Tor ebook
+<b>Martha Wells</b> 2018. _Exit Strategy (The Murderbot Diaries Volume 4)_. Tor ebook
 
 ***
 
