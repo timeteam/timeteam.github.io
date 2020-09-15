@@ -15,17 +15,17 @@ categories: ['art and music', philosophy]
 
 <img align="right" src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780805071894.jpg"  width="256"  alt="">
 
-To get a trivial negative out of the way first, Bryan Magee takes delight in correcting many misconceptions of Wagner; it becomes a minor flaw of this indispensable book that he is so easily diverted towards shooting down in flames those who misunderstand Wagner, especially those who pontificate from a state of ignorance.  
+To get a trivial negative out of the way first, Bryan Magee takes delight in correcting many misconceptions folk have of Wagner; it becomes a minor flaw of this indispensable book that he is so easily diverted towards shooting down in flames those who misunderstand Wagner, especially those who pontificate from a state of ignorance.  
 
 The young Wagner had an impeccable cv as a left wing radical Marxist, hanging out with Bakunin, manned the barricades, exiled to Switzerland, lived in poverty (which hasn't stopped his reputation being kidnapped by those of opposite political persuasion).  And during this period wrote his first operas, and at an age even Mozart would have found precocious.   
 
-Philosophically Wagner turned from anarchists, especially Proudhon to Hegelians especially Feuerbach (philosophical materialism; gods don't create humans, humans create gods), then finally to Kant and especially Schopenhauer. Marxism (dialectic of perpetual change; property is theft) and Nietzsche (too young) influenced Wagner hardly at all.  
+Philosophically Wagner turned from anarchists, especially Proudhon to Hegelians especially Feuerbach (philosophical materialism; gods don't create humans, humans create gods), then finally to Kant and especially Schopenhauer. In contrast, despite close association, according to Magee Marxism (dialectic of perpetual change; property is theft) and Nietzsche (too young) influenced Wagner hardly at all.  
 
 The chapter The Philosophy of Schopenhauer is as good a summary as one could want of Schopenhauer (and Kant). And as short - 20 pages.  Schopenhauer disagreed with Kant's noumenal as a plural entity, and also rejected Kant's causal relationship between phenomenal and noumenal.  Thus for Schopenhauer phenomenal and noumenal are one entity, one reality, with the noumenon is the inner.  And that music has a unique access to expression of the noumenon.
 
-But, The Ring traverses Wagner's discovery and adoption of these ideas. The Ring libretto dates from Wagner's young revolutionary period, although his conversion to the philosophy of Schopenhauer caused Wagner to find new and different meaning in  the work, he realised this as a new music and left the libretto unchanged.  (Wagner did write, and discard, an explicit Schopehhaier ending - see p. 181.) 
+But, The Ring traverses Wagner's discovery and adoption of these ideas. The Ring libretto dates from Wagner's young revolutionary period, although his conversion to the philosophy of Schopenhauer caused Wagner to find new and different meaning in  the work, he realised this as a new music and left the libretto unchanged.  (Wagner did write, and discard, an explicit Schopehhauer ending - see p. 181.) 
 
-So the last half of The Ring, and Tristan, Mastersingers, Parsifal, are where Wagner turned his Shopenhaerian philosophy of art.  Hence the heart of the book is the chapter Metaphysics as Music, and the culmination of complete art form (opera) is for Wagner (and for Bryan Magee):
+So the last half of The Ring, and Tristan, Mastersingers, Parsifal, are where Wagner fully reasied Shopenhauerian philosophy in the form of his highest art and Schopenhaer's avowed most powerful medium: music.  Hence the heart of the book is the chapter Metaphysics as Music, and the culmination of complete art form (opera) is for Wagner (and for Bryan Magee):
 
 > giving expression to ultimate metaphisical insight, a thoroughly possessed hilosophical vision of the totality of what there is - than which, if it is valid, nothing could go deeper. (than Parsifal, that is, p. 212; also elaboration of the Schopenhauerian expression in Parsifal, p. 273, p. 283) 
 
