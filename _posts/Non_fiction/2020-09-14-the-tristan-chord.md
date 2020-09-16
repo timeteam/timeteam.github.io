@@ -9,7 +9,7 @@ categories: ['art and music', philosophy]
 
 
 ***
-<b>Bryan Magee/b>. 1978. _The Tristan Chord_  New York: Henry Holt and Company. 398 pp.
+<b>Bryan Magee</b>. 1978. _The Tristan Chord_  New York: Henry Holt and Company. 398 pp.
 
 ***
 
