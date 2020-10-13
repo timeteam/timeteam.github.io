@@ -19,5 +19,5 @@ The "other matters" referred to in the subtitle are mostly items of nonsense ver
 
 Alfred Brendel's essays on music here are less substantial than his previous writings.  Again understandable.  A short but informative piece on Haydn's _Seven Last Words_; an essay on compositions in major and minor keys; an essay which is both about Schubert's _Winterreise_ abd a book review of Ian Bostridge's _Schubert's Winter Journey: anatomy of an obsession_ (also published by Faber & Faber); and very interesting performance notes on Schumann's Piano Concerto (Brendel likes Dinu Lipatti's recording but not that of Alfred Cortot).
 
-the
+The longest essay is the final one, My Musical Life.  By design not autobiographical (no mention of Alfred Brendel's two wives and four children) but he clearly values his privacy.  There is some similarity with the career of Andras Schiff and even (just a bit) Richter, in that they negotiated the  second world war and aftermath, and shared a classical-romantic piano repertoire.  I'll need to find a 1933 recording of Chopin's Preludes by Alfred Cortot and Edwin Fischer's performance of Bach's F minor Concerto. Early in his career Brendel had 3 masterclasses from Edwin Fischer and never forgot it.
 
