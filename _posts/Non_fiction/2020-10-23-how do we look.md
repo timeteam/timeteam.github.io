@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mary Beard - How do we look"
-date: 2020-10-17
+date: 2020-10-23
 published: true
 categories: ["art and music", "history and pre-history"]
 
