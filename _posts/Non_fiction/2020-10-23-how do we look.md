@@ -9,7 +9,7 @@ categories: ["art and music", "history and pre-history"]
 
 
 ***
-<b>Mary Beard</b> How do we look?  _The eye of faith_. London: Profile Books. 240 pp.
+<b>Mary Beard</b> _How do we look?  The eye of faith_. London: Profile Books. 240 pp.
 
 ***
 
