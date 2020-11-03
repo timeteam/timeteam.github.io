@@ -19,4 +19,4 @@ First read this in 2009 but although I'd first encountered _The Wasteland_ in 19
 
 Re-reading in 2020, the desolation of _The Wasteland_ is prominent, re-created in a virtuoso science fiction epic and ripping yarn with deep philosophical undercurrents.   
 
-Even though I now know it was not T.S. Eliot's intent, the bits of _The Wasteland_ that I can conprehend still seem to me to be a response to the desolation of the  First World War, and it is hard not to see _Consider Phlebas_ also to be partly a commentary on war.  But a greater theme of the Culture novels, the humanity and morality of artificial intelligences, is instantly alive in this, the first.  
+Even though I now know it was not T.S. Eliot's intent, the bits of _The Wasteland_ that I can comprehend still seem to me to be a response to the desolation of the  First World War, and it is hard not to see _Consider Phlebas_ also to be partly a commentary on war.  But a greater theme of the Culture novels, the humanity and morality of artificial intelligences, is instantly alive in this, the first.  
