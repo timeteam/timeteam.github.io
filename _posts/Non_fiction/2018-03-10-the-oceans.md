@@ -2,7 +2,7 @@
 layout: post
 title: "Eelco J. Rohling - The Oceans"
 date: 2018-03-10
-categories: ['earth history', 'weather and climate']
+categories: ['earth moon and planets', 'weather and climate']
 ---
 
 
