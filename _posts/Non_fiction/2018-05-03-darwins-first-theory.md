@@ -3,7 +3,7 @@ layout: post
 title: "Rob Wesson - Darwin's First Theory"
 date: 2018-05-03
 published: true
-categories: ['earth, moon, planets', 'biography and memoir']
+categories: ['earth moon and planets', 'biography and memoir']
 
 ---
 
