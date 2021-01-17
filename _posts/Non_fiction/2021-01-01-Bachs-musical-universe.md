@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christof Wolff - Bach's Musical Universe"
-date: 2020-09-01
+date: 2021-01-01
 published: true
 categories: ['art and music', 'biography and memoir']
 
