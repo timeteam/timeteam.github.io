@@ -13,7 +13,7 @@ category: fiction
 ***
 
 <img align="right" width="240" src="https://i0.wp.com/www.tor.com/wp-content/uploads/2018/09/ZeroSumGame.jpg?fit=165%2C300&crop=0%2C0%2C100%2C251px&quality=100&ssl=1"> 
-It's a friller, but not a good one.  The character Cas Russell is an assassin-mathematician, gratuitously violent and the mathematics schtick is stupid and thin.
+Promoted as SF, but it's a friller, and not a good one.  The character Cas Russell is an assassin-mathematician, gratuitously violent and the mathematics schtick is ridiculous and thin.
 
 
 For some reason I had high expectations which were not met, not even close.
