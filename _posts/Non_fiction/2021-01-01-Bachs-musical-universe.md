@@ -9,7 +9,7 @@ categories: ['art and music', 'biography and memoir']
 
 
 ***
-<b>Christof Wolff/b>. 2020. _Bach's Musical Universe. The composer and his work_  New York: W.W. Norton. xvii & 410 pp.
+<b>Christof Wolff</b>. 2020. _Bach's Musical Universe. The composer and his work_  New York: W.W. Norton. xvii & 410 pp.
 
 ***
 
