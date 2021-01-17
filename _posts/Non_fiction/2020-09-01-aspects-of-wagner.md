@@ -3,7 +3,7 @@ layout: post
 title: "Bryan Magee - Aspects of Wagner"
 date: 2020-09-01
 published: true
-categories: ['art and music']
+categories: ['art and music', 'biography and memoir']
 
 ---
 
