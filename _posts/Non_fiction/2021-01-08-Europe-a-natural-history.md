@@ -3,7 +3,7 @@ layout: post
 title: "Tim Flannery - Europe. A natural history"
 date: 2021-01-08
 published: true
-categories: ['mathematics and physics', 'biology ecology and evolution']
+categories: ['biology ecology and evolution', 'history and pre-history']
 ---
 
 ***
