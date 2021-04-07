@@ -9,7 +9,7 @@ categories: ['art and music', 'biography and memoir']
 
 
 ***
-<b>Bryan Magee/b>. 1978. _Aspects of Wagner_  London: Granada Publishing. 109 pp.
+<b>Bryan Magee</b>. 1978. _Aspects of Wagner_  London: Granada Publishing. 109 pp.
 
 ***
 
