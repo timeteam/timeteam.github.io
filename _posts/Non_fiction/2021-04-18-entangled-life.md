@@ -3,7 +3,7 @@ layout: post
 title: "Merlin Sheldrake - Entangled Life"
 date: 2021-04-18
 published: true
-categories: ['biology ecology and evolution', 'mind and artificial intelligence']
+categories: ['biology ecology and evolution']
 
 ---
 
