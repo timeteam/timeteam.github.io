@@ -3,7 +3,7 @@ layout: post
 title: "Helen Macdonald - Vesper Flights"
 date: 2021-04-26
 published: true
-categories: ['natural history']
+categories: ['natural history', 'biography and memoir']
 
 ---
 
