@@ -3,7 +3,7 @@ layout: post
 title: "Robert Byron - The Road to Oxiana"
 date: 2019-11-13
 published: true
-categories: ['natural history', 'biography and memoir']
+categories: ['history and pre-history', 'biography and memoir']
 
 ---
 
