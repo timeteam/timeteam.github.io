@@ -6,12 +6,12 @@ date: 2021-10-14
 ---
 
 ***
-<b>Carlo Rovelli</b>. 2020. _There are places in the world where rules are less important than kindness._ Allen Lane. 220 pp.
+<b>Carlo Rovelli</b>. 2020. _There are places in the world where rules are less important than kindness._ Translated by Erica Segre and Simon Carnell. Allen Lane. 220 pp.
 
 ***
 <img align="right" width="240" src="https://www.penguin.co.uk/content/dam/prh/books/318/318988/9780241454688.jpg.transform/PRHDesktopWide_small/image.jpg" alt="" />
 
-A collection of essays, mostly from newspaper articles and the like.  The first few weren't uniformly interesting although they do add to the image of Carlo Rovelli as a true child of the 1960s.  
+Essays, mostly previously published as newspaper articles and the like.  The first few weren't uniformly interesting although they do add to the image of Carlo Rovelli as a true child of the 1960s.  
 
 The most intersting include _Dante, Einstein and the Three-Sphere_ in which it is explained that Dante used the same geometric shape  for his Paradiso as Einstein proposed for the geometry of the universe. Dante may have been inspired by the [Baptistry ceiling](https://en.wikipedia.org/wiki/Mosaic_ceiling_of_the_Florence_Baptistery).
 
