@@ -13,8 +13,7 @@ date: 2021-10-14
 
 A collection of essays, mostly from newspaper articles and the like.  The first few weren't uniformly interesting although they do add to the image of Carlo Rovelli as a true child of the 1960s.  
 
-The most intersting include _Dante, Einstein and the Three-Sphere_ in which it is explained that Dante used the same geometric shape  for his Paradiso as Einstein proposed for the geometry of the universe. Dante may have been inspired by the Baptistry ceiling: 
-<img align="left" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Florence_baptistery_ceiling_mosaic_7247px.jpg/380px-Florence_baptistery_ceiling_mosaic_7247px.jpg" alt="" />
+The most intersting include _Dante, Einstein and the Three-Sphere_ in which it is explained that Dante used the same geometric shape  for his Paradiso as Einstein proposed for the geometry of the universe. Dante may have been inspired by the [Baptistry ceiling](https://en.wikipedia.org/wiki/Mosaic_ceiling_of_the_Florence_Baptistery).
 
 Also good to read _The many errors of Einstein_ (you can't make omlettes withoug breaking eggs).
 
