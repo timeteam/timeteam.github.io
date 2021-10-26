@@ -19,4 +19,4 @@ Also good to read _The many errors of Einstein_ (you can't make omlettes withoug
 
 Others pointed to books that I'll now either try to read or at least am glad to know about:  Roger Penrose _The Road to Reality_, Ananyo Bhattacharya _The Man from the Future_, Roy Rappaport _Ritual and Religion in the Making of Humanity_, David Lewis _On the Plurality of Worlds_.
 
-A great collection of essays including a few to revisit.
+A thoughtfull collection of essays including a few to revisit.
