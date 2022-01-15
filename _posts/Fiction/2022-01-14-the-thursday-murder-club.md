@@ -12,7 +12,7 @@ category: fiction
 
 ***
 
-<img align="right" width="240" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FThursday-Murder-Club-Novel%2Fdp%2F1984880969&psig=AOvVaw1X83oam-gdqs8jpdCtkTwi&ust=1642304684303000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjexezrsvUCFQAAAAAdAAAAABAO"> 
+<img align="right" width="240" src="https://user-images.githubusercontent.com/15224593/149607662-977732b9-3ea7-4888-94c1-44a9324b71f7.png"> 
 Friendly, enjoyable and acutely observed crime fiction in which deaths among the residents of the retirement home where the Thursday Murder Club gathers are more real and believable than the murders they strive to solve.
 
 Richard Osman reveals himself to be a Nice Bloke and this would seem to be a picture of his preferred world rather than the real one.
