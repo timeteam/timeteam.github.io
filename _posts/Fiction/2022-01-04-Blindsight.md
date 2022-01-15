@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peter Watts - Blindsight"
-date: 2022-10-04
+date: 2022-01-04
 published: true
 category: fiction
 ---
