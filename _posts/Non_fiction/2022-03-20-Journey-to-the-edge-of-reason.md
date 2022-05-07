@@ -9,7 +9,7 @@ categories: ['mathematics and physics']
 
 
 ***
-<b>Stephen Budianshky</b> 2016. _Journey to the Edge of Reason. The life of Kurt Gödel_. London: Pelican, 448 pp.
+<b>Stephen Budianshky</b> 2021. _Journey to the Edge of Reason. The life of Kurt Gödel_. OUP, 355 pp.
 
 ***
 
