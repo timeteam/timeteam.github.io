@@ -3,7 +3,7 @@ layout: post
 title: "Stephen Budianshky - Journey to the Edge of Reason"
 date: 2022-03-20
 published: true
-categories: ['mathematics and physics']
+categories: ['mathematics and physics', 'biography and memoir']
 
 ---
 
