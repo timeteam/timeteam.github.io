@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Martha Wells - Fugitive Telemetry (The Murderbot Diaries Volume 6)"
-date: 2021-04-04
+date: 2022-07-11
 published: true
 category: fiction
 ---
