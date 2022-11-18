@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arkady and Boris Strugatsky - One Billion Years to the End of the World"
-date: 2022-07-11
+date: 2022-08-10
 published: true
 category: fiction
 ---
