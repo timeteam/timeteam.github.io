@@ -15,6 +15,6 @@ categories: ['mind and artificial intelligence', philosophy]
 
 <img align="right" width="250" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631114243l/58085215.jpg" alt="">  
 
-xxxx
+The title is accurate, as one would expect from a philosopher.  Each chapter starts out with familiar ideas but ends with challenging material.  Well explained, well written.
 
 Also see David Chalmers' [web site](http://consc.net/)
