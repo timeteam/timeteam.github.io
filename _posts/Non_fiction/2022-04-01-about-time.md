@@ -9,7 +9,7 @@ categories: ['history and prehistory']
 
 
 ***
-<b>David Rooney</b> 2021. _About Time - a history of civilisation in twelve clocks.  Dublin: Penguin Random House, 324 pp.
+<b>David Rooney</b> 2021. _About Time - a history of civilisation in twelve clocks_.  Dublin: Penguin Random House, 324 pp.
 
 ***
 
