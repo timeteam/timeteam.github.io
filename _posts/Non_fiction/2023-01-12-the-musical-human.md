@@ -15,4 +15,6 @@ categories: ['art and music']
 
 <img align="right" src="https://m.media-amazon.com/images/I/91Erh+4E5uL.jpg"  width="256"  alt="">
 
-Not sure what this is about, nor what the author is trying to say.  Most sentences and paragraphs are equally incomprehensible.  Based on the first three chapters, and the last, and a few random paragraphs in between, this is an blizzard of factlets, seemingly selected at random.  And plenty of arbitrary and poorly supported opinions.  And more than a few contradictions, such as "I yield to no one in my worship at Mozart's altar" then immediately proceeds to yield, heaps.
+Not sure what this is about, nor if even the author knows what he is trying to say.  
+
+Only managed to read the first three chapters, and the last, and a few random paragraphs in between.  Most sentences and paragraphs are equally incomprehensible, just a blizzard of factlets, seemingly selected at random.  And plenty of arbitrary and poorly supported opinions including more than a few contradictions, such as "I yield to no one in my worship at Mozart's altar" then immediately proceeds to yield, heaps.
