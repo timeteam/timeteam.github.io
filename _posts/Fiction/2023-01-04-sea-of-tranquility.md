@@ -8,11 +8,11 @@ category: fiction
 
 
 ***
-<b>Emily St. John Mandel</b> 2023. _Sea of Tranquility_. London: Picador.  523 pp.
+<b>Emily St. John Mandel</b> 2023. _Sea of Tranquility_. London: Picador.  255 pp.
 
 ***
 
 <img align="right" width="240" src="https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=705146&cat=default&size=large&id=51516">
 
-Billed as a time travel novel but really aims elsewhere: a stab at the simulation hypothesis.  Despite being an obvious a covid lockdown project and oblivious, or simply avoiding, some basic physics (like the impact of different gravities on travellers hopping between the earth and the moon) I loved it, a simple, elegantly told yarn across several centuries.  Well conceived, both the idea, the realisation, and the characters.
+Billed as a time travel novel but really aims elsewhere: at the simulation hypothesis.  Despite being an obvious covid lockdown project and oblivious, or simply avoiding, some basic physics (like the impact of different gravities on travellers hopping between the earth and the moon) I loved it. A simple, elegantly told yarn across several centuries.  Well conceived, both the idea, the realisation, and the characters.  Now to get hold of some of her other novels...
 
