@@ -14,7 +14,9 @@ categories: ['history and pre-history']
 ***
 
 <img align="right" src="https://reaktionbooks.co.uk/wp-content/uploads/2022/07/9781789144154-wpv_0x448.jpg"  width="256"  alt="">
-A compact and authoritative treatment of the Sumerians (well, it turns out no such ethnic group, probably, Sumerian was a language used by several peoples).  The final chapter contains  a summary of current knowledge, and the final 3 pages are a precis of the book.  The preceding chapters trace how this knowledge was arrived at, along the way providing a short history of thw involvement of foreign powers in Mesopotamia/Iraq-Iran over the past two centuries. Interpretations of the principal researchers were often influenced by political or racist agendas more than by the archaelogical evidence.
+A compact and authoritative treatment of the Sumerians (well, it turns out there probably was no such ethnic group, Sumerian was a language used by several peoples).  
+
+The final chapter contains  a summary of current knowledge, and the final 3 pages are a precis of the book.  The preceding chapters trace how this knowledge was arrived at, along the way providing a short history of thw involvement of foreign powers in Mesopotamia/Iraq-Iran over the past two centuries. Interpretations of the principal researchers were often influenced by political or racist agendas more than by the archaelogical evidence.
 
 Proto-cuneiform (currently not decoded) appeared ~3800-3500 BCE and then spread across southern Mesopotamia (Sumeria).
 
