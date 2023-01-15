@@ -23,3 +23,9 @@ Cuneiform tablets in Sumerian appear about 2800 BCE.  As noted elsewhere, initia
 The first literature (including stories of Bilgames, = Gilgamesh, by the Akkadian [northern, Semetic] people) about 2110-2000 BCE by which time Sumerian was a dying language.
 
 Concisely and objectively written, all the more powerful for allows the multiple human and archaelogical tragedies to speak for themselves.  Including the most recent attempted trashing of Iraq's archaeolgical heritage.  Lots of photographs of the fabulous objects  of which the most wonderful is the [Stele of Naran-Sin](https://en.wikipedia.org/wiki/Victory_Stele_of_Naram-Sin) which I sadly don't remember seeing in the Lourvre.  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/St%C3%A8le_de_Naram-Sin_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_4_%3B_AS_6065.jpg/450px-St%C3%A8le_de_Naram-Sin_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_4_%3B_AS_6065.jpg"  width="256"  alt="">
+
+
+| - | - |
+|---|---|
+| Stele of Naran-Sin. Musée du Louvre Antiquités orientales SB 4 discovered (Susa) / [Wikimedia commons](https://commons.wikimedia.org/wiki/File:St%C3%A8le_de_Naram-Sin_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_4_;_AS_6065.jpg) / [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
+
