@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paul Collins - The Musical Human"
+title: "Paul Collins - The Sumerians"
 date: 2023-01-14
 published: true
 categories: ['history and pre-history']
