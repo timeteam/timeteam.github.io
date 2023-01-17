@@ -2,6 +2,7 @@
 layout: post
 title: "Irving Finkel - The Ark Before Noah"
 date: 2014-03-23
+published: true
 category: ['history and pre-history']
 ---
 
