@@ -9,7 +9,7 @@ categories: ['weather and climate']
 ***
 <b>Naomi Oreskes and Erik M. Conway</b> 2010. - _Merchants of Doubt._  New York: Bloomsbury Press Press, 355 pp. 
 
-<img "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781608193943.jpg" align="right" width="256" src="" alt="">
+<img  align="right" width="256" "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781608193943.jpg" alt="">
 Not much of the scientific evidence here was new to me, but the extent of the political power brought to the task of distorting doubting and falsifying science was.
 
 A book with simple messages, supported by an compelling mass of evidence:
