@@ -3,7 +3,7 @@ layout: post
 title: "David Rooney - About Time"
 date: 2022-04-01
 published: true
-categories: ['history and prehistory']
+categories: ['history and pre-history']
 
 ---
 
