@@ -8,7 +8,7 @@ categories: ['biology ecology and evolution']
 
 
 ***
-<b>Sean B. Carroll</b> 2017. Serengeti Rules: The Quest to Discover How Life Works and Why It Matters_. Princeton: Princeton University Press, 288 pp.
+<b>Sean B. Carroll</b> 2017. _Serengeti Rules: The Quest to Discover How Life Works and Why It Matters_. Princeton: Princeton University Press, 288 pp.
 
 ***
 
