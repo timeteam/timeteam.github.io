@@ -19,7 +19,12 @@ Also crystalised the reasons for my dislike and distrust of news reporting in th
 
 Hans Rosling was a driven man and no doubt difficult to live with, as he admits.  He evidently thought nothing of dropping everything to go to some public health troublespot for weeks to months at a time.  
 
+
+In a nutshell, our biases and misconceptions are stuck in the past:
+
 <img align="right" src="http://timeteam.github.io/images/Gapminder_income_life_1956.png" alt="">
+
+... and need regular updates:
 
 <img align="right" src="http://timeteam.github.io/images/Gapminder_income_life_2022.png" alt="">
 
