@@ -8,7 +8,7 @@ category: fiction
 
 
 ***
-<b>John Updike</b> 1960, 2008 (Pengion edition). _Rabbit, Run_. London: Penguin.  299 pp.
+<b>John Updike</b> 1960 (2008 Penguin edition). _Rabbit, Run_. London: Penguin.  299 pp.
 
 ***
 
