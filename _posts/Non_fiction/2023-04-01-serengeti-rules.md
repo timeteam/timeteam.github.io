@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Serengeti Rules"
+title: "Sean Carroll - The Serengeti Rules"
 date: 2023-04-01
 published: true
 categories: ['biology ecology and evolution']
