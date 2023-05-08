@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Factfulness"
+title: "Hans Rosling, Anna Rosling Rönnlund, Ola Rosling - Factfulness"
 date: 2023-04-07
 published: true
 categories: ['mind and artificial intelligence']
@@ -8,7 +8,7 @@ categories: ['mind and artificial intelligence']
 
 
 ***
-<b>	Hans Rosling, Anna Rosling Rönnlund, Ola Rosling</b> 2018. _Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think_. New York: Flatiron Books, 342 pp.
+<b>Hans Rosling, Anna Rosling Rönnlund, Ola Rosling</b> 2018. _Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think_. New York: Flatiron Books, 342 pp.
 
 ***
 
