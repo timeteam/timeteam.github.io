@@ -9,7 +9,7 @@ categories: ["biography and memoir", technology]
 
 
 ***
-<b>James Essinger</b> 2014. _Ada's Algorithm. London: Melville House, 254  pp.
+<b>James Essinger</b> 2014. _Ada's Algorithm_. London: Melville House, 254  pp.
 
 ***
 <img align="right" width="320" src="https://www.jamesessinger.com/images/adas-algorithm.jpg" alt="">   
