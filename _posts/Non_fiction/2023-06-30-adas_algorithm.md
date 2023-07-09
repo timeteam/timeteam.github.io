@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "James Essinger - Ada's Algorith"
+title: "James Essinger - Ada's Algorithm"
 date: 2023-06-30
 published: true
 categories: ["biography and memoir", technology]
@@ -9,7 +9,7 @@ categories: ["biography and memoir", technology]
 
 
 ***
-<b>James Essinger</b> 2014. _Ada's Algorith. London: Melville House, 254  pp.
+<b>James Essinger</b> 2014. _Ada's Algorithm. London: Melville House, 254  pp.
 
 ***
 <img align="right" width="320" src="https://cdn2.mhpbooks.com/2014/07/Adas-Algorithm-235x268.jpg" alt="">   
