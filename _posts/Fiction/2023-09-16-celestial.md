@@ -12,7 +12,7 @@ category: fiction
 
 ***
 
-<img align="right" padding="10px 10px 10px 10px” width="240" src="https://www.gollancz.co.uk/wp-content/uploads/2019/08/hbg-title-9780575115255-50.jpg"> 
+<img style=”float: right; padding: 10px 10px 10px 10px;”  width="240" src="https://www.gollancz.co.uk/wp-content/uploads/2019/08/hbg-title-9780575115255-50.jpg"> 
 A psychological SF based in an alternate 1960s where an alien ship is found buried in the moon by the first lunar astronauts and cosmonauts. Little is disclosed about the alien civilisation other than it has been formative for human cultures and in the origin of human consciousness.  Anyway that's enough for this to work.  
 
 
