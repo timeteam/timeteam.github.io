@@ -11,6 +11,6 @@ category: fiction
 
 ***
 
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/56b7612c8a65e2ee4f2f3549/1620748965288-KQRD8V3AJT3WWRDE5XIV/B6D8501B-59E6-4142-B1B1-D083A2D815CF?format=1500w" alt=""> 
+<img align="right" width="240" src="https://images.squarespace-cdn.com/content/v1/56b7612c8a65e2ee4f2f3549/1620748965288-KQRD8V3AJT3WWRDE5XIV/B6D8501B-59E6-4142-B1B1-D083A2D815CF?format=1500w" alt=""> 
 
 This book of my youth, which i thought was so significant at the time, is unreadably bad.  Don't go back, at least not for Heinlein.  
