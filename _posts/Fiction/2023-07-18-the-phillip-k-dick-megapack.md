@@ -11,5 +11,5 @@ category: fiction
 
 ***
 
-<img align="right" src="https://m.media-amazon.com/images/I/51gPrYICgGL.jpg" alt=""> 
+<img align="right" width="240" src="https://m.media-amazon.com/images/I/51gPrYICgGL.jpg" alt=""> 
 Unlike Robert Heinlein, you CAN go back for Phillip K. Dick.  
