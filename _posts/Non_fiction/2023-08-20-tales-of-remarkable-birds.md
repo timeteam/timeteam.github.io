@@ -13,5 +13,5 @@ categories: ['natural history']
 
 ***
 
-<img align="right"  width="256" src="[https://cdn2.penguin.com.au/covers/original/9780241333938.jpg](https://mediacdn.nhbs.com/jackets/jackets_resizer_xlarge/21/214112.jpg)" alt="">  
+<img align="right"  width="256" src="https://mediacdn.nhbs.com/jackets/jackets_resizer_xlarge/21/214112.jpg" alt="">  
 Natural history portraits of a bunch of birds, drawn from world-wide locations.  Including one on cassowaries, thje reading of which coincided with my first sighting of one.  A pleasant book but didn't learn much, most chapters seemed to be chatty expansions of information that could be found in a couple of paragraphs in most bird guides.
