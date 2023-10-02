@@ -14,4 +14,4 @@ category: fiction
 
 <img align="right"  width="240"  src="https://www.booktopia.com.au/covers/900/9781405950800/6205/the-anomaly.jpg"> 
 
-An addition to the list of Nick Bostrom-inspired SF novels.  The ending is a stylistic indulgence but it conceals the author's simple and trite interpretation of the simulation hypothesis.
+An addition to the list of Nick Bostrom-inspired SF novels.  The ending is a stylistic indulgence but it conceals the author's somewhat trite and anthropomorphic interpretation of the simulation hypothesis.
