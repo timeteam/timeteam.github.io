@@ -9,6 +9,7 @@ categories: ['history and pre-history']
 ***
 
 <b>Lee Berger, John Hawks</b> 2023. _Cave of Bones._  Washington DC: National Geographic, 622 pp. 
+
 ***
 
 <img align="right" width="256"  src="https://cdn2.penguin.com.au/covers/original/9781426224140.jpg" alt="Book cover from Penguin Australia">
