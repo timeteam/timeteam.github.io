@@ -3,7 +3,7 @@ layout: post
 title: "Robert Sapolsky - Determined"
 date: 2024-01-12
 published: true
-categories: ['mind and artificial intelligence']
+categories: ['mind and artificial intelligence', philosophy]
 ---
 
 
