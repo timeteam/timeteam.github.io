@@ -8,7 +8,7 @@ categories: ['biography and memoir']
 
 
 ***
-<b>Trevor Hamley</b> 2023. _Vodka in a Vegemite Jar_. Brisbane: [self published](https://www.trevorhamley.com/), 247 pp.
+<b>Trevor Hamley</b> 2023. _Vodka in a Vegemite Jar_. Brisbane, self-published: [trevorhamley.com](https://www.trevorhamley.com/), 247 pp.
 
 ***
 
