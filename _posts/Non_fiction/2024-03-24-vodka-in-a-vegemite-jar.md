@@ -13,7 +13,7 @@ categories: ['biography and memoir']
 ***
 
 
-<img width="256" align="right" src="https://m.media-amazon.com/images/G/35/apparel/rcxgs/tile._CB483369938_.gif" alt=""> 
+<img width="256" align="right" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701824098i/203299093.jpg" alt=""> 
 
 Captivating narrative of adventures in Antarctica by old friend Trevor Hamley.  Most of the book is taken up by an epic 3,000 km round trip in 1983 from Russian station Mirny.  Trev's matter-of-fact delivery makes the whole thing more memorable and, to me, very much in the self-effacing style of the great Antarctic writer-adventurers (Cherry-Garrard, Shackleton et al). Good company to keep and surely Trev wouldn't have been out of place on those expeditions even if his modern day voyage maybe wasn't (quite) so dangerous.     
 
