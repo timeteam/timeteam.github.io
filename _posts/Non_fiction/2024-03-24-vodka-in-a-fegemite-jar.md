@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Trevor Hamley - Vodka in a Vegemite Jar"
+date: 2024-03-24
+published: true
+categories: ['biography and memoir']
+---
+
+
+***
+<b>Trevor Hamley</b> 2023. _Vodka in a Vegemite Jar_. Brisbane: [self published](https://www.trevorhamley.com/), 247 pp.
+
+***
+
+
+<img width="256" align="right" src="https://m.media-amazon.com/images/G/35/apparel/rcxgs/tile._CB483369938_.gif" alt=""> 
+
+Captivating narrative of adventures in Antarctica by old friend Trevor Hamley.  Most of the book is taken up by an epic 3,000 km round trip in 1983 from Russian station Mirny.  Trev's matter-of-fact delivery makes the whole thing more memorable and, to me, very much in the self-effacing style of the great Antarctic writer-adventurers (Cherry-Garrard, Shackleton et al). Good company to keep and surely Trev wouldn't have been out of place on those expeditions even if his modern day voyage maybe wasn't (quite) so dangerous.     
+
+Also see Trev's interview with another old friend at [Ice Coffee podcast](https://icecoffeepodcast.wordpress.com/2023/12/01/152-vodka-in-a-vegemite-jar-interview-with-trevor-hamley/)
