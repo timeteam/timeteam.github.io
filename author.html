@@ -1,21 +1,10 @@
 ---
 layout: default
 ---
-
-<!-- home class is nicer, replaced well class throughout <div class="well"> --->
-<div class="home">
-{% capture authors %}{% for author in site.authors %}{{ author | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign author = authors | split:',' | sort %}
-{% for item in (0..site.authors.size) %}{% unless forloop.last %}
-{% capture word %}{{ author[item] | strip_newlines }}{% endcapture %}
-<h2 class="author" id="{{ word }}">{{ word }}</h2>
 <ul>
-{% for post in site.authors[word] %}{% if post.title != null %}
-<li><span>{{ post.date | date: "%-d %b %Y" }}</span>» <a href="{{ site.baseurl}}{{ post.url }}">
-<!-- original date format <li><span>{{ post.date | date: "%b %d" }}</span>» <a href="{{ site.baseurl}}{{ post.url }}"> --->
-{{ post.title }}</a></li>
-{% endif %}{% endfor %}
+    {% for author in site.data.authors %}
+    <li>
+        {{ author[1].name }}
+    </li>
+    {% endfor %}
 </ul>
-{% endunless %}{% endfor %}
-<br/><br/>
-</div>
