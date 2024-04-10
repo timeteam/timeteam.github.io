@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{{ site.posts | where:"categories","fiction" }}
-{% for post in site.posts %}
-  <h2>{{ post.author }}</h2>
-  <p>Title: {{ post.title }}</p>
+
+{% for post in site.posts | where:"categories","fiction"  %}
+  <li><a href="{{ post.url }}">{{post.title}}</a></li> 
+
 {% endfor %}
