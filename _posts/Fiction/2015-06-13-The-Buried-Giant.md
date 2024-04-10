@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Kazuo Ishiguro - The Buried Giant"
+title: "The Buried Giant"
+author: "Kazuo Ishiguro"
 date: 2015-06-13
 category: fiction
 ---
