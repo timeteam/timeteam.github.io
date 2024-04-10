@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Iain M. Banks - Consider Phlebas"
+title: "Consider Phlebas"
+author: "Iain M. Banks"
 date: 2009-02-01
 published: true
 categories: [fiction]
