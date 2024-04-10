@@ -2,7 +2,7 @@
 layout: post
 ---
 
-{% for post in site.posts | where:"categories","fiction"  %}
+{% if post.categories == "fiction"%}
   <li><a href="{{ post.url }}">{{post.title}}</a></li> 
 
 {% endfor %}
