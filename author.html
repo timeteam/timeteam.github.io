@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-<ul>
-    {% for author in site.data.authors %}
-    <li>
-        {{ author[1].name }}
-    </li>
-    {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <h2>{{ post.author }}</h2>
+{% endfor %}
