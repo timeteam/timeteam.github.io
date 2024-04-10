@@ -2,8 +2,8 @@
 layout: post
 ---
 
-  {% if post.categories == "fiction" %}
+  {% for post in site.posts  %}
   <li><a href="{{ page.url }}">{{post.author}}</a></li>
-  {% endif %}
+  {% endfor %}
 
 
