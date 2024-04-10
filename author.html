@@ -2,7 +2,7 @@
 layout: post
 ---
 
-{% if post.categories == "fiction"%}
+{% if post.published == "true" %}
   <li><a href="{{ post.url }}">{{post.title}}</a></li> 
 
 {% endif %}
