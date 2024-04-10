@@ -2,7 +2,7 @@
 layout: post
 ---
 {% for post in site.posts %}
-  {% if post.title == "Consider Phlebas" %}
+  {% if post.categories == "fiction" %}
   <li><a href="{{ page.url }}">{{post.author}}</a></li>
   {% endif %}
 {% endfor %}
