@@ -7,12 +7,12 @@ layout: post
 <h1>Authors</h1>
 <hr>
 
+{% comment %}
 {% for author in posts.author %}
 <li><a href="{{ post.url }}">{{ post.author }} - {{ post.title }}</a></li>
 {% endfor %}
 
 
-{% comment %}
 {% assign sortedPosts = site.posts | sort: 'post.author' %}
 
 {% for post in sortedPosts %}
