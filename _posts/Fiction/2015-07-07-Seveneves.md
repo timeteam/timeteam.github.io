@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Neal Stephenson - Seveneves"
+author: "Neal Stephenson"
+title: "Seveneves"
 date: 2015-07-07
 category: fiction
 ---
